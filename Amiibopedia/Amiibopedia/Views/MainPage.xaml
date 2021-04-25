@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Amiibopedia.MainPage">
+
+    <StackLayout>
+        <SearchBar Placeholder="¡Busca tu Amiibo!"
+                   x:Name="search"
+                   SearchCommand="{Binding SearchComand}"
+                   SearchCommandParameter="{Binding Text, Source={x:Reference search}}"></SearchBar>
+        <ListView>
+            <ListView.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Mario</x:String>
+                    <x:String>Mario 2</x:String>
+                    <x:String>Mario 3</x:String>
+                    <x:String>Mario 4</x:String>
+                </x:Array>
+            </ListView.ItemsSource>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>
