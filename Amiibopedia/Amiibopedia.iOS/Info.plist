@@ -34,5 +34,20 @@
     <string>Amiibopedia</string>
     <key>XSAppIconAssets</key>
     <string>Assets.xcassets/AppIcon.appiconset</string>
+  <key>NSAppTransportSecurity</key>
+  <dict>
+    <key>NSAllowArbitraryLoads</key>
+    <true/>
+    <key>NSExceptionDomains</key>
+    <dict>
+      <key>amiiboapi.com</key>
+      <dict>
+        <key>NSIncludeSubdomains</key>
+        <true/>
+        <key>NSThridPartyExceptionRequiresForwardSecrecy</key>
+        <false/>
+      </dict>
+    </dict>
+  </dict>
 </dict>
 </plist>

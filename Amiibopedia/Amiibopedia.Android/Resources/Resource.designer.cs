@@ -25,6 +25,2713 @@ namespace Amiibopedia.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar1 = global::Amiibopedia.Droid.Resource.Drawable.Avatar1;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar10 = global::Amiibopedia.Droid.Resource.Drawable.Avatar10;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar11 = global::Amiibopedia.Droid.Resource.Drawable.Avatar11;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar12 = global::Amiibopedia.Droid.Resource.Drawable.Avatar12;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar13 = global::Amiibopedia.Droid.Resource.Drawable.Avatar13;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar14 = global::Amiibopedia.Droid.Resource.Drawable.Avatar14;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar15 = global::Amiibopedia.Droid.Resource.Drawable.Avatar15;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar16 = global::Amiibopedia.Droid.Resource.Drawable.Avatar16;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar17 = global::Amiibopedia.Droid.Resource.Drawable.Avatar17;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar18 = global::Amiibopedia.Droid.Resource.Drawable.Avatar18;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar19 = global::Amiibopedia.Droid.Resource.Drawable.Avatar19;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar2 = global::Amiibopedia.Droid.Resource.Drawable.Avatar2;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar20 = global::Amiibopedia.Droid.Resource.Drawable.Avatar20;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar21 = global::Amiibopedia.Droid.Resource.Drawable.Avatar21;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar22 = global::Amiibopedia.Droid.Resource.Drawable.Avatar22;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar23 = global::Amiibopedia.Droid.Resource.Drawable.Avatar23;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar24 = global::Amiibopedia.Droid.Resource.Drawable.Avatar24;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar25 = global::Amiibopedia.Droid.Resource.Drawable.Avatar25;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar26 = global::Amiibopedia.Droid.Resource.Drawable.Avatar26;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar27 = global::Amiibopedia.Droid.Resource.Drawable.Avatar27;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar28 = global::Amiibopedia.Droid.Resource.Drawable.Avatar28;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar29 = global::Amiibopedia.Droid.Resource.Drawable.Avatar29;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar3 = global::Amiibopedia.Droid.Resource.Drawable.Avatar3;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar30 = global::Amiibopedia.Droid.Resource.Drawable.Avatar30;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar4 = global::Amiibopedia.Droid.Resource.Drawable.Avatar4;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar5 = global::Amiibopedia.Droid.Resource.Drawable.Avatar5;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar6 = global::Amiibopedia.Droid.Resource.Drawable.Avatar6;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar7 = global::Amiibopedia.Droid.Resource.Drawable.Avatar7;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar8 = global::Amiibopedia.Droid.Resource.Drawable.Avatar8;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar9 = global::Amiibopedia.Droid.Resource.Drawable.Avatar9;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.input_layout_drop_down_icon = global::Amiibopedia.Droid.Resource.Drawable.input_layout_drop_down_icon;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglecollapseicon = global::Amiibopedia.Droid.Resource.Drawable.inputlayout_togglecollapseicon;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglevisibleicon = global::Amiibopedia.Droid.Resource.Drawable.inputlayout_togglevisibleicon;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.clear_button_icon = global::Amiibopedia.Droid.Resource.Drawable.clear_button_icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.abc_fade_in = global::Amiibopedia.Droid.Resource.Animation.abc_fade_in;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.abc_fade_out = global::Amiibopedia.Droid.Resource.Animation.abc_fade_out;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.abc_grow_fade_in_from_bottom = global::Amiibopedia.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.abc_popup_enter = global::Amiibopedia.Droid.Resource.Animation.abc_popup_enter;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.abc_popup_exit = global::Amiibopedia.Droid.Resource.Animation.abc_popup_exit;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom = global::Amiibopedia.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.abc_slide_in_bottom = global::Amiibopedia.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.abc_slide_in_top = global::Amiibopedia.Droid.Resource.Animation.abc_slide_in_top;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.abc_slide_out_bottom = global::Amiibopedia.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.abc_slide_out_top = global::Amiibopedia.Droid.Resource.Animation.abc_slide_out_top;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.abc_tooltip_enter = global::Amiibopedia.Droid.Resource.Animation.abc_tooltip_enter;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.abc_tooltip_exit = global::Amiibopedia.Droid.Resource.Animation.abc_tooltip_exit;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation = global::Amiibopedia.Droid.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation = global::Amiibopedia.Droid.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.btn_checkbox_to_checked_icon_null_animation = global::Amiibopedia.Droid.Resource.Animation.btn_checkbox_to_checked_icon_null_animation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation = global::Amiibopedia.Droid.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation = global::Amiibopedia.Droid.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation = global::Amiibopedia.Droid.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation = global::Amiibopedia.Droid.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation = global::Amiibopedia.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation = global::Amiibopedia.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation = global::Amiibopedia.Droid.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation = global::Amiibopedia.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation = global::Amiibopedia.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.design_bottom_sheet_slide_in = global::Amiibopedia.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.design_bottom_sheet_slide_out = global::Amiibopedia.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.design_snackbar_in = global::Amiibopedia.Droid.Resource.Animation.design_snackbar_in;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.design_snackbar_out = global::Amiibopedia.Droid.Resource.Animation.design_snackbar_out;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.EnterFromLeft = global::Amiibopedia.Droid.Resource.Animation.EnterFromLeft;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.EnterFromRight = global::Amiibopedia.Droid.Resource.Animation.EnterFromRight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.ExitToLeft = global::Amiibopedia.Droid.Resource.Animation.ExitToLeft;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animation.ExitToRight = global::Amiibopedia.Droid.Resource.Animation.ExitToRight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animator.design_appbar_state_list_animator = global::Amiibopedia.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animator.design_fab_hide_motion_spec = global::Amiibopedia.Droid.Resource.Animator.design_fab_hide_motion_spec;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animator.design_fab_show_motion_spec = global::Amiibopedia.Droid.Resource.Animator.design_fab_show_motion_spec;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animator.mtrl_btn_state_list_anim = global::Amiibopedia.Droid.Resource.Animator.mtrl_btn_state_list_anim;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::Amiibopedia.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animator.mtrl_chip_state_list_anim = global::Amiibopedia.Droid.Resource.Animator.mtrl_chip_state_list_anim;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animator.mtrl_fab_hide_motion_spec = global::Amiibopedia.Droid.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animator.mtrl_fab_show_motion_spec = global::Amiibopedia.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::Amiibopedia.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::Amiibopedia.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionBarDivider = global::Amiibopedia.Droid.Resource.Attribute.actionBarDivider;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionBarItemBackground = global::Amiibopedia.Droid.Resource.Attribute.actionBarItemBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionBarPopupTheme = global::Amiibopedia.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionBarSize = global::Amiibopedia.Droid.Resource.Attribute.actionBarSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionBarSplitStyle = global::Amiibopedia.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionBarStyle = global::Amiibopedia.Droid.Resource.Attribute.actionBarStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionBarTabBarStyle = global::Amiibopedia.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionBarTabStyle = global::Amiibopedia.Droid.Resource.Attribute.actionBarTabStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionBarTabTextStyle = global::Amiibopedia.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionBarTheme = global::Amiibopedia.Droid.Resource.Attribute.actionBarTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionBarWidgetTheme = global::Amiibopedia.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionButtonStyle = global::Amiibopedia.Droid.Resource.Attribute.actionButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionDropDownStyle = global::Amiibopedia.Droid.Resource.Attribute.actionDropDownStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionLayout = global::Amiibopedia.Droid.Resource.Attribute.actionLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionMenuTextAppearance = global::Amiibopedia.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionMenuTextColor = global::Amiibopedia.Droid.Resource.Attribute.actionMenuTextColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionModeBackground = global::Amiibopedia.Droid.Resource.Attribute.actionModeBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionModeCloseButtonStyle = global::Amiibopedia.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionModeCloseDrawable = global::Amiibopedia.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionModeCopyDrawable = global::Amiibopedia.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionModeCutDrawable = global::Amiibopedia.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionModeFindDrawable = global::Amiibopedia.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionModePasteDrawable = global::Amiibopedia.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionModePopupWindowStyle = global::Amiibopedia.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionModeSelectAllDrawable = global::Amiibopedia.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionModeShareDrawable = global::Amiibopedia.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionModeSplitBackground = global::Amiibopedia.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionModeStyle = global::Amiibopedia.Droid.Resource.Attribute.actionModeStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionModeWebSearchDrawable = global::Amiibopedia.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionOverflowButtonStyle = global::Amiibopedia.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionOverflowMenuStyle = global::Amiibopedia.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionProviderClass = global::Amiibopedia.Droid.Resource.Attribute.actionProviderClass;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.actionViewClass = global::Amiibopedia.Droid.Resource.Attribute.actionViewClass;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.activityChooserViewStyle = global::Amiibopedia.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.alertDialogButtonGroupStyle = global::Amiibopedia.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.alertDialogCenterButtons = global::Amiibopedia.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.alertDialogStyle = global::Amiibopedia.Droid.Resource.Attribute.alertDialogStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.alertDialogTheme = global::Amiibopedia.Droid.Resource.Attribute.alertDialogTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.allowStacking = global::Amiibopedia.Droid.Resource.Attribute.allowStacking;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.alpha = global::Amiibopedia.Droid.Resource.Attribute.alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.alphabeticModifiers = global::Amiibopedia.Droid.Resource.Attribute.alphabeticModifiers;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.arrowHeadLength = global::Amiibopedia.Droid.Resource.Attribute.arrowHeadLength;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.arrowShaftLength = global::Amiibopedia.Droid.Resource.Attribute.arrowShaftLength;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.autoCompleteTextViewStyle = global::Amiibopedia.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.autoSizeMaxTextSize = global::Amiibopedia.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.autoSizeMinTextSize = global::Amiibopedia.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.autoSizePresetSizes = global::Amiibopedia.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.autoSizeStepGranularity = global::Amiibopedia.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.autoSizeTextType = global::Amiibopedia.Droid.Resource.Attribute.autoSizeTextType;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.background = global::Amiibopedia.Droid.Resource.Attribute.background;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.backgroundSplit = global::Amiibopedia.Droid.Resource.Attribute.backgroundSplit;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.backgroundStacked = global::Amiibopedia.Droid.Resource.Attribute.backgroundStacked;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.backgroundTint = global::Amiibopedia.Droid.Resource.Attribute.backgroundTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.backgroundTintMode = global::Amiibopedia.Droid.Resource.Attribute.backgroundTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.barLength = global::Amiibopedia.Droid.Resource.Attribute.barLength;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.behavior_autoHide = global::Amiibopedia.Droid.Resource.Attribute.behavior_autoHide;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.behavior_fitToContents = global::Amiibopedia.Droid.Resource.Attribute.behavior_fitToContents;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.behavior_hideable = global::Amiibopedia.Droid.Resource.Attribute.behavior_hideable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.behavior_overlapTop = global::Amiibopedia.Droid.Resource.Attribute.behavior_overlapTop;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.behavior_peekHeight = global::Amiibopedia.Droid.Resource.Attribute.behavior_peekHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.behavior_skipCollapsed = global::Amiibopedia.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.borderlessButtonStyle = global::Amiibopedia.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.borderWidth = global::Amiibopedia.Droid.Resource.Attribute.borderWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.bottomAppBarStyle = global::Amiibopedia.Droid.Resource.Attribute.bottomAppBarStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.bottomNavigationStyle = global::Amiibopedia.Droid.Resource.Attribute.bottomNavigationStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.bottomSheetDialogTheme = global::Amiibopedia.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.bottomSheetStyle = global::Amiibopedia.Droid.Resource.Attribute.bottomSheetStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.boxBackgroundColor = global::Amiibopedia.Droid.Resource.Attribute.boxBackgroundColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.boxBackgroundMode = global::Amiibopedia.Droid.Resource.Attribute.boxBackgroundMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.boxCollapsedPaddingTop = global::Amiibopedia.Droid.Resource.Attribute.boxCollapsedPaddingTop;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.boxCornerRadiusBottomEnd = global::Amiibopedia.Droid.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.boxCornerRadiusBottomStart = global::Amiibopedia.Droid.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.boxCornerRadiusTopEnd = global::Amiibopedia.Droid.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.boxCornerRadiusTopStart = global::Amiibopedia.Droid.Resource.Attribute.boxCornerRadiusTopStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.boxStrokeColor = global::Amiibopedia.Droid.Resource.Attribute.boxStrokeColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.boxStrokeWidth = global::Amiibopedia.Droid.Resource.Attribute.boxStrokeWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.buttonBarButtonStyle = global::Amiibopedia.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.buttonBarNegativeButtonStyle = global::Amiibopedia.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.buttonBarNeutralButtonStyle = global::Amiibopedia.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.buttonBarPositiveButtonStyle = global::Amiibopedia.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.buttonBarStyle = global::Amiibopedia.Droid.Resource.Attribute.buttonBarStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.buttonCompat = global::Amiibopedia.Droid.Resource.Attribute.buttonCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.buttonGravity = global::Amiibopedia.Droid.Resource.Attribute.buttonGravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.buttonIconDimen = global::Amiibopedia.Droid.Resource.Attribute.buttonIconDimen;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.buttonPanelSideLayout = global::Amiibopedia.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.buttonStyle = global::Amiibopedia.Droid.Resource.Attribute.buttonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.buttonStyleSmall = global::Amiibopedia.Droid.Resource.Attribute.buttonStyleSmall;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.buttonTint = global::Amiibopedia.Droid.Resource.Attribute.buttonTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.buttonTintMode = global::Amiibopedia.Droid.Resource.Attribute.buttonTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.cardBackgroundColor = global::Amiibopedia.Droid.Resource.Attribute.cardBackgroundColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.cardCornerRadius = global::Amiibopedia.Droid.Resource.Attribute.cardCornerRadius;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.cardElevation = global::Amiibopedia.Droid.Resource.Attribute.cardElevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.cardMaxElevation = global::Amiibopedia.Droid.Resource.Attribute.cardMaxElevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.cardPreventCornerOverlap = global::Amiibopedia.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.cardUseCompatPadding = global::Amiibopedia.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.cardViewStyle = global::Amiibopedia.Droid.Resource.Attribute.cardViewStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.checkboxStyle = global::Amiibopedia.Droid.Resource.Attribute.checkboxStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.checkedChip = global::Amiibopedia.Droid.Resource.Attribute.checkedChip;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.checkedIcon = global::Amiibopedia.Droid.Resource.Attribute.checkedIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.checkedIconEnabled = global::Amiibopedia.Droid.Resource.Attribute.checkedIconEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.checkedIconVisible = global::Amiibopedia.Droid.Resource.Attribute.checkedIconVisible;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.checkedTextViewStyle = global::Amiibopedia.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.chipBackgroundColor = global::Amiibopedia.Droid.Resource.Attribute.chipBackgroundColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.chipCornerRadius = global::Amiibopedia.Droid.Resource.Attribute.chipCornerRadius;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.chipEndPadding = global::Amiibopedia.Droid.Resource.Attribute.chipEndPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.chipGroupStyle = global::Amiibopedia.Droid.Resource.Attribute.chipGroupStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.chipIcon = global::Amiibopedia.Droid.Resource.Attribute.chipIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.chipIconEnabled = global::Amiibopedia.Droid.Resource.Attribute.chipIconEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.chipIconSize = global::Amiibopedia.Droid.Resource.Attribute.chipIconSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.chipIconTint = global::Amiibopedia.Droid.Resource.Attribute.chipIconTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.chipIconVisible = global::Amiibopedia.Droid.Resource.Attribute.chipIconVisible;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.chipMinHeight = global::Amiibopedia.Droid.Resource.Attribute.chipMinHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.chipSpacing = global::Amiibopedia.Droid.Resource.Attribute.chipSpacing;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.chipSpacingHorizontal = global::Amiibopedia.Droid.Resource.Attribute.chipSpacingHorizontal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.chipSpacingVertical = global::Amiibopedia.Droid.Resource.Attribute.chipSpacingVertical;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.chipStandaloneStyle = global::Amiibopedia.Droid.Resource.Attribute.chipStandaloneStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.chipStartPadding = global::Amiibopedia.Droid.Resource.Attribute.chipStartPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.chipStrokeColor = global::Amiibopedia.Droid.Resource.Attribute.chipStrokeColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.chipStrokeWidth = global::Amiibopedia.Droid.Resource.Attribute.chipStrokeWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.chipStyle = global::Amiibopedia.Droid.Resource.Attribute.chipStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.closeIcon = global::Amiibopedia.Droid.Resource.Attribute.closeIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.closeIconEnabled = global::Amiibopedia.Droid.Resource.Attribute.closeIconEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.closeIconEndPadding = global::Amiibopedia.Droid.Resource.Attribute.closeIconEndPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.closeIconSize = global::Amiibopedia.Droid.Resource.Attribute.closeIconSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.closeIconStartPadding = global::Amiibopedia.Droid.Resource.Attribute.closeIconStartPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.closeIconTint = global::Amiibopedia.Droid.Resource.Attribute.closeIconTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.closeIconVisible = global::Amiibopedia.Droid.Resource.Attribute.closeIconVisible;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.closeItemLayout = global::Amiibopedia.Droid.Resource.Attribute.closeItemLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.collapseContentDescription = global::Amiibopedia.Droid.Resource.Attribute.collapseContentDescription;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.collapsedTitleGravity = global::Amiibopedia.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.collapsedTitleTextAppearance = global::Amiibopedia.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.collapseIcon = global::Amiibopedia.Droid.Resource.Attribute.collapseIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.color = global::Amiibopedia.Droid.Resource.Attribute.color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.colorAccent = global::Amiibopedia.Droid.Resource.Attribute.colorAccent;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.colorBackgroundFloating = global::Amiibopedia.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.colorButtonNormal = global::Amiibopedia.Droid.Resource.Attribute.colorButtonNormal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.colorControlActivated = global::Amiibopedia.Droid.Resource.Attribute.colorControlActivated;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.colorControlHighlight = global::Amiibopedia.Droid.Resource.Attribute.colorControlHighlight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.colorControlNormal = global::Amiibopedia.Droid.Resource.Attribute.colorControlNormal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.colorError = global::Amiibopedia.Droid.Resource.Attribute.colorError;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.colorPrimary = global::Amiibopedia.Droid.Resource.Attribute.colorPrimary;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.colorPrimaryDark = global::Amiibopedia.Droid.Resource.Attribute.colorPrimaryDark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.colorSecondary = global::Amiibopedia.Droid.Resource.Attribute.colorSecondary;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.colorSwitchThumbNormal = global::Amiibopedia.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.commitIcon = global::Amiibopedia.Droid.Resource.Attribute.commitIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.contentDescription = global::Amiibopedia.Droid.Resource.Attribute.contentDescription;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.contentInsetEnd = global::Amiibopedia.Droid.Resource.Attribute.contentInsetEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.contentInsetEndWithActions = global::Amiibopedia.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.contentInsetLeft = global::Amiibopedia.Droid.Resource.Attribute.contentInsetLeft;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.contentInsetRight = global::Amiibopedia.Droid.Resource.Attribute.contentInsetRight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.contentInsetStart = global::Amiibopedia.Droid.Resource.Attribute.contentInsetStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.contentInsetStartWithNavigation = global::Amiibopedia.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.contentPadding = global::Amiibopedia.Droid.Resource.Attribute.contentPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.contentPaddingBottom = global::Amiibopedia.Droid.Resource.Attribute.contentPaddingBottom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.contentPaddingLeft = global::Amiibopedia.Droid.Resource.Attribute.contentPaddingLeft;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.contentPaddingRight = global::Amiibopedia.Droid.Resource.Attribute.contentPaddingRight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.contentPaddingTop = global::Amiibopedia.Droid.Resource.Attribute.contentPaddingTop;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.contentScrim = global::Amiibopedia.Droid.Resource.Attribute.contentScrim;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.controlBackground = global::Amiibopedia.Droid.Resource.Attribute.controlBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.coordinatorLayoutStyle = global::Amiibopedia.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.cornerRadius = global::Amiibopedia.Droid.Resource.Attribute.cornerRadius;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.counterEnabled = global::Amiibopedia.Droid.Resource.Attribute.counterEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.counterMaxLength = global::Amiibopedia.Droid.Resource.Attribute.counterMaxLength;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.counterOverflowTextAppearance = global::Amiibopedia.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.counterTextAppearance = global::Amiibopedia.Droid.Resource.Attribute.counterTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.customNavigationLayout = global::Amiibopedia.Droid.Resource.Attribute.customNavigationLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.defaultQueryHint = global::Amiibopedia.Droid.Resource.Attribute.defaultQueryHint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.dialogCornerRadius = global::Amiibopedia.Droid.Resource.Attribute.dialogCornerRadius;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.dialogPreferredPadding = global::Amiibopedia.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.dialogTheme = global::Amiibopedia.Droid.Resource.Attribute.dialogTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.displayOptions = global::Amiibopedia.Droid.Resource.Attribute.displayOptions;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.divider = global::Amiibopedia.Droid.Resource.Attribute.divider;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.dividerHorizontal = global::Amiibopedia.Droid.Resource.Attribute.dividerHorizontal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.dividerPadding = global::Amiibopedia.Droid.Resource.Attribute.dividerPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.dividerVertical = global::Amiibopedia.Droid.Resource.Attribute.dividerVertical;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.drawableBottomCompat = global::Amiibopedia.Droid.Resource.Attribute.drawableBottomCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.drawableEndCompat = global::Amiibopedia.Droid.Resource.Attribute.drawableEndCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.drawableLeftCompat = global::Amiibopedia.Droid.Resource.Attribute.drawableLeftCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.drawableRightCompat = global::Amiibopedia.Droid.Resource.Attribute.drawableRightCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.drawableSize = global::Amiibopedia.Droid.Resource.Attribute.drawableSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.drawableStartCompat = global::Amiibopedia.Droid.Resource.Attribute.drawableStartCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.drawableTint = global::Amiibopedia.Droid.Resource.Attribute.drawableTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.drawableTintMode = global::Amiibopedia.Droid.Resource.Attribute.drawableTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.drawableTopCompat = global::Amiibopedia.Droid.Resource.Attribute.drawableTopCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.drawerArrowStyle = global::Amiibopedia.Droid.Resource.Attribute.drawerArrowStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.dropdownListPreferredItemHeight = global::Amiibopedia.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.dropDownListViewStyle = global::Amiibopedia.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.editTextBackground = global::Amiibopedia.Droid.Resource.Attribute.editTextBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.editTextColor = global::Amiibopedia.Droid.Resource.Attribute.editTextColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.editTextStyle = global::Amiibopedia.Droid.Resource.Attribute.editTextStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.elevation = global::Amiibopedia.Droid.Resource.Attribute.elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.enforceMaterialTheme = global::Amiibopedia.Droid.Resource.Attribute.enforceMaterialTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.enforceTextAppearance = global::Amiibopedia.Droid.Resource.Attribute.enforceTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.errorEnabled = global::Amiibopedia.Droid.Resource.Attribute.errorEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.errorTextAppearance = global::Amiibopedia.Droid.Resource.Attribute.errorTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable = global::Amiibopedia.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.expanded = global::Amiibopedia.Droid.Resource.Attribute.expanded;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.expandedTitleGravity = global::Amiibopedia.Droid.Resource.Attribute.expandedTitleGravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.expandedTitleMargin = global::Amiibopedia.Droid.Resource.Attribute.expandedTitleMargin;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.expandedTitleMarginBottom = global::Amiibopedia.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.expandedTitleMarginEnd = global::Amiibopedia.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.expandedTitleMarginStart = global::Amiibopedia.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.expandedTitleMarginTop = global::Amiibopedia.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.expandedTitleTextAppearance = global::Amiibopedia.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fabAlignmentMode = global::Amiibopedia.Droid.Resource.Attribute.fabAlignmentMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fabCradleMargin = global::Amiibopedia.Droid.Resource.Attribute.fabCradleMargin;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fabCradleRoundedCornerRadius = global::Amiibopedia.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fabCradleVerticalOffset = global::Amiibopedia.Droid.Resource.Attribute.fabCradleVerticalOffset;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fabCustomSize = global::Amiibopedia.Droid.Resource.Attribute.fabCustomSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fabSize = global::Amiibopedia.Droid.Resource.Attribute.fabSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fastScrollEnabled = global::Amiibopedia.Droid.Resource.Attribute.fastScrollEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::Amiibopedia.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::Amiibopedia.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable = global::Amiibopedia.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable = global::Amiibopedia.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.firstBaselineToTopHeight = global::Amiibopedia.Droid.Resource.Attribute.firstBaselineToTopHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.floatingActionButtonStyle = global::Amiibopedia.Droid.Resource.Attribute.floatingActionButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.font = global::Amiibopedia.Droid.Resource.Attribute.font;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fontFamily = global::Amiibopedia.Droid.Resource.Attribute.fontFamily;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fontProviderAuthority = global::Amiibopedia.Droid.Resource.Attribute.fontProviderAuthority;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fontProviderCerts = global::Amiibopedia.Droid.Resource.Attribute.fontProviderCerts;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fontProviderFetchStrategy = global::Amiibopedia.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fontProviderFetchTimeout = global::Amiibopedia.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fontProviderPackage = global::Amiibopedia.Droid.Resource.Attribute.fontProviderPackage;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fontProviderQuery = global::Amiibopedia.Droid.Resource.Attribute.fontProviderQuery;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fontStyle = global::Amiibopedia.Droid.Resource.Attribute.fontStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fontVariationSettings = global::Amiibopedia.Droid.Resource.Attribute.fontVariationSettings;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.fontWeight = global::Amiibopedia.Droid.Resource.Attribute.fontWeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.foregroundInsidePadding = global::Amiibopedia.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.gapBetweenBars = global::Amiibopedia.Droid.Resource.Attribute.gapBetweenBars;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.goIcon = global::Amiibopedia.Droid.Resource.Attribute.goIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.headerLayout = global::Amiibopedia.Droid.Resource.Attribute.headerLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.height = global::Amiibopedia.Droid.Resource.Attribute.height;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.helperText = global::Amiibopedia.Droid.Resource.Attribute.helperText;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.helperTextEnabled = global::Amiibopedia.Droid.Resource.Attribute.helperTextEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.helperTextTextAppearance = global::Amiibopedia.Droid.Resource.Attribute.helperTextTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.hideMotionSpec = global::Amiibopedia.Droid.Resource.Attribute.hideMotionSpec;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.hideOnContentScroll = global::Amiibopedia.Droid.Resource.Attribute.hideOnContentScroll;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.hideOnScroll = global::Amiibopedia.Droid.Resource.Attribute.hideOnScroll;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.hintAnimationEnabled = global::Amiibopedia.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.hintEnabled = global::Amiibopedia.Droid.Resource.Attribute.hintEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.hintTextAppearance = global::Amiibopedia.Droid.Resource.Attribute.hintTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.homeAsUpIndicator = global::Amiibopedia.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.homeLayout = global::Amiibopedia.Droid.Resource.Attribute.homeLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.hoveredFocusedTranslationZ = global::Amiibopedia.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.icon = global::Amiibopedia.Droid.Resource.Attribute.icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.iconEndPadding = global::Amiibopedia.Droid.Resource.Attribute.iconEndPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.iconGravity = global::Amiibopedia.Droid.Resource.Attribute.iconGravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.iconifiedByDefault = global::Amiibopedia.Droid.Resource.Attribute.iconifiedByDefault;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.iconPadding = global::Amiibopedia.Droid.Resource.Attribute.iconPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.iconSize = global::Amiibopedia.Droid.Resource.Attribute.iconSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.iconStartPadding = global::Amiibopedia.Droid.Resource.Attribute.iconStartPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.iconTint = global::Amiibopedia.Droid.Resource.Attribute.iconTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.iconTintMode = global::Amiibopedia.Droid.Resource.Attribute.iconTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.imageButtonStyle = global::Amiibopedia.Droid.Resource.Attribute.imageButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.indeterminateProgressStyle = global::Amiibopedia.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.initialActivityCount = global::Amiibopedia.Droid.Resource.Attribute.initialActivityCount;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.insetForeground = global::Amiibopedia.Droid.Resource.Attribute.insetForeground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.isLightTheme = global::Amiibopedia.Droid.Resource.Attribute.isLightTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.itemBackground = global::Amiibopedia.Droid.Resource.Attribute.itemBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.itemHorizontalPadding = global::Amiibopedia.Droid.Resource.Attribute.itemHorizontalPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.itemHorizontalTranslationEnabled = global::Amiibopedia.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.itemIconPadding = global::Amiibopedia.Droid.Resource.Attribute.itemIconPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.itemIconSize = global::Amiibopedia.Droid.Resource.Attribute.itemIconSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.itemIconTint = global::Amiibopedia.Droid.Resource.Attribute.itemIconTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.itemPadding = global::Amiibopedia.Droid.Resource.Attribute.itemPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.itemSpacing = global::Amiibopedia.Droid.Resource.Attribute.itemSpacing;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.itemTextAppearance = global::Amiibopedia.Droid.Resource.Attribute.itemTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.itemTextAppearanceActive = global::Amiibopedia.Droid.Resource.Attribute.itemTextAppearanceActive;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.itemTextAppearanceInactive = global::Amiibopedia.Droid.Resource.Attribute.itemTextAppearanceInactive;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.itemTextColor = global::Amiibopedia.Droid.Resource.Attribute.itemTextColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.keylines = global::Amiibopedia.Droid.Resource.Attribute.keylines;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.labelVisibilityMode = global::Amiibopedia.Droid.Resource.Attribute.labelVisibilityMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.lastBaselineToBottomHeight = global::Amiibopedia.Droid.Resource.Attribute.lastBaselineToBottomHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.layout = global::Amiibopedia.Droid.Resource.Attribute.layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.layoutManager = global::Amiibopedia.Droid.Resource.Attribute.layoutManager;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.layout_anchor = global::Amiibopedia.Droid.Resource.Attribute.layout_anchor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.layout_anchorGravity = global::Amiibopedia.Droid.Resource.Attribute.layout_anchorGravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.layout_behavior = global::Amiibopedia.Droid.Resource.Attribute.layout_behavior;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.layout_collapseMode = global::Amiibopedia.Droid.Resource.Attribute.layout_collapseMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.layout_collapseParallaxMultiplier = global::Amiibopedia.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.layout_dodgeInsetEdges = global::Amiibopedia.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.layout_insetEdge = global::Amiibopedia.Droid.Resource.Attribute.layout_insetEdge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.layout_keyline = global::Amiibopedia.Droid.Resource.Attribute.layout_keyline;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.layout_scrollFlags = global::Amiibopedia.Droid.Resource.Attribute.layout_scrollFlags;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.layout_scrollInterpolator = global::Amiibopedia.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.liftOnScroll = global::Amiibopedia.Droid.Resource.Attribute.liftOnScroll;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.lineHeight = global::Amiibopedia.Droid.Resource.Attribute.lineHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.lineSpacing = global::Amiibopedia.Droid.Resource.Attribute.lineSpacing;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.listChoiceBackgroundIndicator = global::Amiibopedia.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.listChoiceIndicatorMultipleAnimated = global::Amiibopedia.Droid.Resource.Attribute.listChoiceIndicatorMultipleAnimated;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.listChoiceIndicatorSingleAnimated = global::Amiibopedia.Droid.Resource.Attribute.listChoiceIndicatorSingleAnimated;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.listDividerAlertDialog = global::Amiibopedia.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.listItemLayout = global::Amiibopedia.Droid.Resource.Attribute.listItemLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.listLayout = global::Amiibopedia.Droid.Resource.Attribute.listLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.listMenuViewStyle = global::Amiibopedia.Droid.Resource.Attribute.listMenuViewStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.listPopupWindowStyle = global::Amiibopedia.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.listPreferredItemHeight = global::Amiibopedia.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.listPreferredItemHeightLarge = global::Amiibopedia.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.listPreferredItemHeightSmall = global::Amiibopedia.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.listPreferredItemPaddingEnd = global::Amiibopedia.Droid.Resource.Attribute.listPreferredItemPaddingEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.listPreferredItemPaddingLeft = global::Amiibopedia.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.listPreferredItemPaddingRight = global::Amiibopedia.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.listPreferredItemPaddingStart = global::Amiibopedia.Droid.Resource.Attribute.listPreferredItemPaddingStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.logo = global::Amiibopedia.Droid.Resource.Attribute.logo;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.logoDescription = global::Amiibopedia.Droid.Resource.Attribute.logoDescription;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.materialButtonStyle = global::Amiibopedia.Droid.Resource.Attribute.materialButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.materialCardViewStyle = global::Amiibopedia.Droid.Resource.Attribute.materialCardViewStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.maxActionInlineWidth = global::Amiibopedia.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.maxButtonHeight = global::Amiibopedia.Droid.Resource.Attribute.maxButtonHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.maxImageSize = global::Amiibopedia.Droid.Resource.Attribute.maxImageSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.measureWithLargestChild = global::Amiibopedia.Droid.Resource.Attribute.measureWithLargestChild;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.menu = global::Amiibopedia.Droid.Resource.Attribute.menu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.multiChoiceItemLayout = global::Amiibopedia.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.navigationContentDescription = global::Amiibopedia.Droid.Resource.Attribute.navigationContentDescription;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.navigationIcon = global::Amiibopedia.Droid.Resource.Attribute.navigationIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.navigationMode = global::Amiibopedia.Droid.Resource.Attribute.navigationMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.navigationViewStyle = global::Amiibopedia.Droid.Resource.Attribute.navigationViewStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.numericModifiers = global::Amiibopedia.Droid.Resource.Attribute.numericModifiers;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.overlapAnchor = global::Amiibopedia.Droid.Resource.Attribute.overlapAnchor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.paddingBottomNoButtons = global::Amiibopedia.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.paddingEnd = global::Amiibopedia.Droid.Resource.Attribute.paddingEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.paddingStart = global::Amiibopedia.Droid.Resource.Attribute.paddingStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.paddingTopNoTitle = global::Amiibopedia.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.panelBackground = global::Amiibopedia.Droid.Resource.Attribute.panelBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.panelMenuListTheme = global::Amiibopedia.Droid.Resource.Attribute.panelMenuListTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.panelMenuListWidth = global::Amiibopedia.Droid.Resource.Attribute.panelMenuListWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.passwordToggleContentDescription = global::Amiibopedia.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.passwordToggleDrawable = global::Amiibopedia.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.passwordToggleEnabled = global::Amiibopedia.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.passwordToggleTint = global::Amiibopedia.Droid.Resource.Attribute.passwordToggleTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.passwordToggleTintMode = global::Amiibopedia.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.popupMenuStyle = global::Amiibopedia.Droid.Resource.Attribute.popupMenuStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.popupTheme = global::Amiibopedia.Droid.Resource.Attribute.popupTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.popupWindowStyle = global::Amiibopedia.Droid.Resource.Attribute.popupWindowStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.preserveIconSpacing = global::Amiibopedia.Droid.Resource.Attribute.preserveIconSpacing;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.pressedTranslationZ = global::Amiibopedia.Droid.Resource.Attribute.pressedTranslationZ;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.progressBarPadding = global::Amiibopedia.Droid.Resource.Attribute.progressBarPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.progressBarStyle = global::Amiibopedia.Droid.Resource.Attribute.progressBarStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.queryBackground = global::Amiibopedia.Droid.Resource.Attribute.queryBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.queryHint = global::Amiibopedia.Droid.Resource.Attribute.queryHint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.radioButtonStyle = global::Amiibopedia.Droid.Resource.Attribute.radioButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.ratingBarStyle = global::Amiibopedia.Droid.Resource.Attribute.ratingBarStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.ratingBarStyleIndicator = global::Amiibopedia.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.ratingBarStyleSmall = global::Amiibopedia.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.recyclerViewStyle = global::Amiibopedia.Droid.Resource.Attribute.recyclerViewStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.reverseLayout = global::Amiibopedia.Droid.Resource.Attribute.reverseLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.rippleColor = global::Amiibopedia.Droid.Resource.Attribute.rippleColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.scrimAnimationDuration = global::Amiibopedia.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.scrimBackground = global::Amiibopedia.Droid.Resource.Attribute.scrimBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.scrimVisibleHeightTrigger = global::Amiibopedia.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.searchHintIcon = global::Amiibopedia.Droid.Resource.Attribute.searchHintIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.searchIcon = global::Amiibopedia.Droid.Resource.Attribute.searchIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.searchViewStyle = global::Amiibopedia.Droid.Resource.Attribute.searchViewStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.seekBarStyle = global::Amiibopedia.Droid.Resource.Attribute.seekBarStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.selectableItemBackground = global::Amiibopedia.Droid.Resource.Attribute.selectableItemBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.selectableItemBackgroundBorderless = global::Amiibopedia.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.showAsAction = global::Amiibopedia.Droid.Resource.Attribute.showAsAction;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.showDividers = global::Amiibopedia.Droid.Resource.Attribute.showDividers;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.showMotionSpec = global::Amiibopedia.Droid.Resource.Attribute.showMotionSpec;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.showText = global::Amiibopedia.Droid.Resource.Attribute.showText;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.showTitle = global::Amiibopedia.Droid.Resource.Attribute.showTitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.singleChoiceItemLayout = global::Amiibopedia.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.singleLine = global::Amiibopedia.Droid.Resource.Attribute.singleLine;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.singleSelection = global::Amiibopedia.Droid.Resource.Attribute.singleSelection;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.snackbarButtonStyle = global::Amiibopedia.Droid.Resource.Attribute.snackbarButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.snackbarStyle = global::Amiibopedia.Droid.Resource.Attribute.snackbarStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.spanCount = global::Amiibopedia.Droid.Resource.Attribute.spanCount;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.spinBars = global::Amiibopedia.Droid.Resource.Attribute.spinBars;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.spinnerDropDownItemStyle = global::Amiibopedia.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.spinnerStyle = global::Amiibopedia.Droid.Resource.Attribute.spinnerStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.splitTrack = global::Amiibopedia.Droid.Resource.Attribute.splitTrack;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.srcCompat = global::Amiibopedia.Droid.Resource.Attribute.srcCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.stackFromEnd = global::Amiibopedia.Droid.Resource.Attribute.stackFromEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.state_above_anchor = global::Amiibopedia.Droid.Resource.Attribute.state_above_anchor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.state_collapsed = global::Amiibopedia.Droid.Resource.Attribute.state_collapsed;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.state_collapsible = global::Amiibopedia.Droid.Resource.Attribute.state_collapsible;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.state_liftable = global::Amiibopedia.Droid.Resource.Attribute.state_liftable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.state_lifted = global::Amiibopedia.Droid.Resource.Attribute.state_lifted;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.statusBarBackground = global::Amiibopedia.Droid.Resource.Attribute.statusBarBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.statusBarScrim = global::Amiibopedia.Droid.Resource.Attribute.statusBarScrim;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.strokeColor = global::Amiibopedia.Droid.Resource.Attribute.strokeColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.strokeWidth = global::Amiibopedia.Droid.Resource.Attribute.strokeWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.subMenuArrow = global::Amiibopedia.Droid.Resource.Attribute.subMenuArrow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.submitBackground = global::Amiibopedia.Droid.Resource.Attribute.submitBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.subtitle = global::Amiibopedia.Droid.Resource.Attribute.subtitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.subtitleTextAppearance = global::Amiibopedia.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.subtitleTextColor = global::Amiibopedia.Droid.Resource.Attribute.subtitleTextColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.subtitleTextStyle = global::Amiibopedia.Droid.Resource.Attribute.subtitleTextStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.suggestionRowLayout = global::Amiibopedia.Droid.Resource.Attribute.suggestionRowLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.switchMinWidth = global::Amiibopedia.Droid.Resource.Attribute.switchMinWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.switchPadding = global::Amiibopedia.Droid.Resource.Attribute.switchPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.switchStyle = global::Amiibopedia.Droid.Resource.Attribute.switchStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.switchTextAppearance = global::Amiibopedia.Droid.Resource.Attribute.switchTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabBackground = global::Amiibopedia.Droid.Resource.Attribute.tabBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabContentStart = global::Amiibopedia.Droid.Resource.Attribute.tabContentStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabGravity = global::Amiibopedia.Droid.Resource.Attribute.tabGravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabIconTint = global::Amiibopedia.Droid.Resource.Attribute.tabIconTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabIconTintMode = global::Amiibopedia.Droid.Resource.Attribute.tabIconTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabIndicator = global::Amiibopedia.Droid.Resource.Attribute.tabIndicator;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabIndicatorAnimationDuration = global::Amiibopedia.Droid.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabIndicatorColor = global::Amiibopedia.Droid.Resource.Attribute.tabIndicatorColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabIndicatorFullWidth = global::Amiibopedia.Droid.Resource.Attribute.tabIndicatorFullWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabIndicatorGravity = global::Amiibopedia.Droid.Resource.Attribute.tabIndicatorGravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabIndicatorHeight = global::Amiibopedia.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabInlineLabel = global::Amiibopedia.Droid.Resource.Attribute.tabInlineLabel;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabMaxWidth = global::Amiibopedia.Droid.Resource.Attribute.tabMaxWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabMinWidth = global::Amiibopedia.Droid.Resource.Attribute.tabMinWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabMode = global::Amiibopedia.Droid.Resource.Attribute.tabMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabPadding = global::Amiibopedia.Droid.Resource.Attribute.tabPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabPaddingBottom = global::Amiibopedia.Droid.Resource.Attribute.tabPaddingBottom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabPaddingEnd = global::Amiibopedia.Droid.Resource.Attribute.tabPaddingEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabPaddingStart = global::Amiibopedia.Droid.Resource.Attribute.tabPaddingStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabPaddingTop = global::Amiibopedia.Droid.Resource.Attribute.tabPaddingTop;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabRippleColor = global::Amiibopedia.Droid.Resource.Attribute.tabRippleColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabSelectedTextColor = global::Amiibopedia.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabStyle = global::Amiibopedia.Droid.Resource.Attribute.tabStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabTextAppearance = global::Amiibopedia.Droid.Resource.Attribute.tabTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabTextColor = global::Amiibopedia.Droid.Resource.Attribute.tabTextColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tabUnboundedRipple = global::Amiibopedia.Droid.Resource.Attribute.tabUnboundedRipple;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAllCaps = global::Amiibopedia.Droid.Resource.Attribute.textAllCaps;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceBody1 = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceBody1;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceBody2 = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceBody2;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceButton = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceButton;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceCaption = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceCaption;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceHeadline1 = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceHeadline1;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceHeadline2 = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceHeadline2;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceHeadline3 = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceHeadline3;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceHeadline4 = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceHeadline4;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceHeadline5 = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceHeadline5;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceHeadline6 = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceHeadline6;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceLargePopupMenu = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceListItem = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceListItem;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceListItemSecondary = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceListItemSmall = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceOverline = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceOverline;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearancePopupMenuHeader = global::Amiibopedia.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceSearchResultTitle = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceSmallPopupMenu = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceSubtitle1 = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceSubtitle1;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textAppearanceSubtitle2 = global::Amiibopedia.Droid.Resource.Attribute.textAppearanceSubtitle2;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textColorAlertDialogListItem = global::Amiibopedia.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textColorSearchUrl = global::Amiibopedia.Droid.Resource.Attribute.textColorSearchUrl;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textEndPadding = global::Amiibopedia.Droid.Resource.Attribute.textEndPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textInputStyle = global::Amiibopedia.Droid.Resource.Attribute.textInputStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textLocale = global::Amiibopedia.Droid.Resource.Attribute.textLocale;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.textStartPadding = global::Amiibopedia.Droid.Resource.Attribute.textStartPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.theme = global::Amiibopedia.Droid.Resource.Attribute.theme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.thickness = global::Amiibopedia.Droid.Resource.Attribute.thickness;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.thumbTextPadding = global::Amiibopedia.Droid.Resource.Attribute.thumbTextPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.thumbTint = global::Amiibopedia.Droid.Resource.Attribute.thumbTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.thumbTintMode = global::Amiibopedia.Droid.Resource.Attribute.thumbTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tickMark = global::Amiibopedia.Droid.Resource.Attribute.tickMark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tickMarkTint = global::Amiibopedia.Droid.Resource.Attribute.tickMarkTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tickMarkTintMode = global::Amiibopedia.Droid.Resource.Attribute.tickMarkTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tint = global::Amiibopedia.Droid.Resource.Attribute.tint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tintMode = global::Amiibopedia.Droid.Resource.Attribute.tintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.title = global::Amiibopedia.Droid.Resource.Attribute.title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.titleEnabled = global::Amiibopedia.Droid.Resource.Attribute.titleEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.titleMargin = global::Amiibopedia.Droid.Resource.Attribute.titleMargin;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.titleMarginBottom = global::Amiibopedia.Droid.Resource.Attribute.titleMarginBottom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.titleMarginEnd = global::Amiibopedia.Droid.Resource.Attribute.titleMarginEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.titleMargins = global::Amiibopedia.Droid.Resource.Attribute.titleMargins;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.titleMarginStart = global::Amiibopedia.Droid.Resource.Attribute.titleMarginStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.titleMarginTop = global::Amiibopedia.Droid.Resource.Attribute.titleMarginTop;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.titleTextAppearance = global::Amiibopedia.Droid.Resource.Attribute.titleTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.titleTextColor = global::Amiibopedia.Droid.Resource.Attribute.titleTextColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.titleTextStyle = global::Amiibopedia.Droid.Resource.Attribute.titleTextStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.toolbarId = global::Amiibopedia.Droid.Resource.Attribute.toolbarId;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.toolbarNavigationButtonStyle = global::Amiibopedia.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.toolbarStyle = global::Amiibopedia.Droid.Resource.Attribute.toolbarStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tooltipForegroundColor = global::Amiibopedia.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tooltipFrameBackground = global::Amiibopedia.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.tooltipText = global::Amiibopedia.Droid.Resource.Attribute.tooltipText;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.track = global::Amiibopedia.Droid.Resource.Attribute.track;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.trackTint = global::Amiibopedia.Droid.Resource.Attribute.trackTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.trackTintMode = global::Amiibopedia.Droid.Resource.Attribute.trackTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.ttcIndex = global::Amiibopedia.Droid.Resource.Attribute.ttcIndex;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.useCompatPadding = global::Amiibopedia.Droid.Resource.Attribute.useCompatPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.viewInflaterClass = global::Amiibopedia.Droid.Resource.Attribute.viewInflaterClass;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.voiceIcon = global::Amiibopedia.Droid.Resource.Attribute.voiceIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.windowActionBar = global::Amiibopedia.Droid.Resource.Attribute.windowActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.windowActionBarOverlay = global::Amiibopedia.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.windowActionModeOverlay = global::Amiibopedia.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.windowFixedHeightMajor = global::Amiibopedia.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.windowFixedHeightMinor = global::Amiibopedia.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.windowFixedWidthMajor = global::Amiibopedia.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.windowFixedWidthMinor = global::Amiibopedia.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.windowMinWidthMajor = global::Amiibopedia.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.windowMinWidthMinor = global::Amiibopedia.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Attribute.windowNoTitle = global::Amiibopedia.Droid.Resource.Attribute.windowNoTitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Boolean.abc_action_bar_embed_tabs = global::Amiibopedia.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Boolean.abc_allow_stacked_button_bar = global::Amiibopedia.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::Amiibopedia.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::Amiibopedia.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark = global::Amiibopedia.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_background_cache_hint_selector_material_light = global::Amiibopedia.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_btn_colored_borderless_text_material = global::Amiibopedia.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_btn_colored_text_material = global::Amiibopedia.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_color_highlight_material = global::Amiibopedia.Droid.Resource.Color.abc_color_highlight_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_hint_foreground_material_dark = global::Amiibopedia.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_hint_foreground_material_light = global::Amiibopedia.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_primary_text_disable_only_material_dark = global::Amiibopedia.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_primary_text_disable_only_material_light = global::Amiibopedia.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_primary_text_material_dark = global::Amiibopedia.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_primary_text_material_light = global::Amiibopedia.Droid.Resource.Color.abc_primary_text_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_search_url_text = global::Amiibopedia.Droid.Resource.Color.abc_search_url_text;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_search_url_text_normal = global::Amiibopedia.Droid.Resource.Color.abc_search_url_text_normal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_search_url_text_pressed = global::Amiibopedia.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_search_url_text_selected = global::Amiibopedia.Droid.Resource.Color.abc_search_url_text_selected;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_secondary_text_material_dark = global::Amiibopedia.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_secondary_text_material_light = global::Amiibopedia.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_tint_btn_checkable = global::Amiibopedia.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_tint_default = global::Amiibopedia.Droid.Resource.Color.abc_tint_default;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_tint_edittext = global::Amiibopedia.Droid.Resource.Color.abc_tint_edittext;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_tint_seek_thumb = global::Amiibopedia.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_tint_spinner = global::Amiibopedia.Droid.Resource.Color.abc_tint_spinner;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.abc_tint_switch_track = global::Amiibopedia.Droid.Resource.Color.abc_tint_switch_track;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.accent_material_dark = global::Amiibopedia.Droid.Resource.Color.accent_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.accent_material_light = global::Amiibopedia.Droid.Resource.Color.accent_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.background_floating_material_dark = global::Amiibopedia.Droid.Resource.Color.background_floating_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.background_floating_material_light = global::Amiibopedia.Droid.Resource.Color.background_floating_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.background_material_dark = global::Amiibopedia.Droid.Resource.Color.background_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.background_material_light = global::Amiibopedia.Droid.Resource.Color.background_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.bright_foreground_disabled_material_dark = global::Amiibopedia.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.bright_foreground_disabled_material_light = global::Amiibopedia.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.bright_foreground_inverse_material_dark = global::Amiibopedia.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.bright_foreground_inverse_material_light = global::Amiibopedia.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.bright_foreground_material_dark = global::Amiibopedia.Droid.Resource.Color.bright_foreground_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.bright_foreground_material_light = global::Amiibopedia.Droid.Resource.Color.bright_foreground_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.browser_actions_bg_grey = global::Amiibopedia.Droid.Resource.Color.browser_actions_bg_grey;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.browser_actions_divider_color = global::Amiibopedia.Droid.Resource.Color.browser_actions_divider_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.browser_actions_text_color = global::Amiibopedia.Droid.Resource.Color.browser_actions_text_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.browser_actions_title_color = global::Amiibopedia.Droid.Resource.Color.browser_actions_title_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.button_material_dark = global::Amiibopedia.Droid.Resource.Color.button_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.button_material_light = global::Amiibopedia.Droid.Resource.Color.button_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.cardview_dark_background = global::Amiibopedia.Droid.Resource.Color.cardview_dark_background;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.cardview_light_background = global::Amiibopedia.Droid.Resource.Color.cardview_light_background;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.cardview_shadow_end_color = global::Amiibopedia.Droid.Resource.Color.cardview_shadow_end_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.cardview_shadow_start_color = global::Amiibopedia.Droid.Resource.Color.cardview_shadow_start_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.design_bottom_navigation_shadow_color = global::Amiibopedia.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.design_default_color_primary = global::Amiibopedia.Droid.Resource.Color.design_default_color_primary;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.design_default_color_primary_dark = global::Amiibopedia.Droid.Resource.Color.design_default_color_primary_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.design_error = global::Amiibopedia.Droid.Resource.Color.design_error;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.design_fab_shadow_end_color = global::Amiibopedia.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.design_fab_shadow_mid_color = global::Amiibopedia.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.design_fab_shadow_start_color = global::Amiibopedia.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.design_fab_stroke_end_inner_color = global::Amiibopedia.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.design_fab_stroke_end_outer_color = global::Amiibopedia.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.design_fab_stroke_top_inner_color = global::Amiibopedia.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.design_fab_stroke_top_outer_color = global::Amiibopedia.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.design_snackbar_background_color = global::Amiibopedia.Droid.Resource.Color.design_snackbar_background_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.dim_foreground_disabled_material_dark = global::Amiibopedia.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.dim_foreground_disabled_material_light = global::Amiibopedia.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.dim_foreground_material_dark = global::Amiibopedia.Droid.Resource.Color.dim_foreground_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.dim_foreground_material_light = global::Amiibopedia.Droid.Resource.Color.dim_foreground_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.error_color_material_dark = global::Amiibopedia.Droid.Resource.Color.error_color_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.error_color_material_light = global::Amiibopedia.Droid.Resource.Color.error_color_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.foreground_material_dark = global::Amiibopedia.Droid.Resource.Color.foreground_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.foreground_material_light = global::Amiibopedia.Droid.Resource.Color.foreground_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.highlighted_text_material_dark = global::Amiibopedia.Droid.Resource.Color.highlighted_text_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.highlighted_text_material_light = global::Amiibopedia.Droid.Resource.Color.highlighted_text_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.material_blue_grey_800 = global::Amiibopedia.Droid.Resource.Color.material_blue_grey_800;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.material_blue_grey_900 = global::Amiibopedia.Droid.Resource.Color.material_blue_grey_900;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.material_blue_grey_950 = global::Amiibopedia.Droid.Resource.Color.material_blue_grey_950;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.material_deep_teal_200 = global::Amiibopedia.Droid.Resource.Color.material_deep_teal_200;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.material_deep_teal_500 = global::Amiibopedia.Droid.Resource.Color.material_deep_teal_500;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.material_grey_100 = global::Amiibopedia.Droid.Resource.Color.material_grey_100;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.material_grey_300 = global::Amiibopedia.Droid.Resource.Color.material_grey_300;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.material_grey_50 = global::Amiibopedia.Droid.Resource.Color.material_grey_50;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.material_grey_600 = global::Amiibopedia.Droid.Resource.Color.material_grey_600;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.material_grey_800 = global::Amiibopedia.Droid.Resource.Color.material_grey_800;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.material_grey_850 = global::Amiibopedia.Droid.Resource.Color.material_grey_850;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.material_grey_900 = global::Amiibopedia.Droid.Resource.Color.material_grey_900;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::Amiibopedia.Droid.Resource.Color.mtrl_bottom_nav_colored_item_tint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_bottom_nav_item_tint = global::Amiibopedia.Droid.Resource.Color.mtrl_bottom_nav_item_tint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_btn_bg_color_selector = global::Amiibopedia.Droid.Resource.Color.mtrl_btn_bg_color_selector;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_btn_ripple_color = global::Amiibopedia.Droid.Resource.Color.mtrl_btn_ripple_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_btn_stroke_color_selector = global::Amiibopedia.Droid.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color = global::Amiibopedia.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_btn_text_color_disabled = global::Amiibopedia.Droid.Resource.Color.mtrl_btn_text_color_disabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_btn_text_color_selector = global::Amiibopedia.Droid.Resource.Color.mtrl_btn_text_color_selector;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_btn_transparent_bg_color = global::Amiibopedia.Droid.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_chip_background_color = global::Amiibopedia.Droid.Resource.Color.mtrl_chip_background_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_chip_close_icon_tint = global::Amiibopedia.Droid.Resource.Color.mtrl_chip_close_icon_tint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_chip_ripple_color = global::Amiibopedia.Droid.Resource.Color.mtrl_chip_ripple_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_chip_text_color = global::Amiibopedia.Droid.Resource.Color.mtrl_chip_text_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_fab_ripple_color = global::Amiibopedia.Droid.Resource.Color.mtrl_fab_ripple_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_scrim_color = global::Amiibopedia.Droid.Resource.Color.mtrl_scrim_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_tabs_colored_ripple_color = global::Amiibopedia.Droid.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_tabs_icon_color_selector = global::Amiibopedia.Droid.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::Amiibopedia.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::Amiibopedia.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_tabs_ripple_color = global::Amiibopedia.Droid.Resource.Color.mtrl_tabs_ripple_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color = global::Amiibopedia.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_textinput_disabled_color = global::Amiibopedia.Droid.Resource.Color.mtrl_textinput_disabled_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::Amiibopedia.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::Amiibopedia.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.mtrl_text_btn_text_color_selector = global::Amiibopedia.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.notification_action_color_filter = global::Amiibopedia.Droid.Resource.Color.notification_action_color_filter;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.notification_icon_bg_color = global::Amiibopedia.Droid.Resource.Color.notification_icon_bg_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.notification_material_background_media_default_color = global::Amiibopedia.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.primary_dark_material_dark = global::Amiibopedia.Droid.Resource.Color.primary_dark_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.primary_dark_material_light = global::Amiibopedia.Droid.Resource.Color.primary_dark_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.primary_material_dark = global::Amiibopedia.Droid.Resource.Color.primary_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.primary_material_light = global::Amiibopedia.Droid.Resource.Color.primary_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.primary_text_default_material_dark = global::Amiibopedia.Droid.Resource.Color.primary_text_default_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.primary_text_default_material_light = global::Amiibopedia.Droid.Resource.Color.primary_text_default_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.primary_text_disabled_material_dark = global::Amiibopedia.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.primary_text_disabled_material_light = global::Amiibopedia.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.ripple_material_dark = global::Amiibopedia.Droid.Resource.Color.ripple_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.ripple_material_light = global::Amiibopedia.Droid.Resource.Color.ripple_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.secondary_text_default_material_dark = global::Amiibopedia.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.secondary_text_default_material_light = global::Amiibopedia.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.secondary_text_disabled_material_dark = global::Amiibopedia.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.secondary_text_disabled_material_light = global::Amiibopedia.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.switch_thumb_disabled_material_dark = global::Amiibopedia.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.switch_thumb_disabled_material_light = global::Amiibopedia.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.switch_thumb_material_dark = global::Amiibopedia.Droid.Resource.Color.switch_thumb_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.switch_thumb_material_light = global::Amiibopedia.Droid.Resource.Color.switch_thumb_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.switch_thumb_normal_material_dark = global::Amiibopedia.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.switch_thumb_normal_material_light = global::Amiibopedia.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.tooltip_background_dark = global::Amiibopedia.Droid.Resource.Color.tooltip_background_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Color.tooltip_background_light = global::Amiibopedia.Droid.Resource.Color.tooltip_background_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_action_bar_content_inset_material = global::Amiibopedia.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::Amiibopedia.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_action_bar_default_height_material = global::Amiibopedia.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material = global::Amiibopedia.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material = global::Amiibopedia.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_action_bar_elevation_material = global::Amiibopedia.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::Amiibopedia.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::Amiibopedia.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::Amiibopedia.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_action_bar_stacked_max_height = global::Amiibopedia.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::Amiibopedia.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::Amiibopedia.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::Amiibopedia.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_action_button_min_height_material = global::Amiibopedia.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_action_button_min_width_material = global::Amiibopedia.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material = global::Amiibopedia.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height = global::Amiibopedia.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_alert_dialog_button_dimen = global::Amiibopedia.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_button_inset_horizontal_material = global::Amiibopedia.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_button_inset_vertical_material = global::Amiibopedia.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_button_padding_horizontal_material = global::Amiibopedia.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_button_padding_vertical_material = global::Amiibopedia.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::Amiibopedia.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_config_prefDialogWidth = global::Amiibopedia.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_control_corner_material = global::Amiibopedia.Droid.Resource.Dimension.abc_control_corner_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_control_inset_material = global::Amiibopedia.Droid.Resource.Dimension.abc_control_inset_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_control_padding_material = global::Amiibopedia.Droid.Resource.Dimension.abc_control_padding_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_dialog_corner_radius_material = global::Amiibopedia.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_dialog_fixed_height_major = global::Amiibopedia.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_dialog_fixed_height_minor = global::Amiibopedia.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_dialog_fixed_width_major = global::Amiibopedia.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_dialog_fixed_width_minor = global::Amiibopedia.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::Amiibopedia.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::Amiibopedia.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_dialog_min_width_major = global::Amiibopedia.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_dialog_min_width_minor = global::Amiibopedia.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_dialog_padding_material = global::Amiibopedia.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_dialog_padding_top_material = global::Amiibopedia.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_dialog_title_divider_material = global::Amiibopedia.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_disabled_alpha_material_dark = global::Amiibopedia.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_disabled_alpha_material_light = global::Amiibopedia.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_dropdownitem_icon_width = global::Amiibopedia.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left = global::Amiibopedia.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right = global::Amiibopedia.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material = global::Amiibopedia.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::Amiibopedia.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_edit_text_inset_top_material = global::Amiibopedia.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_floating_window_z = global::Amiibopedia.Droid.Resource.Dimension.abc_floating_window_z;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_list_item_height_large_material = global::Amiibopedia.Droid.Resource.Dimension.abc_list_item_height_large_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_list_item_height_material = global::Amiibopedia.Droid.Resource.Dimension.abc_list_item_height_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_list_item_height_small_material = global::Amiibopedia.Droid.Resource.Dimension.abc_list_item_height_small_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material = global::Amiibopedia.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_panel_menu_list_width = global::Amiibopedia.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_progress_bar_height_material = global::Amiibopedia.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_search_view_preferred_height = global::Amiibopedia.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_search_view_preferred_width = global::Amiibopedia.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_seekbar_track_background_height_material = global::Amiibopedia.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material = global::Amiibopedia.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_select_dialog_padding_start_material = global::Amiibopedia.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_switch_padding = global::Amiibopedia.Droid.Resource.Dimension.abc_switch_padding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_text_size_body_1_material = global::Amiibopedia.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_text_size_body_2_material = global::Amiibopedia.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_text_size_button_material = global::Amiibopedia.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_text_size_caption_material = global::Amiibopedia.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_text_size_display_1_material = global::Amiibopedia.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_text_size_display_2_material = global::Amiibopedia.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_text_size_display_3_material = global::Amiibopedia.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_text_size_display_4_material = global::Amiibopedia.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_text_size_headline_material = global::Amiibopedia.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_text_size_large_material = global::Amiibopedia.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_text_size_medium_material = global::Amiibopedia.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_text_size_menu_header_material = global::Amiibopedia.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_text_size_menu_material = global::Amiibopedia.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_text_size_small_material = global::Amiibopedia.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_text_size_subhead_material = global::Amiibopedia.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::Amiibopedia.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_text_size_title_material = global::Amiibopedia.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.abc_text_size_title_material_toolbar = global::Amiibopedia.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.browser_actions_context_menu_max_width = global::Amiibopedia.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.browser_actions_context_menu_min_padding = global::Amiibopedia.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.cardview_compat_inset_shadow = global::Amiibopedia.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.cardview_default_elevation = global::Amiibopedia.Droid.Resource.Dimension.cardview_default_elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.cardview_default_radius = global::Amiibopedia.Droid.Resource.Dimension.cardview_default_radius;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.compat_button_inset_horizontal_material = global::Amiibopedia.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.compat_button_inset_vertical_material = global::Amiibopedia.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.compat_button_padding_horizontal_material = global::Amiibopedia.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.compat_button_padding_vertical_material = global::Amiibopedia.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.compat_control_corner_material = global::Amiibopedia.Droid.Resource.Dimension.compat_control_corner_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.compat_notification_large_icon_max_height = global::Amiibopedia.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.compat_notification_large_icon_max_width = global::Amiibopedia.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_appbar_elevation = global::Amiibopedia.Droid.Resource.Dimension.design_appbar_elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::Amiibopedia.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::Amiibopedia.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_bottom_navigation_active_text_size = global::Amiibopedia.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_bottom_navigation_elevation = global::Amiibopedia.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_bottom_navigation_height = global::Amiibopedia.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_bottom_navigation_icon_size = global::Amiibopedia.Droid.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_bottom_navigation_item_max_width = global::Amiibopedia.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_bottom_navigation_item_min_width = global::Amiibopedia.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_bottom_navigation_margin = global::Amiibopedia.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_bottom_navigation_shadow_height = global::Amiibopedia.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_bottom_navigation_text_size = global::Amiibopedia.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation = global::Amiibopedia.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min = global::Amiibopedia.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_fab_border_width = global::Amiibopedia.Droid.Resource.Dimension.design_fab_border_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_fab_elevation = global::Amiibopedia.Droid.Resource.Dimension.design_fab_elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_fab_image_size = global::Amiibopedia.Droid.Resource.Dimension.design_fab_image_size;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_fab_size_mini = global::Amiibopedia.Droid.Resource.Dimension.design_fab_size_mini;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_fab_size_normal = global::Amiibopedia.Droid.Resource.Dimension.design_fab_size_normal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused = global::Amiibopedia.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_fab_translation_z_pressed = global::Amiibopedia.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_navigation_elevation = global::Amiibopedia.Droid.Resource.Dimension.design_navigation_elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_navigation_icon_padding = global::Amiibopedia.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_navigation_icon_size = global::Amiibopedia.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_navigation_item_horizontal_padding = global::Amiibopedia.Droid.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_navigation_item_icon_padding = global::Amiibopedia.Droid.Resource.Dimension.design_navigation_item_icon_padding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_navigation_max_width = global::Amiibopedia.Droid.Resource.Dimension.design_navigation_max_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_navigation_padding_bottom = global::Amiibopedia.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_navigation_separator_vertical_padding = global::Amiibopedia.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_snackbar_action_inline_max_width = global::Amiibopedia.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_snackbar_background_corner_radius = global::Amiibopedia.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_snackbar_elevation = global::Amiibopedia.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::Amiibopedia.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_snackbar_max_width = global::Amiibopedia.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_snackbar_min_width = global::Amiibopedia.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_snackbar_padding_horizontal = global::Amiibopedia.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_snackbar_padding_vertical = global::Amiibopedia.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::Amiibopedia.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_snackbar_text_size = global::Amiibopedia.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_tab_max_width = global::Amiibopedia.Droid.Resource.Dimension.design_tab_max_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_tab_scrollable_min_width = global::Amiibopedia.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_tab_text_size = global::Amiibopedia.Droid.Resource.Dimension.design_tab_text_size;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_tab_text_size_2line = global::Amiibopedia.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.design_textinput_caption_translate_y = global::Amiibopedia.Droid.Resource.Dimension.design_textinput_caption_translate_y;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.disabled_alpha_material_dark = global::Amiibopedia.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.disabled_alpha_material_light = global::Amiibopedia.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.fastscroll_default_thickness = global::Amiibopedia.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.fastscroll_margin = global::Amiibopedia.Droid.Resource.Dimension.fastscroll_margin;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.fastscroll_minimum_range = global::Amiibopedia.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.highlight_alpha_material_colored = global::Amiibopedia.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.highlight_alpha_material_dark = global::Amiibopedia.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.highlight_alpha_material_light = global::Amiibopedia.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.hint_alpha_material_dark = global::Amiibopedia.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.hint_alpha_material_light = global::Amiibopedia.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.hint_pressed_alpha_material_dark = global::Amiibopedia.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.hint_pressed_alpha_material_light = global::Amiibopedia.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::Amiibopedia.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::Amiibopedia.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::Amiibopedia.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::Amiibopedia.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::Amiibopedia.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::Amiibopedia.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::Amiibopedia.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_bottomappbar_height = global::Amiibopedia.Droid.Resource.Dimension.mtrl_bottomappbar_height;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_corner_radius = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_corner_radius;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_disabled_elevation = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_disabled_z = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_disabled_z;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_elevation = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_focused_z = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_focused_z;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_hovered_z = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_hovered_z;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_icon_padding = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_icon_padding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_inset = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_inset;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_letter_spacing = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_padding_bottom = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_padding_left = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_padding_left;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_padding_right = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_padding_right;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_padding_top = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_padding_top;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_pressed_z = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_pressed_z;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_stroke_size = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_stroke_size;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_text_size = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_text_size;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_btn_z = global::Amiibopedia.Droid.Resource.Dimension.mtrl_btn_z;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_card_elevation = global::Amiibopedia.Droid.Resource.Dimension.mtrl_card_elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_card_spacing = global::Amiibopedia.Droid.Resource.Dimension.mtrl_card_spacing;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z = global::Amiibopedia.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_chip_text_size = global::Amiibopedia.Droid.Resource.Dimension.mtrl_chip_text_size;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_fab_elevation = global::Amiibopedia.Droid.Resource.Dimension.mtrl_fab_elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::Amiibopedia.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed = global::Amiibopedia.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_navigation_elevation = global::Amiibopedia.Droid.Resource.Dimension.mtrl_navigation_elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::Amiibopedia.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding = global::Amiibopedia.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::Amiibopedia.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_snackbar_margin = global::Amiibopedia.Droid.Resource.Dimension.mtrl_snackbar_margin;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::Amiibopedia.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::Amiibopedia.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::Amiibopedia.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::Amiibopedia.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::Amiibopedia.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::Amiibopedia.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.mtrl_toolbar_default_height = global::Amiibopedia.Droid.Resource.Dimension.mtrl_toolbar_default_height;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.notification_action_icon_size = global::Amiibopedia.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.notification_action_text_size = global::Amiibopedia.Droid.Resource.Dimension.notification_action_text_size;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.notification_big_circle_margin = global::Amiibopedia.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.notification_content_margin_start = global::Amiibopedia.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.notification_large_icon_height = global::Amiibopedia.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.notification_large_icon_width = global::Amiibopedia.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.notification_main_column_padding_top = global::Amiibopedia.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.notification_media_narrow_margin = global::Amiibopedia.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.notification_right_icon_size = global::Amiibopedia.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.notification_right_side_padding_top = global::Amiibopedia.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.notification_small_icon_background_padding = global::Amiibopedia.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.notification_small_icon_size_as_large = global::Amiibopedia.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.notification_subtext_size = global::Amiibopedia.Droid.Resource.Dimension.notification_subtext_size;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.notification_top_pad = global::Amiibopedia.Droid.Resource.Dimension.notification_top_pad;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.notification_top_pad_large_text = global::Amiibopedia.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.tooltip_corner_radius = global::Amiibopedia.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.tooltip_horizontal_padding = global::Amiibopedia.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.tooltip_margin = global::Amiibopedia.Droid.Resource.Dimension.tooltip_margin;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::Amiibopedia.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.tooltip_precise_anchor_threshold = global::Amiibopedia.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.tooltip_vertical_padding = global::Amiibopedia.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.tooltip_y_offset_non_touch = global::Amiibopedia.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Dimension.tooltip_y_offset_touch = global::Amiibopedia.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::Amiibopedia.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_action_bar_item_background_material = global::Amiibopedia.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_btn_borderless_material = global::Amiibopedia.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_btn_check_material = global::Amiibopedia.Droid.Resource.Drawable.abc_btn_check_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_btn_check_material_anim = global::Amiibopedia.Droid.Resource.Drawable.abc_btn_check_material_anim;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::Amiibopedia.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::Amiibopedia.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_btn_colored_material = global::Amiibopedia.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_btn_default_mtrl_shape = global::Amiibopedia.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_btn_radio_material = global::Amiibopedia.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_btn_radio_material_anim = global::Amiibopedia.Droid.Resource.Drawable.abc_btn_radio_material_anim;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::Amiibopedia.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::Amiibopedia.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::Amiibopedia.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::Amiibopedia.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_cab_background_internal_bg = global::Amiibopedia.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_cab_background_top_material = global::Amiibopedia.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::Amiibopedia.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_control_background_material = global::Amiibopedia.Droid.Resource.Drawable.abc_control_background_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_dialog_material_background = global::Amiibopedia.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_edit_text_material = global::Amiibopedia.Droid.Resource.Drawable.abc_edit_text_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ic_ab_back_material = global::Amiibopedia.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::Amiibopedia.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ic_clear_material = global::Amiibopedia.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::Amiibopedia.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ic_go_search_api_material = global::Amiibopedia.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::Amiibopedia.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::Amiibopedia.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ic_menu_overflow_material = global::Amiibopedia.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::Amiibopedia.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::Amiibopedia.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::Amiibopedia.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ic_search_api_material = global::Amiibopedia.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ic_star_black_16dp = global::Amiibopedia.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ic_star_black_36dp = global::Amiibopedia.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ic_star_black_48dp = global::Amiibopedia.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ic_star_half_black_16dp = global::Amiibopedia.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ic_star_half_black_36dp = global::Amiibopedia.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ic_star_half_black_48dp = global::Amiibopedia.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ic_voice_search_api_material = global::Amiibopedia.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_item_background_holo_dark = global::Amiibopedia.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_item_background_holo_light = global::Amiibopedia.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_list_divider_material = global::Amiibopedia.Droid.Resource.Drawable.abc_list_divider_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha = global::Amiibopedia.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_list_focused_holo = global::Amiibopedia.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_list_longpressed_holo = global::Amiibopedia.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_list_pressed_holo_dark = global::Amiibopedia.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_list_pressed_holo_light = global::Amiibopedia.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::Amiibopedia.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::Amiibopedia.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::Amiibopedia.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light = global::Amiibopedia.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_list_selector_holo_dark = global::Amiibopedia.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_list_selector_holo_light = global::Amiibopedia.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::Amiibopedia.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_popup_background_mtrl_mult = global::Amiibopedia.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ratingbar_indicator_material = global::Amiibopedia.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ratingbar_material = global::Amiibopedia.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_ratingbar_small_material = global::Amiibopedia.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::Amiibopedia.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::Amiibopedia.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::Amiibopedia.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::Amiibopedia.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::Amiibopedia.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_seekbar_thumb_material = global::Amiibopedia.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_seekbar_tick_mark_material = global::Amiibopedia.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_seekbar_track_material = global::Amiibopedia.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::Amiibopedia.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_spinner_textfield_background_material = global::Amiibopedia.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_switch_thumb_material = global::Amiibopedia.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha = global::Amiibopedia.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_tab_indicator_material = global::Amiibopedia.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::Amiibopedia.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::Amiibopedia.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::Amiibopedia.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::Amiibopedia.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::Amiibopedia.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_textfield_search_material = global::Amiibopedia.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_text_cursor_material = global::Amiibopedia.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::Amiibopedia.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::Amiibopedia.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::Amiibopedia.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::Amiibopedia.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::Amiibopedia.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::Amiibopedia.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.abc_vector_test = global::Amiibopedia.Droid.Resource.Drawable.abc_vector_test;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar1 = global::Amiibopedia.Droid.Resource.Drawable.Avatar1;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar10 = global::Amiibopedia.Droid.Resource.Drawable.Avatar10;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar11 = global::Amiibopedia.Droid.Resource.Drawable.Avatar11;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar12 = global::Amiibopedia.Droid.Resource.Drawable.Avatar12;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar13 = global::Amiibopedia.Droid.Resource.Drawable.Avatar13;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar14 = global::Amiibopedia.Droid.Resource.Drawable.Avatar14;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar15 = global::Amiibopedia.Droid.Resource.Drawable.Avatar15;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar16 = global::Amiibopedia.Droid.Resource.Drawable.Avatar16;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar17 = global::Amiibopedia.Droid.Resource.Drawable.Avatar17;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar18 = global::Amiibopedia.Droid.Resource.Drawable.Avatar18;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar19 = global::Amiibopedia.Droid.Resource.Drawable.Avatar19;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar2 = global::Amiibopedia.Droid.Resource.Drawable.Avatar2;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar20 = global::Amiibopedia.Droid.Resource.Drawable.Avatar20;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar21 = global::Amiibopedia.Droid.Resource.Drawable.Avatar21;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar22 = global::Amiibopedia.Droid.Resource.Drawable.Avatar22;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar23 = global::Amiibopedia.Droid.Resource.Drawable.Avatar23;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar24 = global::Amiibopedia.Droid.Resource.Drawable.Avatar24;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar25 = global::Amiibopedia.Droid.Resource.Drawable.Avatar25;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar26 = global::Amiibopedia.Droid.Resource.Drawable.Avatar26;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar27 = global::Amiibopedia.Droid.Resource.Drawable.Avatar27;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar28 = global::Amiibopedia.Droid.Resource.Drawable.Avatar28;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar29 = global::Amiibopedia.Droid.Resource.Drawable.Avatar29;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar3 = global::Amiibopedia.Droid.Resource.Drawable.Avatar3;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar30 = global::Amiibopedia.Droid.Resource.Drawable.Avatar30;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar4 = global::Amiibopedia.Droid.Resource.Drawable.Avatar4;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar5 = global::Amiibopedia.Droid.Resource.Drawable.Avatar5;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar6 = global::Amiibopedia.Droid.Resource.Drawable.Avatar6;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar7 = global::Amiibopedia.Droid.Resource.Drawable.Avatar7;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar8 = global::Amiibopedia.Droid.Resource.Drawable.Avatar8;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.Avatar9 = global::Amiibopedia.Droid.Resource.Drawable.Avatar9;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.avd_hide_password = global::Amiibopedia.Droid.Resource.Drawable.avd_hide_password;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.avd_show_password = global::Amiibopedia.Droid.Resource.Drawable.avd_show_password;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.btn_checkbox_checked_mtrl = global::Amiibopedia.Droid.Resource.Drawable.btn_checkbox_checked_mtrl;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation = global::Amiibopedia.Droid.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.btn_checkbox_unchecked_mtrl = global::Amiibopedia.Droid.Resource.Drawable.btn_checkbox_unchecked_mtrl;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation = global::Amiibopedia.Droid.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.btn_radio_off_mtrl = global::Amiibopedia.Droid.Resource.Drawable.btn_radio_off_mtrl;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.btn_radio_off_to_on_mtrl_animation = global::Amiibopedia.Droid.Resource.Drawable.btn_radio_off_to_on_mtrl_animation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.btn_radio_on_mtrl = global::Amiibopedia.Droid.Resource.Drawable.btn_radio_on_mtrl;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.btn_radio_on_to_off_mtrl_animation = global::Amiibopedia.Droid.Resource.Drawable.btn_radio_on_to_off_mtrl_animation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.clear_button_icon = global::Amiibopedia.Droid.Resource.Drawable.clear_button_icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.design_bottom_navigation_item_background = global::Amiibopedia.Droid.Resource.Drawable.design_bottom_navigation_item_background;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.design_fab_background = global::Amiibopedia.Droid.Resource.Drawable.design_fab_background;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.design_ic_visibility = global::Amiibopedia.Droid.Resource.Drawable.design_ic_visibility;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.design_ic_visibility_off = global::Amiibopedia.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.design_password_eye = global::Amiibopedia.Droid.Resource.Drawable.design_password_eye;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.design_snackbar_background = global::Amiibopedia.Droid.Resource.Drawable.design_snackbar_background;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.ic_mtrl_chip_checked_black = global::Amiibopedia.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle = global::Amiibopedia.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.ic_mtrl_chip_close_circle = global::Amiibopedia.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.inputlayout_togglecollapseicon = global::Amiibopedia.Droid.Resource.Drawable.inputlayout_togglecollapseicon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.inputlayout_togglevisibleicon = global::Amiibopedia.Droid.Resource.Drawable.inputlayout_togglevisibleicon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.input_layout_drop_down_icon = global::Amiibopedia.Droid.Resource.Drawable.input_layout_drop_down_icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.mtrl_tabs_default_indicator = global::Amiibopedia.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.navigation_empty_icon = global::Amiibopedia.Droid.Resource.Drawable.navigation_empty_icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.notification_action_background = global::Amiibopedia.Droid.Resource.Drawable.notification_action_background;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.notification_bg = global::Amiibopedia.Droid.Resource.Drawable.notification_bg;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.notification_bg_low = global::Amiibopedia.Droid.Resource.Drawable.notification_bg_low;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.notification_bg_low_normal = global::Amiibopedia.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.notification_bg_low_pressed = global::Amiibopedia.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.notification_bg_normal = global::Amiibopedia.Droid.Resource.Drawable.notification_bg_normal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.notification_bg_normal_pressed = global::Amiibopedia.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.notification_icon_background = global::Amiibopedia.Droid.Resource.Drawable.notification_icon_background;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.notification_template_icon_bg = global::Amiibopedia.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.notification_template_icon_low_bg = global::Amiibopedia.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.notification_tile_bg = global::Amiibopedia.Droid.Resource.Drawable.notification_tile_bg;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.notify_panel_notification_icon_bg = global::Amiibopedia.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.sfclosebutton = global::Amiibopedia.Droid.Resource.Drawable.sfclosebutton;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.styleinfo = global::Amiibopedia.Droid.Resource.Drawable.styleinfo;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.tooltip_frame_dark = global::Amiibopedia.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Drawable.tooltip_frame_light = global::Amiibopedia.Droid.Resource.Drawable.tooltip_frame_light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_action_clickable_span = global::Amiibopedia.Droid.Resource.Id.accessibility_action_clickable_span;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_0 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_0;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_1 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_1;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_10 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_10;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_11 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_11;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_12 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_12;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_13 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_13;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_14 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_14;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_15 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_15;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_16 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_16;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_17 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_17;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_18 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_18;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_19 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_19;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_2 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_2;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_20 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_20;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_21 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_21;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_22 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_22;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_23 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_23;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_24 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_24;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_25 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_25;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_26 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_26;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_27 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_27;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_28 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_28;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_29 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_29;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_3 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_3;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_30 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_30;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_31 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_31;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_4 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_4;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_5 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_5;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_6 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_6;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_7 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_7;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_8 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_8;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.accessibility_custom_action_9 = global::Amiibopedia.Droid.Resource.Id.accessibility_custom_action_9;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.action0 = global::Amiibopedia.Droid.Resource.Id.action0;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.actions = global::Amiibopedia.Droid.Resource.Id.actions;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.action_bar = global::Amiibopedia.Droid.Resource.Id.action_bar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.action_bar_activity_content = global::Amiibopedia.Droid.Resource.Id.action_bar_activity_content;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.action_bar_container = global::Amiibopedia.Droid.Resource.Id.action_bar_container;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.action_bar_root = global::Amiibopedia.Droid.Resource.Id.action_bar_root;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.action_bar_spinner = global::Amiibopedia.Droid.Resource.Id.action_bar_spinner;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.action_bar_subtitle = global::Amiibopedia.Droid.Resource.Id.action_bar_subtitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.action_bar_title = global::Amiibopedia.Droid.Resource.Id.action_bar_title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.action_container = global::Amiibopedia.Droid.Resource.Id.action_container;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.action_context_bar = global::Amiibopedia.Droid.Resource.Id.action_context_bar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.action_divider = global::Amiibopedia.Droid.Resource.Id.action_divider;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.action_image = global::Amiibopedia.Droid.Resource.Id.action_image;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.action_menu_divider = global::Amiibopedia.Droid.Resource.Id.action_menu_divider;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.action_menu_presenter = global::Amiibopedia.Droid.Resource.Id.action_menu_presenter;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.action_mode_bar = global::Amiibopedia.Droid.Resource.Id.action_mode_bar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.action_mode_bar_stub = global::Amiibopedia.Droid.Resource.Id.action_mode_bar_stub;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.action_mode_close_button = global::Amiibopedia.Droid.Resource.Id.action_mode_close_button;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.action_text = global::Amiibopedia.Droid.Resource.Id.action_text;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.activity_chooser_view_content = global::Amiibopedia.Droid.Resource.Id.activity_chooser_view_content;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.add = global::Amiibopedia.Droid.Resource.Id.add;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.alertTitle = global::Amiibopedia.Droid.Resource.Id.alertTitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.all = global::Amiibopedia.Droid.Resource.Id.all;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.ALT = global::Amiibopedia.Droid.Resource.Id.ALT;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.always = global::Amiibopedia.Droid.Resource.Id.always;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.async = global::Amiibopedia.Droid.Resource.Id.async;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.auto = global::Amiibopedia.Droid.Resource.Id.auto;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.beginning = global::Amiibopedia.Droid.Resource.Id.beginning;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.blocking = global::Amiibopedia.Droid.Resource.Id.blocking;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.bottom = global::Amiibopedia.Droid.Resource.Id.bottom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.bottomtab_navarea = global::Amiibopedia.Droid.Resource.Id.bottomtab_navarea;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.bottomtab_tabbar = global::Amiibopedia.Droid.Resource.Id.bottomtab_tabbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.browser_actions_header_text = global::Amiibopedia.Droid.Resource.Id.browser_actions_header_text;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.browser_actions_menu_items = global::Amiibopedia.Droid.Resource.Id.browser_actions_menu_items;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.browser_actions_menu_item_icon = global::Amiibopedia.Droid.Resource.Id.browser_actions_menu_item_icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.browser_actions_menu_item_text = global::Amiibopedia.Droid.Resource.Id.browser_actions_menu_item_text;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.browser_actions_menu_view = global::Amiibopedia.Droid.Resource.Id.browser_actions_menu_view;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.buttonPanel = global::Amiibopedia.Droid.Resource.Id.buttonPanel;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.cancel_action = global::Amiibopedia.Droid.Resource.Id.cancel_action;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.center = global::Amiibopedia.Droid.Resource.Id.center;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.center_horizontal = global::Amiibopedia.Droid.Resource.Id.center_horizontal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.center_vertical = global::Amiibopedia.Droid.Resource.Id.center_vertical;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.checkbox = global::Amiibopedia.Droid.Resource.Id.checkbox;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.@checked = global::Amiibopedia.Droid.Resource.Id.@checked;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.chronometer = global::Amiibopedia.Droid.Resource.Id.chronometer;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.clip_horizontal = global::Amiibopedia.Droid.Resource.Id.clip_horizontal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.clip_vertical = global::Amiibopedia.Droid.Resource.Id.clip_vertical;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.collapseActionView = global::Amiibopedia.Droid.Resource.Id.collapseActionView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.container = global::Amiibopedia.Droid.Resource.Id.container;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.content = global::Amiibopedia.Droid.Resource.Id.content;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.contentPanel = global::Amiibopedia.Droid.Resource.Id.contentPanel;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.coordinator = global::Amiibopedia.Droid.Resource.Id.coordinator;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.CTRL = global::Amiibopedia.Droid.Resource.Id.CTRL;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.custom = global::Amiibopedia.Droid.Resource.Id.custom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.customPanel = global::Amiibopedia.Droid.Resource.Id.customPanel;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.decor_content_parent = global::Amiibopedia.Droid.Resource.Id.decor_content_parent;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.default_activity_button = global::Amiibopedia.Droid.Resource.Id.default_activity_button;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.design_bottom_sheet = global::Amiibopedia.Droid.Resource.Id.design_bottom_sheet;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.design_menu_item_action_area = global::Amiibopedia.Droid.Resource.Id.design_menu_item_action_area;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.design_menu_item_action_area_stub = global::Amiibopedia.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.design_menu_item_text = global::Amiibopedia.Droid.Resource.Id.design_menu_item_text;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.design_navigation_view = global::Amiibopedia.Droid.Resource.Id.design_navigation_view;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.dialog_button = global::Amiibopedia.Droid.Resource.Id.dialog_button;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.disableHome = global::Amiibopedia.Droid.Resource.Id.disableHome;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.edit_query = global::Amiibopedia.Droid.Resource.Id.edit_query;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.end = global::Amiibopedia.Droid.Resource.Id.end;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.end_padder = global::Amiibopedia.Droid.Resource.Id.end_padder;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.enterAlways = global::Amiibopedia.Droid.Resource.Id.enterAlways;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.enterAlwaysCollapsed = global::Amiibopedia.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.exitUntilCollapsed = global::Amiibopedia.Droid.Resource.Id.exitUntilCollapsed;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.expanded_menu = global::Amiibopedia.Droid.Resource.Id.expanded_menu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.expand_activities_button = global::Amiibopedia.Droid.Resource.Id.expand_activities_button;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.fill = global::Amiibopedia.Droid.Resource.Id.fill;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.filled = global::Amiibopedia.Droid.Resource.Id.filled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.fill_horizontal = global::Amiibopedia.Droid.Resource.Id.fill_horizontal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.fill_vertical = global::Amiibopedia.Droid.Resource.Id.fill_vertical;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.@fixed = global::Amiibopedia.Droid.Resource.Id.@fixed;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.flyoutcontent_appbar = global::Amiibopedia.Droid.Resource.Id.flyoutcontent_appbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.forever = global::Amiibopedia.Droid.Resource.Id.forever;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.FUNCTION = global::Amiibopedia.Droid.Resource.Id.FUNCTION;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.ghost_view = global::Amiibopedia.Droid.Resource.Id.ghost_view;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.ghost_view_holder = global::Amiibopedia.Droid.Resource.Id.ghost_view_holder;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.group_divider = global::Amiibopedia.Droid.Resource.Id.group_divider;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.home = global::Amiibopedia.Droid.Resource.Id.home;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.homeAsUp = global::Amiibopedia.Droid.Resource.Id.homeAsUp;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.icon = global::Amiibopedia.Droid.Resource.Id.icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.icon_group = global::Amiibopedia.Droid.Resource.Id.icon_group;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.ifRoom = global::Amiibopedia.Droid.Resource.Id.ifRoom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.image = global::Amiibopedia.Droid.Resource.Id.image;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.info = global::Amiibopedia.Droid.Resource.Id.info;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.italic = global::Amiibopedia.Droid.Resource.Id.italic;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.Itemname = global::Amiibopedia.Droid.Resource.Id.Itemname;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.item_touch_helper_previous_elevation = global::Amiibopedia.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.labeled = global::Amiibopedia.Droid.Resource.Id.labeled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.largeLabel = global::Amiibopedia.Droid.Resource.Id.largeLabel;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.left = global::Amiibopedia.Droid.Resource.Id.left;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.line1 = global::Amiibopedia.Droid.Resource.Id.line1;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.line3 = global::Amiibopedia.Droid.Resource.Id.line3;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.listMode = global::Amiibopedia.Droid.Resource.Id.listMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.list_item = global::Amiibopedia.Droid.Resource.Id.list_item;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.main_appbar = global::Amiibopedia.Droid.Resource.Id.main_appbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.main_tablayout = global::Amiibopedia.Droid.Resource.Id.main_tablayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.main_toolbar = global::Amiibopedia.Droid.Resource.Id.main_toolbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.main_viewpager = global::Amiibopedia.Droid.Resource.Id.main_viewpager;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.masked = global::Amiibopedia.Droid.Resource.Id.masked;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.media_actions = global::Amiibopedia.Droid.Resource.Id.media_actions;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.message = global::Amiibopedia.Droid.Resource.Id.message;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.META = global::Amiibopedia.Droid.Resource.Id.META;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.middle = global::Amiibopedia.Droid.Resource.Id.middle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.mini = global::Amiibopedia.Droid.Resource.Id.mini;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.mtrl_child_content_container = global::Amiibopedia.Droid.Resource.Id.mtrl_child_content_container;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.mtrl_internal_children_alpha_tag = global::Amiibopedia.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.multiply = global::Amiibopedia.Droid.Resource.Id.multiply;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.navigation_header_container = global::Amiibopedia.Droid.Resource.Id.navigation_header_container;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.never = global::Amiibopedia.Droid.Resource.Id.never;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.none = global::Amiibopedia.Droid.Resource.Id.none;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.normal = global::Amiibopedia.Droid.Resource.Id.normal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.notification_background = global::Amiibopedia.Droid.Resource.Id.notification_background;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.notification_main_column = global::Amiibopedia.Droid.Resource.Id.notification_main_column;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.notification_main_column_container = global::Amiibopedia.Droid.Resource.Id.notification_main_column_container;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.off = global::Amiibopedia.Droid.Resource.Id.off;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.on = global::Amiibopedia.Droid.Resource.Id.on;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.outline = global::Amiibopedia.Droid.Resource.Id.outline;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.parallax = global::Amiibopedia.Droid.Resource.Id.parallax;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.parentPanel = global::Amiibopedia.Droid.Resource.Id.parentPanel;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.parent_matrix = global::Amiibopedia.Droid.Resource.Id.parent_matrix;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.pin = global::Amiibopedia.Droid.Resource.Id.pin;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.progress_circular = global::Amiibopedia.Droid.Resource.Id.progress_circular;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.progress_horizontal = global::Amiibopedia.Droid.Resource.Id.progress_horizontal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.radio = global::Amiibopedia.Droid.Resource.Id.radio;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.right = global::Amiibopedia.Droid.Resource.Id.right;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.right_icon = global::Amiibopedia.Droid.Resource.Id.right_icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.right_side = global::Amiibopedia.Droid.Resource.Id.right_side;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.save_non_transition_alpha = global::Amiibopedia.Droid.Resource.Id.save_non_transition_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.save_overlay_view = global::Amiibopedia.Droid.Resource.Id.save_overlay_view;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.screen = global::Amiibopedia.Droid.Resource.Id.screen;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.scroll = global::Amiibopedia.Droid.Resource.Id.scroll;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.scrollable = global::Amiibopedia.Droid.Resource.Id.scrollable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.scrollIndicatorDown = global::Amiibopedia.Droid.Resource.Id.scrollIndicatorDown;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.scrollIndicatorUp = global::Amiibopedia.Droid.Resource.Id.scrollIndicatorUp;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.scrollView = global::Amiibopedia.Droid.Resource.Id.scrollView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.search_badge = global::Amiibopedia.Droid.Resource.Id.search_badge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.search_bar = global::Amiibopedia.Droid.Resource.Id.search_bar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.search_button = global::Amiibopedia.Droid.Resource.Id.search_button;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.search_close_btn = global::Amiibopedia.Droid.Resource.Id.search_close_btn;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.search_edit_frame = global::Amiibopedia.Droid.Resource.Id.search_edit_frame;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.search_go_btn = global::Amiibopedia.Droid.Resource.Id.search_go_btn;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.search_mag_icon = global::Amiibopedia.Droid.Resource.Id.search_mag_icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.search_plate = global::Amiibopedia.Droid.Resource.Id.search_plate;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.search_src_text = global::Amiibopedia.Droid.Resource.Id.search_src_text;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.search_voice_btn = global::Amiibopedia.Droid.Resource.Id.search_voice_btn;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.selected = global::Amiibopedia.Droid.Resource.Id.selected;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.select_dialog_listview = global::Amiibopedia.Droid.Resource.Id.select_dialog_listview;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.shellcontent_appbar = global::Amiibopedia.Droid.Resource.Id.shellcontent_appbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.shellcontent_toolbar = global::Amiibopedia.Droid.Resource.Id.shellcontent_toolbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.SHIFT = global::Amiibopedia.Droid.Resource.Id.SHIFT;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.shortcut = global::Amiibopedia.Droid.Resource.Id.shortcut;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.showCustom = global::Amiibopedia.Droid.Resource.Id.showCustom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.showHome = global::Amiibopedia.Droid.Resource.Id.showHome;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.showTitle = global::Amiibopedia.Droid.Resource.Id.showTitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.sliding_tabs = global::Amiibopedia.Droid.Resource.Id.sliding_tabs;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.smallLabel = global::Amiibopedia.Droid.Resource.Id.smallLabel;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.snackbar_action = global::Amiibopedia.Droid.Resource.Id.snackbar_action;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.snackbar_text = global::Amiibopedia.Droid.Resource.Id.snackbar_text;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.snap = global::Amiibopedia.Droid.Resource.Id.snap;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.snapMargins = global::Amiibopedia.Droid.Resource.Id.snapMargins;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.spacer = global::Amiibopedia.Droid.Resource.Id.spacer;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.split_action_bar = global::Amiibopedia.Droid.Resource.Id.split_action_bar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.src_atop = global::Amiibopedia.Droid.Resource.Id.src_atop;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.src_in = global::Amiibopedia.Droid.Resource.Id.src_in;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.src_over = global::Amiibopedia.Droid.Resource.Id.src_over;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.start = global::Amiibopedia.Droid.Resource.Id.start;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.status_bar_latest_event_content = global::Amiibopedia.Droid.Resource.Id.status_bar_latest_event_content;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.stretch = global::Amiibopedia.Droid.Resource.Id.stretch;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.submenuarrow = global::Amiibopedia.Droid.Resource.Id.submenuarrow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.submit_area = global::Amiibopedia.Droid.Resource.Id.submit_area;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.SYM = global::Amiibopedia.Droid.Resource.Id.SYM;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.tabMode = global::Amiibopedia.Droid.Resource.Id.tabMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.tag_accessibility_actions = global::Amiibopedia.Droid.Resource.Id.tag_accessibility_actions;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.tag_accessibility_clickable_spans = global::Amiibopedia.Droid.Resource.Id.tag_accessibility_clickable_spans;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.tag_accessibility_heading = global::Amiibopedia.Droid.Resource.Id.tag_accessibility_heading;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.tag_accessibility_pane_title = global::Amiibopedia.Droid.Resource.Id.tag_accessibility_pane_title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.tag_screen_reader_focusable = global::Amiibopedia.Droid.Resource.Id.tag_screen_reader_focusable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.tag_transition_group = global::Amiibopedia.Droid.Resource.Id.tag_transition_group;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.tag_unhandled_key_event_manager = global::Amiibopedia.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.tag_unhandled_key_listeners = global::Amiibopedia.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.text = global::Amiibopedia.Droid.Resource.Id.text;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.text2 = global::Amiibopedia.Droid.Resource.Id.text2;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.textinput_counter = global::Amiibopedia.Droid.Resource.Id.textinput_counter;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.textinput_error = global::Amiibopedia.Droid.Resource.Id.textinput_error;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.textinput_helper_text = global::Amiibopedia.Droid.Resource.Id.textinput_helper_text;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.textSpacerNoButtons = global::Amiibopedia.Droid.Resource.Id.textSpacerNoButtons;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.textSpacerNoTitle = global::Amiibopedia.Droid.Resource.Id.textSpacerNoTitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.textStart = global::Amiibopedia.Droid.Resource.Id.textStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.time = global::Amiibopedia.Droid.Resource.Id.time;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.title = global::Amiibopedia.Droid.Resource.Id.title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.titleDividerNoCustom = global::Amiibopedia.Droid.Resource.Id.titleDividerNoCustom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.title_template = global::Amiibopedia.Droid.Resource.Id.title_template;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.toolbar = global::Amiibopedia.Droid.Resource.Id.toolbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.top = global::Amiibopedia.Droid.Resource.Id.top;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.topPanel = global::Amiibopedia.Droid.Resource.Id.topPanel;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.touch_outside = global::Amiibopedia.Droid.Resource.Id.touch_outside;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.transition_current_scene = global::Amiibopedia.Droid.Resource.Id.transition_current_scene;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.transition_layout_save = global::Amiibopedia.Droid.Resource.Id.transition_layout_save;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.transition_position = global::Amiibopedia.Droid.Resource.Id.transition_position;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.transition_scene_layoutid_cache = global::Amiibopedia.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.transition_transform = global::Amiibopedia.Droid.Resource.Id.transition_transform;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.@unchecked = global::Amiibopedia.Droid.Resource.Id.@unchecked;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.uniform = global::Amiibopedia.Droid.Resource.Id.uniform;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.unlabeled = global::Amiibopedia.Droid.Resource.Id.unlabeled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.up = global::Amiibopedia.Droid.Resource.Id.up;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.useLogo = global::Amiibopedia.Droid.Resource.Id.useLogo;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.view_offset_helper = global::Amiibopedia.Droid.Resource.Id.view_offset_helper;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.visible = global::Amiibopedia.Droid.Resource.Id.visible;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.withText = global::Amiibopedia.Droid.Resource.Id.withText;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Id.wrap_content = global::Amiibopedia.Droid.Resource.Id.wrap_content;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Integer.abc_config_activityDefaultDur = global::Amiibopedia.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Integer.abc_config_activityShortDur = global::Amiibopedia.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Integer.app_bar_elevation_anim_duration = global::Amiibopedia.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Integer.bottom_sheet_slide_duration = global::Amiibopedia.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Integer.cancel_button_image_alpha = global::Amiibopedia.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Integer.config_tooltipAnimTime = global::Amiibopedia.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Integer.design_snackbar_text_max_lines = global::Amiibopedia.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms = global::Amiibopedia.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Integer.hide_password_duration = global::Amiibopedia.Droid.Resource.Integer.hide_password_duration;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Integer.mtrl_btn_anim_delay_ms = global::Amiibopedia.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Integer.mtrl_btn_anim_duration_ms = global::Amiibopedia.Droid.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Integer.mtrl_chip_anim_duration = global::Amiibopedia.Droid.Resource.Integer.mtrl_chip_anim_duration;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::Amiibopedia.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Integer.show_password_duration = global::Amiibopedia.Droid.Resource.Integer.show_password_duration;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Integer.status_bar_notification_info_maxnum = global::Amiibopedia.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0 = global::Amiibopedia.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1 = global::Amiibopedia.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0 = global::Amiibopedia.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1 = global::Amiibopedia.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0 = global::Amiibopedia.Droid.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0 = global::Amiibopedia.Droid.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Interpolator.fast_out_slow_in = global::Amiibopedia.Droid.Resource.Interpolator.fast_out_slow_in;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Interpolator.mtrl_fast_out_linear_in = global::Amiibopedia.Droid.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Interpolator.mtrl_fast_out_slow_in = global::Amiibopedia.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Interpolator.mtrl_linear = global::Amiibopedia.Droid.Resource.Interpolator.mtrl_linear;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Interpolator.mtrl_linear_out_slow_in = global::Amiibopedia.Droid.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_action_bar_title_item = global::Amiibopedia.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_action_bar_up_container = global::Amiibopedia.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_action_menu_item_layout = global::Amiibopedia.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_action_menu_layout = global::Amiibopedia.Droid.Resource.Layout.abc_action_menu_layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_action_mode_bar = global::Amiibopedia.Droid.Resource.Layout.abc_action_mode_bar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_action_mode_close_item_material = global::Amiibopedia.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_activity_chooser_view = global::Amiibopedia.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_activity_chooser_view_list_item = global::Amiibopedia.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_alert_dialog_button_bar_material = global::Amiibopedia.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_alert_dialog_material = global::Amiibopedia.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_alert_dialog_title_material = global::Amiibopedia.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_cascading_menu_item_layout = global::Amiibopedia.Droid.Resource.Layout.abc_cascading_menu_item_layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_dialog_title_material = global::Amiibopedia.Droid.Resource.Layout.abc_dialog_title_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_expanded_menu_layout = global::Amiibopedia.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_list_menu_item_checkbox = global::Amiibopedia.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_list_menu_item_icon = global::Amiibopedia.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_list_menu_item_layout = global::Amiibopedia.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_list_menu_item_radio = global::Amiibopedia.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_popup_menu_header_item_layout = global::Amiibopedia.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_popup_menu_item_layout = global::Amiibopedia.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_screen_content_include = global::Amiibopedia.Droid.Resource.Layout.abc_screen_content_include;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_screen_simple = global::Amiibopedia.Droid.Resource.Layout.abc_screen_simple;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode = global::Amiibopedia.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_screen_toolbar = global::Amiibopedia.Droid.Resource.Layout.abc_screen_toolbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line = global::Amiibopedia.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_search_view = global::Amiibopedia.Droid.Resource.Layout.abc_search_view;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_select_dialog_material = global::Amiibopedia.Droid.Resource.Layout.abc_select_dialog_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.abc_tooltip = global::Amiibopedia.Droid.Resource.Layout.abc_tooltip;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.BottomTabLayout = global::Amiibopedia.Droid.Resource.Layout.BottomTabLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.browser_actions_context_menu_page = global::Amiibopedia.Droid.Resource.Layout.browser_actions_context_menu_page;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.browser_actions_context_menu_row = global::Amiibopedia.Droid.Resource.Layout.browser_actions_context_menu_row;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.CustomizedView = global::Amiibopedia.Droid.Resource.Layout.CustomizedView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.CustomizedView1 = global::Amiibopedia.Droid.Resource.Layout.CustomizedView1;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.custom_dialog = global::Amiibopedia.Droid.Resource.Layout.custom_dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.design_bottom_navigation_item = global::Amiibopedia.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.design_bottom_sheet_dialog = global::Amiibopedia.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.design_layout_snackbar = global::Amiibopedia.Droid.Resource.Layout.design_layout_snackbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.design_layout_snackbar_include = global::Amiibopedia.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.design_layout_tab_icon = global::Amiibopedia.Droid.Resource.Layout.design_layout_tab_icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.design_layout_tab_text = global::Amiibopedia.Droid.Resource.Layout.design_layout_tab_text;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.design_menu_item_action_area = global::Amiibopedia.Droid.Resource.Layout.design_menu_item_action_area;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.design_navigation_item = global::Amiibopedia.Droid.Resource.Layout.design_navigation_item;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.design_navigation_item_header = global::Amiibopedia.Droid.Resource.Layout.design_navigation_item_header;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.design_navigation_item_separator = global::Amiibopedia.Droid.Resource.Layout.design_navigation_item_separator;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.design_navigation_item_subheader = global::Amiibopedia.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.design_navigation_menu = global::Amiibopedia.Droid.Resource.Layout.design_navigation_menu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.design_navigation_menu_item = global::Amiibopedia.Droid.Resource.Layout.design_navigation_menu_item;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.FallbackTabbarDoNotUse = global::Amiibopedia.Droid.Resource.Layout.FallbackTabbarDoNotUse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.FallbackToolbarDoNotUse = global::Amiibopedia.Droid.Resource.Layout.FallbackToolbarDoNotUse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.FlyoutContent = global::Amiibopedia.Droid.Resource.Layout.FlyoutContent;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.mtrl_layout_snackbar = global::Amiibopedia.Droid.Resource.Layout.mtrl_layout_snackbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.mtrl_layout_snackbar_include = global::Amiibopedia.Droid.Resource.Layout.mtrl_layout_snackbar_include;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.notification_action = global::Amiibopedia.Droid.Resource.Layout.notification_action;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.notification_action_tombstone = global::Amiibopedia.Droid.Resource.Layout.notification_action_tombstone;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.notification_media_action = global::Amiibopedia.Droid.Resource.Layout.notification_media_action;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.notification_media_cancel_action = global::Amiibopedia.Droid.Resource.Layout.notification_media_cancel_action;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.notification_template_big_media = global::Amiibopedia.Droid.Resource.Layout.notification_template_big_media;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.notification_template_big_media_custom = global::Amiibopedia.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.notification_template_big_media_narrow = global::Amiibopedia.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.notification_template_big_media_narrow_custom = global::Amiibopedia.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.notification_template_custom_big = global::Amiibopedia.Droid.Resource.Layout.notification_template_custom_big;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.notification_template_icon_group = global::Amiibopedia.Droid.Resource.Layout.notification_template_icon_group;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.notification_template_lines_media = global::Amiibopedia.Droid.Resource.Layout.notification_template_lines_media;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.notification_template_media = global::Amiibopedia.Droid.Resource.Layout.notification_template_media;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.notification_template_media_custom = global::Amiibopedia.Droid.Resource.Layout.notification_template_media_custom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.notification_template_part_chronometer = global::Amiibopedia.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.notification_template_part_time = global::Amiibopedia.Droid.Resource.Layout.notification_template_part_time;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.RootLayout = global::Amiibopedia.Droid.Resource.Layout.RootLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.select_dialog_item_material = global::Amiibopedia.Droid.Resource.Layout.select_dialog_item_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.select_dialog_multichoice_material = global::Amiibopedia.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.select_dialog_singlechoice_material = global::Amiibopedia.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.sfautocomplete_layout = global::Amiibopedia.Droid.Resource.Layout.sfautocomplete_layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.ShellContent = global::Amiibopedia.Droid.Resource.Layout.ShellContent;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.support_simple_spinner_dropdown_item = global::Amiibopedia.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.Tabbar = global::Amiibopedia.Droid.Resource.Layout.Tabbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Layout.Toolbar = global::Amiibopedia.Droid.Resource.Layout.Toolbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_action_bar_home_description = global::Amiibopedia.Droid.Resource.String.abc_action_bar_home_description;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_action_bar_up_description = global::Amiibopedia.Droid.Resource.String.abc_action_bar_up_description;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_action_menu_overflow_description = global::Amiibopedia.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_action_mode_done = global::Amiibopedia.Droid.Resource.String.abc_action_mode_done;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_activitychooserview_choose_application = global::Amiibopedia.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_activity_chooser_view_see_all = global::Amiibopedia.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_capital_off = global::Amiibopedia.Droid.Resource.String.abc_capital_off;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_capital_on = global::Amiibopedia.Droid.Resource.String.abc_capital_on;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_menu_alt_shortcut_label = global::Amiibopedia.Droid.Resource.String.abc_menu_alt_shortcut_label;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_menu_ctrl_shortcut_label = global::Amiibopedia.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_menu_delete_shortcut_label = global::Amiibopedia.Droid.Resource.String.abc_menu_delete_shortcut_label;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_menu_enter_shortcut_label = global::Amiibopedia.Droid.Resource.String.abc_menu_enter_shortcut_label;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_menu_function_shortcut_label = global::Amiibopedia.Droid.Resource.String.abc_menu_function_shortcut_label;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_menu_meta_shortcut_label = global::Amiibopedia.Droid.Resource.String.abc_menu_meta_shortcut_label;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_menu_shift_shortcut_label = global::Amiibopedia.Droid.Resource.String.abc_menu_shift_shortcut_label;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_menu_space_shortcut_label = global::Amiibopedia.Droid.Resource.String.abc_menu_space_shortcut_label;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_menu_sym_shortcut_label = global::Amiibopedia.Droid.Resource.String.abc_menu_sym_shortcut_label;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_prepend_shortcut_label = global::Amiibopedia.Droid.Resource.String.abc_prepend_shortcut_label;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_searchview_description_clear = global::Amiibopedia.Droid.Resource.String.abc_searchview_description_clear;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_searchview_description_query = global::Amiibopedia.Droid.Resource.String.abc_searchview_description_query;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_searchview_description_search = global::Amiibopedia.Droid.Resource.String.abc_searchview_description_search;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_searchview_description_submit = global::Amiibopedia.Droid.Resource.String.abc_searchview_description_submit;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_searchview_description_voice = global::Amiibopedia.Droid.Resource.String.abc_searchview_description_voice;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_search_hint = global::Amiibopedia.Droid.Resource.String.abc_search_hint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_shareactionprovider_share_with = global::Amiibopedia.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_shareactionprovider_share_with_application = global::Amiibopedia.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.abc_toolbar_collapse_description = global::Amiibopedia.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.appbar_scrolling_view_behavior = global::Amiibopedia.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.bottom_sheet_behavior = global::Amiibopedia.Droid.Resource.String.bottom_sheet_behavior;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.character_counter_content_description = global::Amiibopedia.Droid.Resource.String.character_counter_content_description;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.character_counter_pattern = global::Amiibopedia.Droid.Resource.String.character_counter_pattern;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.fab_transformation_scrim_behavior = global::Amiibopedia.Droid.Resource.String.fab_transformation_scrim_behavior;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.fab_transformation_sheet_behavior = global::Amiibopedia.Droid.Resource.String.fab_transformation_sheet_behavior;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.hide_bottom_view_on_scroll_behavior = global::Amiibopedia.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.mtrl_chip_close_icon_content_description = global::Amiibopedia.Droid.Resource.String.mtrl_chip_close_icon_content_description;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.password_toggle_content_description = global::Amiibopedia.Droid.Resource.String.password_toggle_content_description;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.path_password_eye = global::Amiibopedia.Droid.Resource.String.path_password_eye;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.path_password_eye_mask_strike_through = global::Amiibopedia.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.path_password_eye_mask_visible = global::Amiibopedia.Droid.Resource.String.path_password_eye_mask_visible;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.path_password_strike_through = global::Amiibopedia.Droid.Resource.String.path_password_strike_through;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.search_menu_title = global::Amiibopedia.Droid.Resource.String.search_menu_title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.String.status_bar_notification_info_overflow = global::Amiibopedia.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.AlertDialog_AppCompat = global::Amiibopedia.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.AlertDialog_AppCompat_Light = global::Amiibopedia.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Animation_AppCompat_Dialog = global::Amiibopedia.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Animation_AppCompat_DropDownUp = global::Amiibopedia.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Animation_AppCompat_Tooltip = global::Amiibopedia.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Animation_Design_BottomSheetDialog = global::Amiibopedia.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_AlertDialog_AppCompat = global::Amiibopedia.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light = global::Amiibopedia.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Animation_AppCompat_Dialog = global::Amiibopedia.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::Amiibopedia.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip = global::Amiibopedia.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_CardView = global::Amiibopedia.Droid.Resource.Style.Base_CardView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::Amiibopedia.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat = global::Amiibopedia.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::Amiibopedia.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_ThemeOverlay_AppCompat = global::Amiibopedia.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::Amiibopedia.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::Amiibopedia.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::Amiibopedia.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::Amiibopedia.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::Amiibopedia.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::Amiibopedia.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::Amiibopedia.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::Amiibopedia.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_AppCompat = global::Amiibopedia.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::Amiibopedia.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_AppCompat_Dialog = global::Amiibopedia.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::Amiibopedia.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::Amiibopedia.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::Amiibopedia.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::Amiibopedia.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_AppCompat_Light = global::Amiibopedia.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::Amiibopedia.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::Amiibopedia.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::Amiibopedia.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::Amiibopedia.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::Amiibopedia.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::Amiibopedia.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_MaterialComponents = global::Amiibopedia.Droid.Resource.Style.Base_Theme_MaterialComponents;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::Amiibopedia.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::Amiibopedia.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::Amiibopedia.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::Amiibopedia.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::Amiibopedia.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::Amiibopedia.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::Amiibopedia.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_MaterialComponents_Light = global::Amiibopedia.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::Amiibopedia.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::Amiibopedia.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::Amiibopedia.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::Amiibopedia.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::Amiibopedia.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::Amiibopedia.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::Amiibopedia.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::Amiibopedia.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::Amiibopedia.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::Amiibopedia.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V14_Theme_MaterialComponents = global::Amiibopedia.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::Amiibopedia.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::Amiibopedia.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::Amiibopedia.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::Amiibopedia.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::Amiibopedia.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::Amiibopedia.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::Amiibopedia.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V21_Theme_AppCompat = global::Amiibopedia.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::Amiibopedia.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light = global::Amiibopedia.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::Amiibopedia.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V22_Theme_AppCompat = global::Amiibopedia.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light = global::Amiibopedia.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V23_Theme_AppCompat = global::Amiibopedia.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light = global::Amiibopedia.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V26_Theme_AppCompat = global::Amiibopedia.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light = global::Amiibopedia.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::Amiibopedia.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V28_Theme_AppCompat = global::Amiibopedia.Droid.Resource.Style.Base_V28_Theme_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light = global::Amiibopedia.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::Amiibopedia.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V7_Theme_AppCompat = global::Amiibopedia.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::Amiibopedia.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light = global::Amiibopedia.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::Amiibopedia.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::Amiibopedia.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::Amiibopedia.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::Amiibopedia.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_Button = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_EditText = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ListView = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_SearchView = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_Spinner = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_TextView = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_TextView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::Amiibopedia.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_Design_TabLayout = global::Amiibopedia.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip = global::Amiibopedia.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::Amiibopedia.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::Amiibopedia.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.CardView = global::Amiibopedia.Droid.Resource.Style.CardView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.CardView_Dark = global::Amiibopedia.Droid.Resource.Style.CardView_Dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.CardView_Light = global::Amiibopedia.Droid.Resource.Style.CardView_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Platform_AppCompat = global::Amiibopedia.Droid.Resource.Style.Platform_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Platform_AppCompat_Light = global::Amiibopedia.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Platform_MaterialComponents = global::Amiibopedia.Droid.Resource.Style.Platform_MaterialComponents;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Platform_MaterialComponents_Dialog = global::Amiibopedia.Droid.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Platform_MaterialComponents_Light = global::Amiibopedia.Droid.Resource.Style.Platform_MaterialComponents_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::Amiibopedia.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat = global::Amiibopedia.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::Amiibopedia.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::Amiibopedia.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Platform_V21_AppCompat = global::Amiibopedia.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Platform_V21_AppCompat_Light = global::Amiibopedia.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Platform_V25_AppCompat = global::Amiibopedia.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Platform_V25_AppCompat_Light = global::Amiibopedia.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner = global::Amiibopedia.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::Amiibopedia.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::Amiibopedia.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::Amiibopedia.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::Amiibopedia.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::Amiibopedia.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::Amiibopedia.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::Amiibopedia.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::Amiibopedia.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::Amiibopedia.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::Amiibopedia.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::Amiibopedia.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::Amiibopedia.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::Amiibopedia.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::Amiibopedia.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::Amiibopedia.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::Amiibopedia.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::Amiibopedia.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Body1 = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Body2 = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Button = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Caption = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Display1 = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Display2 = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Display3 = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Display4 = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Headline = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Inverse = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Large = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Medium = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Menu = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Small = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Subhead = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Title = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Amiibopedia.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Compat_Notification = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Compat_Notification_Info = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Compat_Notification_Media = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Compat_Notification_Time = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Compat_Notification_Title = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Design_Counter = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Design_Error = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Design_HelperText = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Design_HelperText;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Design_Hint = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Design_Tab = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::Amiibopedia.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::Amiibopedia.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_MaterialComponents_Button = global::Amiibopedia.Droid.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption = global::Amiibopedia.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip = global::Amiibopedia.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::Amiibopedia.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::Amiibopedia.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::Amiibopedia.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::Amiibopedia.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::Amiibopedia.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::Amiibopedia.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline = global::Amiibopedia.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::Amiibopedia.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::Amiibopedia.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::Amiibopedia.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_AppCompat = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_AppCompat_Light = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_MaterialComponents = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::Amiibopedia.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_CompactMenu = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_DayNight = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_Dialog = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_Light = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_Light_Dialog = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_AppCompat_NoActionBar = global::Amiibopedia.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_Design = global::Amiibopedia.Droid.Resource.Style.Theme_Design;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_Design_BottomSheetDialog = global::Amiibopedia.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_Design_Light = global::Amiibopedia.Droid.Resource.Style.Theme_Design_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::Amiibopedia.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_Design_Light_NoActionBar = global::Amiibopedia.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_Design_NoActionBar = global::Amiibopedia.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_Bridge = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_Dialog = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_Light = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_Light;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::Amiibopedia.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ActionBar = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ActionButton = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ActionMode = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Button = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ButtonBar = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Button_Borderless = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Button_Colored = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Button_Small = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_EditText = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ImageButton = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_SearchView = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ListMenuView = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ListView = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ListView_Menu = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_PopupMenu = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_PopupWindow = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ProgressBar = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_RatingBar = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_SearchView = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_SeekBar = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Spinner = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_TextView = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_TextView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Toolbar = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::Amiibopedia.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_Compat_NotificationActionContainer = global::Amiibopedia.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_Compat_NotificationActionText = global::Amiibopedia.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_Design_AppBarLayout = global::Amiibopedia.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_Design_BottomNavigationView = global::Amiibopedia.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_Design_BottomSheet_Modal = global::Amiibopedia.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_Design_CollapsingToolbar = global::Amiibopedia.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_Design_FloatingActionButton = global::Amiibopedia.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_Design_NavigationView = global::Amiibopedia.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::Amiibopedia.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_Design_Snackbar = global::Amiibopedia.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_Design_TabLayout = global::Amiibopedia.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_Design_TextInputLayout = global::Amiibopedia.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_Button = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_Button;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_CardView = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_CardView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_NavigationView = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_Snackbar = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_TabLayout = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_MaterialComponents_Toolbar = global::Amiibopedia.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Style.Widget_Support_CoordinatorLayout = global::Amiibopedia.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar = global::Amiibopedia.Droid.Resource.Styleable.ActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBarLayout = global::Amiibopedia.Droid.Resource.Styleable.ActionBarLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::Amiibopedia.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_background = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_background;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_backgroundSplit = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_backgroundStacked = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_contentInsetEnd = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_contentInsetLeft = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_contentInsetRight = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_contentInsetStart = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_customNavigationLayout = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_displayOptions = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_divider = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_divider;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_elevation = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_height = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_height;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_hideOnContentScroll = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_homeLayout = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_icon = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_itemPadding = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_logo = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_logo;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_navigationMode = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_popupTheme = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_progressBarPadding = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_progressBarStyle = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_subtitle = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_subtitleTextStyle = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_title = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionBar_titleTextStyle = global::Amiibopedia.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionMenuItemView = global::Amiibopedia.Droid.Resource.Styleable.ActionMenuItemView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth = global::Amiibopedia.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionMenuView = global::Amiibopedia.Droid.Resource.Styleable.ActionMenuView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionMode = global::Amiibopedia.Droid.Resource.Styleable.ActionMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionMode_background = global::Amiibopedia.Droid.Resource.Styleable.ActionMode_background;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionMode_backgroundSplit = global::Amiibopedia.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionMode_closeItemLayout = global::Amiibopedia.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionMode_height = global::Amiibopedia.Droid.Resource.Styleable.ActionMode_height;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionMode_subtitleTextStyle = global::Amiibopedia.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActionMode_titleTextStyle = global::Amiibopedia.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActivityChooserView = global::Amiibopedia.Droid.Resource.Styleable.ActivityChooserView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::Amiibopedia.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount = global::Amiibopedia.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AlertDialog = global::Amiibopedia.Droid.Resource.Styleable.AlertDialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AlertDialog_android_layout = global::Amiibopedia.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AlertDialog_buttonIconDimen = global::Amiibopedia.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::Amiibopedia.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AlertDialog_listItemLayout = global::Amiibopedia.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AlertDialog_listLayout = global::Amiibopedia.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::Amiibopedia.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AlertDialog_showTitle = global::Amiibopedia.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::Amiibopedia.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AnimatedStateListDrawableCompat = global::Amiibopedia.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::Amiibopedia.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::Amiibopedia.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::Amiibopedia.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::Amiibopedia.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::Amiibopedia.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::Amiibopedia.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AnimatedStateListDrawableItem = global::Amiibopedia.Droid.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::Amiibopedia.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::Amiibopedia.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AnimatedStateListDrawableTransition = global::Amiibopedia.Droid.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::Amiibopedia.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::Amiibopedia.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::Amiibopedia.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::Amiibopedia.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppBarLayout = global::Amiibopedia.Droid.Resource.Styleable.AppBarLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppBarLayoutStates = global::Amiibopedia.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::Amiibopedia.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::Amiibopedia.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable = global::Amiibopedia.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted = global::Amiibopedia.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppBarLayout_android_background = global::Amiibopedia.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::Amiibopedia.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::Amiibopedia.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppBarLayout_elevation = global::Amiibopedia.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppBarLayout_expanded = global::Amiibopedia.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppBarLayout_Layout = global::Amiibopedia.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::Amiibopedia.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::Amiibopedia.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppBarLayout_liftOnScroll = global::Amiibopedia.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatImageView = global::Amiibopedia.Droid.Resource.Styleable.AppCompatImageView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatImageView_android_src = global::Amiibopedia.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatImageView_srcCompat = global::Amiibopedia.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatImageView_tint = global::Amiibopedia.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatImageView_tintMode = global::Amiibopedia.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatSeekBar = global::Amiibopedia.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb = global::Amiibopedia.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatSeekBar_tickMark = global::Amiibopedia.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::Amiibopedia.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::Amiibopedia.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextHelper = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_drawableBottomCompat = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_drawableBottomCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_drawableEndCompat = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_drawableEndCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_drawableLeftCompat = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_drawableLeftCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_drawableRightCompat = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_drawableRightCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_drawableStartCompat = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_drawableStartCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_drawableTint = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_drawableTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_drawableTintMode = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_drawableTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_drawableTopCompat = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_drawableTopCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_fontFamily = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_fontVariationSettings = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_fontVariationSettings;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_lineHeight = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_textAllCaps = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTextView_textLocale = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTextView_textLocale;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionBarSize = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_buttonStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_colorAccent = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_colorError = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_colorPrimary = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_controlBackground = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_dialogTheme = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_dividerVertical = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_editTextBackground = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_editTextColor = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_editTextStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_panelBackground = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_switchStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_windowActionBar = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle = global::Amiibopedia.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomAppBar = global::Amiibopedia.Droid.Resource.Styleable.BottomAppBar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomAppBar_backgroundTint = global::Amiibopedia.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::Amiibopedia.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin = global::Amiibopedia.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::Amiibopedia.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::Amiibopedia.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomAppBar_hideOnScroll = global::Amiibopedia.Droid.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomNavigationView = global::Amiibopedia.Droid.Resource.Styleable.BottomNavigationView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomNavigationView_elevation = global::Amiibopedia.Droid.Resource.Styleable.BottomNavigationView_elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomNavigationView_itemBackground = global::Amiibopedia.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::Amiibopedia.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomNavigationView_itemIconSize = global::Amiibopedia.Droid.Resource.Styleable.BottomNavigationView_itemIconSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomNavigationView_itemIconTint = global::Amiibopedia.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::Amiibopedia.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::Amiibopedia.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomNavigationView_itemTextColor = global::Amiibopedia.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::Amiibopedia.Droid.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomNavigationView_menu = global::Amiibopedia.Droid.Resource.Styleable.BottomNavigationView_menu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomSheetBehavior_Layout = global::Amiibopedia.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::Amiibopedia.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::Amiibopedia.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::Amiibopedia.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::Amiibopedia.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ButtonBarLayout = global::Amiibopedia.Droid.Resource.Styleable.ButtonBarLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ButtonBarLayout_allowStacking = global::Amiibopedia.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CardView = global::Amiibopedia.Droid.Resource.Styleable.CardView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CardView_android_minHeight = global::Amiibopedia.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CardView_android_minWidth = global::Amiibopedia.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CardView_cardBackgroundColor = global::Amiibopedia.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CardView_cardCornerRadius = global::Amiibopedia.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CardView_cardElevation = global::Amiibopedia.Droid.Resource.Styleable.CardView_cardElevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CardView_cardMaxElevation = global::Amiibopedia.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap = global::Amiibopedia.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CardView_cardUseCompatPadding = global::Amiibopedia.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CardView_contentPadding = global::Amiibopedia.Droid.Resource.Styleable.CardView_contentPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CardView_contentPaddingBottom = global::Amiibopedia.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CardView_contentPaddingLeft = global::Amiibopedia.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CardView_contentPaddingRight = global::Amiibopedia.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CardView_contentPaddingTop = global::Amiibopedia.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip = global::Amiibopedia.Droid.Resource.Styleable.Chip;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ChipGroup = global::Amiibopedia.Droid.Resource.Styleable.ChipGroup;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ChipGroup_checkedChip = global::Amiibopedia.Droid.Resource.Styleable.ChipGroup_checkedChip;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ChipGroup_chipSpacing = global::Amiibopedia.Droid.Resource.Styleable.ChipGroup_chipSpacing;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::Amiibopedia.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical = global::Amiibopedia.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ChipGroup_singleLine = global::Amiibopedia.Droid.Resource.Styleable.ChipGroup_singleLine;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ChipGroup_singleSelection = global::Amiibopedia.Droid.Resource.Styleable.ChipGroup_singleSelection;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_android_checkable = global::Amiibopedia.Droid.Resource.Styleable.Chip_android_checkable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_android_ellipsize = global::Amiibopedia.Droid.Resource.Styleable.Chip_android_ellipsize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_android_maxWidth = global::Amiibopedia.Droid.Resource.Styleable.Chip_android_maxWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_android_text = global::Amiibopedia.Droid.Resource.Styleable.Chip_android_text;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_android_textAppearance = global::Amiibopedia.Droid.Resource.Styleable.Chip_android_textAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_checkedIcon = global::Amiibopedia.Droid.Resource.Styleable.Chip_checkedIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_checkedIconEnabled = global::Amiibopedia.Droid.Resource.Styleable.Chip_checkedIconEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_checkedIconVisible = global::Amiibopedia.Droid.Resource.Styleable.Chip_checkedIconVisible;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_chipBackgroundColor = global::Amiibopedia.Droid.Resource.Styleable.Chip_chipBackgroundColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_chipCornerRadius = global::Amiibopedia.Droid.Resource.Styleable.Chip_chipCornerRadius;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_chipEndPadding = global::Amiibopedia.Droid.Resource.Styleable.Chip_chipEndPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_chipIcon = global::Amiibopedia.Droid.Resource.Styleable.Chip_chipIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_chipIconEnabled = global::Amiibopedia.Droid.Resource.Styleable.Chip_chipIconEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_chipIconSize = global::Amiibopedia.Droid.Resource.Styleable.Chip_chipIconSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_chipIconTint = global::Amiibopedia.Droid.Resource.Styleable.Chip_chipIconTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_chipIconVisible = global::Amiibopedia.Droid.Resource.Styleable.Chip_chipIconVisible;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_chipMinHeight = global::Amiibopedia.Droid.Resource.Styleable.Chip_chipMinHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_chipStartPadding = global::Amiibopedia.Droid.Resource.Styleable.Chip_chipStartPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_chipStrokeColor = global::Amiibopedia.Droid.Resource.Styleable.Chip_chipStrokeColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_chipStrokeWidth = global::Amiibopedia.Droid.Resource.Styleable.Chip_chipStrokeWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_closeIcon = global::Amiibopedia.Droid.Resource.Styleable.Chip_closeIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_closeIconEnabled = global::Amiibopedia.Droid.Resource.Styleable.Chip_closeIconEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_closeIconEndPadding = global::Amiibopedia.Droid.Resource.Styleable.Chip_closeIconEndPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_closeIconSize = global::Amiibopedia.Droid.Resource.Styleable.Chip_closeIconSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_closeIconStartPadding = global::Amiibopedia.Droid.Resource.Styleable.Chip_closeIconStartPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_closeIconTint = global::Amiibopedia.Droid.Resource.Styleable.Chip_closeIconTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_closeIconVisible = global::Amiibopedia.Droid.Resource.Styleable.Chip_closeIconVisible;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_hideMotionSpec = global::Amiibopedia.Droid.Resource.Styleable.Chip_hideMotionSpec;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_iconEndPadding = global::Amiibopedia.Droid.Resource.Styleable.Chip_iconEndPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_iconStartPadding = global::Amiibopedia.Droid.Resource.Styleable.Chip_iconStartPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_rippleColor = global::Amiibopedia.Droid.Resource.Styleable.Chip_rippleColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_showMotionSpec = global::Amiibopedia.Droid.Resource.Styleable.Chip_showMotionSpec;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_textEndPadding = global::Amiibopedia.Droid.Resource.Styleable.Chip_textEndPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Chip_textStartPadding = global::Amiibopedia.Droid.Resource.Styleable.Chip_textStartPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout_title = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::Amiibopedia.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ColorStateListItem = global::Amiibopedia.Droid.Resource.Styleable.ColorStateListItem;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ColorStateListItem_alpha = global::Amiibopedia.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ColorStateListItem_android_alpha = global::Amiibopedia.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ColorStateListItem_android_color = global::Amiibopedia.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CompoundButton = global::Amiibopedia.Droid.Resource.Styleable.CompoundButton;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CompoundButton_android_button = global::Amiibopedia.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CompoundButton_buttonCompat = global::Amiibopedia.Droid.Resource.Styleable.CompoundButton_buttonCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CompoundButton_buttonTint = global::Amiibopedia.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CompoundButton_buttonTintMode = global::Amiibopedia.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CoordinatorLayout = global::Amiibopedia.Droid.Resource.Styleable.CoordinatorLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CoordinatorLayout_keylines = global::Amiibopedia.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CoordinatorLayout_Layout = global::Amiibopedia.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::Amiibopedia.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::Amiibopedia.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::Amiibopedia.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::Amiibopedia.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::Amiibopedia.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::Amiibopedia.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::Amiibopedia.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::Amiibopedia.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.DrawerArrowToggle = global::Amiibopedia.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::Amiibopedia.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::Amiibopedia.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.DrawerArrowToggle_barLength = global::Amiibopedia.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.DrawerArrowToggle_color = global::Amiibopedia.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize = global::Amiibopedia.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::Amiibopedia.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.DrawerArrowToggle_spinBars = global::Amiibopedia.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.DrawerArrowToggle_thickness = global::Amiibopedia.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FloatingActionButton = global::Amiibopedia.Droid.Resource.Styleable.FloatingActionButton;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FloatingActionButton_backgroundTint = global::Amiibopedia.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::Amiibopedia.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::Amiibopedia.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::Amiibopedia.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FloatingActionButton_borderWidth = global::Amiibopedia.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FloatingActionButton_elevation = global::Amiibopedia.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize = global::Amiibopedia.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FloatingActionButton_fabSize = global::Amiibopedia.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::Amiibopedia.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::Amiibopedia.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FloatingActionButton_maxImageSize = global::Amiibopedia.Droid.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::Amiibopedia.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FloatingActionButton_rippleColor = global::Amiibopedia.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec = global::Amiibopedia.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding = global::Amiibopedia.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FlowLayout = global::Amiibopedia.Droid.Resource.Styleable.FlowLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FlowLayout_itemSpacing = global::Amiibopedia.Droid.Resource.Styleable.FlowLayout_itemSpacing;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FlowLayout_lineSpacing = global::Amiibopedia.Droid.Resource.Styleable.FlowLayout_lineSpacing;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FontFamily = global::Amiibopedia.Droid.Resource.Styleable.FontFamily;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FontFamilyFont = global::Amiibopedia.Droid.Resource.Styleable.FontFamilyFont;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FontFamilyFont_android_font = global::Amiibopedia.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle = global::Amiibopedia.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::Amiibopedia.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight = global::Amiibopedia.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::Amiibopedia.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FontFamilyFont_font = global::Amiibopedia.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FontFamilyFont_fontStyle = global::Amiibopedia.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::Amiibopedia.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FontFamilyFont_fontWeight = global::Amiibopedia.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FontFamilyFont_ttcIndex = global::Amiibopedia.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FontFamily_fontProviderAuthority = global::Amiibopedia.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FontFamily_fontProviderCerts = global::Amiibopedia.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::Amiibopedia.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::Amiibopedia.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FontFamily_fontProviderPackage = global::Amiibopedia.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.FontFamily_fontProviderQuery = global::Amiibopedia.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ForegroundLinearLayout = global::Amiibopedia.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::Amiibopedia.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::Amiibopedia.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::Amiibopedia.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.GradientColor = global::Amiibopedia.Droid.Resource.Styleable.GradientColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.GradientColorItem = global::Amiibopedia.Droid.Resource.Styleable.GradientColorItem;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.GradientColorItem_android_color = global::Amiibopedia.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.GradientColorItem_android_offset = global::Amiibopedia.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.GradientColor_android_centerColor = global::Amiibopedia.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.GradientColor_android_centerX = global::Amiibopedia.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.GradientColor_android_centerY = global::Amiibopedia.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.GradientColor_android_endColor = global::Amiibopedia.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.GradientColor_android_endX = global::Amiibopedia.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.GradientColor_android_endY = global::Amiibopedia.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.GradientColor_android_gradientRadius = global::Amiibopedia.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.GradientColor_android_startColor = global::Amiibopedia.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.GradientColor_android_startX = global::Amiibopedia.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.GradientColor_android_startY = global::Amiibopedia.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.GradientColor_android_tileMode = global::Amiibopedia.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.GradientColor_android_type = global::Amiibopedia.Droid.Resource.Styleable.GradientColor_android_type;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.LinearLayoutCompat = global::Amiibopedia.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::Amiibopedia.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::Amiibopedia.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity = global::Amiibopedia.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation = global::Amiibopedia.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::Amiibopedia.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.LinearLayoutCompat_divider = global::Amiibopedia.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::Amiibopedia.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.LinearLayoutCompat_Layout = global::Amiibopedia.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::Amiibopedia.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::Amiibopedia.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::Amiibopedia.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::Amiibopedia.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::Amiibopedia.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.LinearLayoutCompat_showDividers = global::Amiibopedia.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ListPopupWindow = global::Amiibopedia.Droid.Resource.Styleable.ListPopupWindow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::Amiibopedia.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::Amiibopedia.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialButton = global::Amiibopedia.Droid.Resource.Styleable.MaterialButton;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialButton_android_insetBottom = global::Amiibopedia.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialButton_android_insetLeft = global::Amiibopedia.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialButton_android_insetRight = global::Amiibopedia.Droid.Resource.Styleable.MaterialButton_android_insetRight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialButton_android_insetTop = global::Amiibopedia.Droid.Resource.Styleable.MaterialButton_android_insetTop;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialButton_backgroundTint = global::Amiibopedia.Droid.Resource.Styleable.MaterialButton_backgroundTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialButton_backgroundTintMode = global::Amiibopedia.Droid.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialButton_cornerRadius = global::Amiibopedia.Droid.Resource.Styleable.MaterialButton_cornerRadius;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialButton_icon = global::Amiibopedia.Droid.Resource.Styleable.MaterialButton_icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialButton_iconGravity = global::Amiibopedia.Droid.Resource.Styleable.MaterialButton_iconGravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialButton_iconPadding = global::Amiibopedia.Droid.Resource.Styleable.MaterialButton_iconPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialButton_iconSize = global::Amiibopedia.Droid.Resource.Styleable.MaterialButton_iconSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialButton_iconTint = global::Amiibopedia.Droid.Resource.Styleable.MaterialButton_iconTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialButton_iconTintMode = global::Amiibopedia.Droid.Resource.Styleable.MaterialButton_iconTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialButton_rippleColor = global::Amiibopedia.Droid.Resource.Styleable.MaterialButton_rippleColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialButton_strokeColor = global::Amiibopedia.Droid.Resource.Styleable.MaterialButton_strokeColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialButton_strokeWidth = global::Amiibopedia.Droid.Resource.Styleable.MaterialButton_strokeWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialCardView = global::Amiibopedia.Droid.Resource.Styleable.MaterialCardView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialCardView_strokeColor = global::Amiibopedia.Droid.Resource.Styleable.MaterialCardView_strokeColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MaterialCardView_strokeWidth = global::Amiibopedia.Droid.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuGroup = global::Amiibopedia.Droid.Resource.Styleable.MenuGroup;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior = global::Amiibopedia.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuGroup_android_enabled = global::Amiibopedia.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuGroup_android_id = global::Amiibopedia.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuGroup_android_menuCategory = global::Amiibopedia.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuGroup_android_orderInCategory = global::Amiibopedia.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuGroup_android_visible = global::Amiibopedia.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem = global::Amiibopedia.Droid.Resource.Styleable.MenuItem;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_actionLayout = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_actionProviderClass = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_actionViewClass = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_alphabeticModifiers = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_android_checkable = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_android_checked = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_android_enabled = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_android_icon = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_android_id = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_android_id;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_android_menuCategory = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_android_numericShortcut = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_android_onClick = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_android_orderInCategory = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_android_title = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_android_title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_android_titleCondensed = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_android_visible = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_contentDescription = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_iconTint = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_iconTintMode = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_numericModifiers = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_showAsAction = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuItem_tooltipText = global::Amiibopedia.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuView = global::Amiibopedia.Droid.Resource.Styleable.MenuView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuView_android_headerBackground = global::Amiibopedia.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuView_android_horizontalDivider = global::Amiibopedia.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuView_android_itemBackground = global::Amiibopedia.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::Amiibopedia.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuView_android_itemTextAppearance = global::Amiibopedia.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuView_android_verticalDivider = global::Amiibopedia.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle = global::Amiibopedia.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuView_preserveIconSpacing = global::Amiibopedia.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.MenuView_subMenuArrow = global::Amiibopedia.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.NavigationView = global::Amiibopedia.Droid.Resource.Styleable.NavigationView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.NavigationView_android_background = global::Amiibopedia.Droid.Resource.Styleable.NavigationView_android_background;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::Amiibopedia.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.NavigationView_android_maxWidth = global::Amiibopedia.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.NavigationView_elevation = global::Amiibopedia.Droid.Resource.Styleable.NavigationView_elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.NavigationView_headerLayout = global::Amiibopedia.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.NavigationView_itemBackground = global::Amiibopedia.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding = global::Amiibopedia.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.NavigationView_itemIconPadding = global::Amiibopedia.Droid.Resource.Styleable.NavigationView_itemIconPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.NavigationView_itemIconTint = global::Amiibopedia.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.NavigationView_itemTextAppearance = global::Amiibopedia.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.NavigationView_itemTextColor = global::Amiibopedia.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.NavigationView_menu = global::Amiibopedia.Droid.Resource.Styleable.NavigationView_menu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.PopupWindow = global::Amiibopedia.Droid.Resource.Styleable.PopupWindow;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.PopupWindowBackgroundState = global::Amiibopedia.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::Amiibopedia.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::Amiibopedia.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.PopupWindow_android_popupBackground = global::Amiibopedia.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.PopupWindow_overlapAnchor = global::Amiibopedia.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.RecycleListView = global::Amiibopedia.Droid.Resource.Styleable.RecycleListView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::Amiibopedia.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::Amiibopedia.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.RecyclerView = global::Amiibopedia.Droid.Resource.Styleable.RecyclerView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.RecyclerView_android_clipToPadding = global::Amiibopedia.Droid.Resource.Styleable.RecyclerView_android_clipToPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability = global::Amiibopedia.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.RecyclerView_android_orientation = global::Amiibopedia.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled = global::Amiibopedia.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::Amiibopedia.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::Amiibopedia.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::Amiibopedia.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::Amiibopedia.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.RecyclerView_layoutManager = global::Amiibopedia.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.RecyclerView_reverseLayout = global::Amiibopedia.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.RecyclerView_spanCount = global::Amiibopedia.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.RecyclerView_stackFromEnd = global::Amiibopedia.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ScrimInsetsFrameLayout = global::Amiibopedia.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::Amiibopedia.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ScrollingViewBehavior_Layout = global::Amiibopedia.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::Amiibopedia.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SearchView = global::Amiibopedia.Droid.Resource.Styleable.SearchView;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SearchView_android_focusable = global::Amiibopedia.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SearchView_android_imeOptions = global::Amiibopedia.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SearchView_android_inputType = global::Amiibopedia.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SearchView_android_maxWidth = global::Amiibopedia.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SearchView_closeIcon = global::Amiibopedia.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SearchView_commitIcon = global::Amiibopedia.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SearchView_defaultQueryHint = global::Amiibopedia.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SearchView_goIcon = global::Amiibopedia.Droid.Resource.Styleable.SearchView_goIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SearchView_iconifiedByDefault = global::Amiibopedia.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SearchView_layout = global::Amiibopedia.Droid.Resource.Styleable.SearchView_layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SearchView_queryBackground = global::Amiibopedia.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SearchView_queryHint = global::Amiibopedia.Droid.Resource.Styleable.SearchView_queryHint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SearchView_searchHintIcon = global::Amiibopedia.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SearchView_searchIcon = global::Amiibopedia.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SearchView_submitBackground = global::Amiibopedia.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SearchView_suggestionRowLayout = global::Amiibopedia.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SearchView_voiceIcon = global::Amiibopedia.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Snackbar = global::Amiibopedia.Droid.Resource.Styleable.Snackbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SnackbarLayout = global::Amiibopedia.Droid.Resource.Styleable.SnackbarLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth = global::Amiibopedia.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SnackbarLayout_elevation = global::Amiibopedia.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::Amiibopedia.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle = global::Amiibopedia.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Snackbar_snackbarStyle = global::Amiibopedia.Droid.Resource.Styleable.Snackbar_snackbarStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Spinner = global::Amiibopedia.Droid.Resource.Styleable.Spinner;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Spinner_android_dropDownWidth = global::Amiibopedia.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Spinner_android_entries = global::Amiibopedia.Droid.Resource.Styleable.Spinner_android_entries;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Spinner_android_popupBackground = global::Amiibopedia.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Spinner_android_prompt = global::Amiibopedia.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Spinner_popupTheme = global::Amiibopedia.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.StateListDrawable = global::Amiibopedia.Droid.Resource.Styleable.StateListDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.StateListDrawableItem = global::Amiibopedia.Droid.Resource.Styleable.StateListDrawableItem;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.StateListDrawableItem_android_drawable = global::Amiibopedia.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.StateListDrawable_android_constantSize = global::Amiibopedia.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.StateListDrawable_android_dither = global::Amiibopedia.Droid.Resource.Styleable.StateListDrawable_android_dither;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::Amiibopedia.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::Amiibopedia.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.StateListDrawable_android_variablePadding = global::Amiibopedia.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.StateListDrawable_android_visible = global::Amiibopedia.Droid.Resource.Styleable.StateListDrawable_android_visible;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SwitchCompat = global::Amiibopedia.Droid.Resource.Styleable.SwitchCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SwitchCompat_android_textOff = global::Amiibopedia.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SwitchCompat_android_textOn = global::Amiibopedia.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SwitchCompat_android_thumb = global::Amiibopedia.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SwitchCompat_showText = global::Amiibopedia.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SwitchCompat_splitTrack = global::Amiibopedia.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SwitchCompat_switchMinWidth = global::Amiibopedia.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SwitchCompat_switchPadding = global::Amiibopedia.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance = global::Amiibopedia.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding = global::Amiibopedia.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SwitchCompat_thumbTint = global::Amiibopedia.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SwitchCompat_thumbTintMode = global::Amiibopedia.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SwitchCompat_track = global::Amiibopedia.Droid.Resource.Styleable.SwitchCompat_track;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SwitchCompat_trackTint = global::Amiibopedia.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.SwitchCompat_trackTintMode = global::Amiibopedia.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabItem = global::Amiibopedia.Droid.Resource.Styleable.TabItem;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabItem_android_icon = global::Amiibopedia.Droid.Resource.Styleable.TabItem_android_icon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabItem_android_layout = global::Amiibopedia.Droid.Resource.Styleable.TabItem_android_layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabItem_android_text = global::Amiibopedia.Droid.Resource.Styleable.TabItem_android_text;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout = global::Amiibopedia.Droid.Resource.Styleable.TabLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabBackground = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabContentStart = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabGravity = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabIconTint = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabIconTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabIconTintMode = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabIndicator = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabIndicator;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabIndicatorColor = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabInlineLabel = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabMaxWidth = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabMinWidth = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabMode = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabPadding = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabPaddingBottom = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabPaddingEnd = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabPaddingStart = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabPaddingTop = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabRippleColor = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabRippleColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabTextAppearance = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabTextColor = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple = global::Amiibopedia.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextAppearance = global::Amiibopedia.Droid.Resource.Styleable.TextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextAppearance_android_fontFamily = global::Amiibopedia.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextAppearance_android_shadowColor = global::Amiibopedia.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextAppearance_android_shadowDx = global::Amiibopedia.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextAppearance_android_shadowDy = global::Amiibopedia.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextAppearance_android_shadowRadius = global::Amiibopedia.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextAppearance_android_textColor = global::Amiibopedia.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextAppearance_android_textColorHint = global::Amiibopedia.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextAppearance_android_textColorLink = global::Amiibopedia.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextAppearance_android_textFontWeight = global::Amiibopedia.Droid.Resource.Styleable.TextAppearance_android_textFontWeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextAppearance_android_textSize = global::Amiibopedia.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextAppearance_android_textStyle = global::Amiibopedia.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextAppearance_android_typeface = global::Amiibopedia.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextAppearance_fontFamily = global::Amiibopedia.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextAppearance_fontVariationSettings = global::Amiibopedia.Droid.Resource.Styleable.TextAppearance_fontVariationSettings;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextAppearance_textAllCaps = global::Amiibopedia.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextAppearance_textLocale = global::Amiibopedia.Droid.Resource.Styleable.TextAppearance_textLocale;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_android_hint = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_android_textColorHint = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_counterEnabled = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_counterMaxLength = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_errorEnabled = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_helperText = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_helperText;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_hintEnabled = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::Amiibopedia.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ThemeEnforcement = global::Amiibopedia.Droid.Resource.Styleable.ThemeEnforcement;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::Amiibopedia.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::Amiibopedia.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::Amiibopedia.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar = global::Amiibopedia.Droid.Resource.Styleable.Toolbar;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_android_gravity = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_android_minHeight = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_buttonGravity = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_collapseContentDescription = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_collapseIcon = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_contentInsetEnd = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_contentInsetLeft = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_contentInsetRight = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_contentInsetStart = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_logo = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_logo;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_logoDescription = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_maxButtonHeight = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_menu = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_menu;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_navigationContentDescription = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_navigationIcon = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_popupTheme = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_subtitle = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_subtitleTextColor = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_title = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_title;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_titleMargin = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_titleMarginBottom = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_titleMarginEnd = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_titleMargins = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_titleMarginStart = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_titleMarginTop = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_titleTextAppearance = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.Toolbar_titleTextColor = global::Amiibopedia.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.View = global::Amiibopedia.Droid.Resource.Styleable.View;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ViewBackgroundHelper = global::Amiibopedia.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ViewBackgroundHelper_android_background = global::Amiibopedia.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::Amiibopedia.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::Amiibopedia.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ViewStubCompat = global::Amiibopedia.Droid.Resource.Styleable.ViewStubCompat;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ViewStubCompat_android_id = global::Amiibopedia.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId = global::Amiibopedia.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.ViewStubCompat_android_layout = global::Amiibopedia.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.View_android_focusable = global::Amiibopedia.Droid.Resource.Styleable.View_android_focusable;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.View_android_theme = global::Amiibopedia.Droid.Resource.Styleable.View_android_theme;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.View_paddingEnd = global::Amiibopedia.Droid.Resource.Styleable.View_paddingEnd;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.View_paddingStart = global::Amiibopedia.Droid.Resource.Styleable.View_paddingStart;
+			global::Syncfusion.SfAutoComplete.XForms.Droid.Resource.Styleable.View_theme = global::Amiibopedia.Droid.Resource.Styleable.View_theme;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::Amiibopedia.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::Amiibopedia.Droid.Resource.Attribute.font;
 			global::Xamarin.Essentials.Resource.Attribute.fontProviderAuthority = global::Amiibopedia.Droid.Resource.Attribute.fontProviderAuthority;
@@ -11632,160 +14339,268 @@ namespace Amiibopedia.Droid
 			public const int abc_vector_test = 2131165275;
 			
 			// aapt resource value: 0x7F07005C
-			public const int avd_hide_password = 2131165276;
+			public const int Avatar1 = 2131165276;
 			
 			// aapt resource value: 0x7F07005D
-			public const int avd_show_password = 2131165277;
+			public const int Avatar10 = 2131165277;
 			
 			// aapt resource value: 0x7F07005E
-			public const int btn_checkbox_checked_mtrl = 2131165278;
+			public const int Avatar11 = 2131165278;
 			
 			// aapt resource value: 0x7F07005F
-			public const int btn_checkbox_checked_to_unchecked_mtrl_animation = 2131165279;
+			public const int Avatar12 = 2131165279;
 			
 			// aapt resource value: 0x7F070060
-			public const int btn_checkbox_unchecked_mtrl = 2131165280;
+			public const int Avatar13 = 2131165280;
 			
 			// aapt resource value: 0x7F070061
-			public const int btn_checkbox_unchecked_to_checked_mtrl_animation = 2131165281;
+			public const int Avatar14 = 2131165281;
 			
 			// aapt resource value: 0x7F070062
-			public const int btn_radio_off_mtrl = 2131165282;
+			public const int Avatar15 = 2131165282;
 			
 			// aapt resource value: 0x7F070063
-			public const int btn_radio_off_to_on_mtrl_animation = 2131165283;
+			public const int Avatar16 = 2131165283;
 			
 			// aapt resource value: 0x7F070064
-			public const int btn_radio_on_mtrl = 2131165284;
+			public const int Avatar17 = 2131165284;
 			
 			// aapt resource value: 0x7F070065
-			public const int btn_radio_on_to_off_mtrl_animation = 2131165285;
+			public const int Avatar18 = 2131165285;
 			
 			// aapt resource value: 0x7F070066
-			public const int design_bottom_navigation_item_background = 2131165286;
+			public const int Avatar19 = 2131165286;
 			
 			// aapt resource value: 0x7F070067
-			public const int design_fab_background = 2131165287;
+			public const int Avatar2 = 2131165287;
 			
 			// aapt resource value: 0x7F070068
-			public const int design_ic_visibility = 2131165288;
+			public const int Avatar20 = 2131165288;
 			
 			// aapt resource value: 0x7F070069
-			public const int design_ic_visibility_off = 2131165289;
+			public const int Avatar21 = 2131165289;
 			
 			// aapt resource value: 0x7F07006A
-			public const int design_password_eye = 2131165290;
+			public const int Avatar22 = 2131165290;
 			
 			// aapt resource value: 0x7F07006B
-			public const int design_snackbar_background = 2131165291;
+			public const int Avatar23 = 2131165291;
 			
 			// aapt resource value: 0x7F07006C
-			public const int ic_mtrl_checked_circle = 2131165292;
+			public const int Avatar24 = 2131165292;
 			
 			// aapt resource value: 0x7F07006D
-			public const int ic_mtrl_chip_checked_black = 2131165293;
+			public const int Avatar25 = 2131165293;
 			
 			// aapt resource value: 0x7F07006E
-			public const int ic_mtrl_chip_checked_circle = 2131165294;
+			public const int Avatar26 = 2131165294;
 			
 			// aapt resource value: 0x7F07006F
-			public const int ic_mtrl_chip_close_circle = 2131165295;
+			public const int Avatar27 = 2131165295;
 			
 			// aapt resource value: 0x7F070070
-			public const int material_ic_calendar_black_24dp = 2131165296;
+			public const int Avatar28 = 2131165296;
 			
 			// aapt resource value: 0x7F070071
-			public const int material_ic_clear_black_24dp = 2131165297;
+			public const int Avatar29 = 2131165297;
 			
 			// aapt resource value: 0x7F070072
-			public const int material_ic_edit_black_24dp = 2131165298;
+			public const int Avatar3 = 2131165298;
 			
 			// aapt resource value: 0x7F070073
-			public const int material_ic_keyboard_arrow_left_black_24dp = 2131165299;
+			public const int Avatar30 = 2131165299;
 			
 			// aapt resource value: 0x7F070074
-			public const int material_ic_keyboard_arrow_right_black_24dp = 2131165300;
+			public const int Avatar4 = 2131165300;
 			
 			// aapt resource value: 0x7F070075
-			public const int material_ic_menu_arrow_down_black_24dp = 2131165301;
+			public const int Avatar5 = 2131165301;
 			
 			// aapt resource value: 0x7F070076
-			public const int material_ic_menu_arrow_up_black_24dp = 2131165302;
+			public const int Avatar6 = 2131165302;
 			
 			// aapt resource value: 0x7F070077
-			public const int mtrl_dialog_background = 2131165303;
+			public const int Avatar7 = 2131165303;
 			
 			// aapt resource value: 0x7F070078
-			public const int mtrl_dropdown_arrow = 2131165304;
+			public const int Avatar8 = 2131165304;
 			
 			// aapt resource value: 0x7F070079
-			public const int mtrl_ic_arrow_drop_down = 2131165305;
+			public const int Avatar9 = 2131165305;
 			
 			// aapt resource value: 0x7F07007A
-			public const int mtrl_ic_arrow_drop_up = 2131165306;
+			public const int avd_hide_password = 2131165306;
 			
 			// aapt resource value: 0x7F07007B
-			public const int mtrl_ic_cancel = 2131165307;
+			public const int avd_show_password = 2131165307;
 			
 			// aapt resource value: 0x7F07007C
-			public const int mtrl_ic_error = 2131165308;
+			public const int btn_checkbox_checked_mtrl = 2131165308;
 			
 			// aapt resource value: 0x7F07007D
-			public const int mtrl_popupmenu_background = 2131165309;
+			public const int btn_checkbox_checked_to_unchecked_mtrl_animation = 2131165309;
 			
 			// aapt resource value: 0x7F07007E
-			public const int mtrl_popupmenu_background_dark = 2131165310;
+			public const int btn_checkbox_unchecked_mtrl = 2131165310;
 			
 			// aapt resource value: 0x7F07007F
-			public const int mtrl_tabs_default_indicator = 2131165311;
+			public const int btn_checkbox_unchecked_to_checked_mtrl_animation = 2131165311;
 			
 			// aapt resource value: 0x7F070080
-			public const int navigation_empty_icon = 2131165312;
+			public const int btn_radio_off_mtrl = 2131165312;
 			
 			// aapt resource value: 0x7F070081
-			public const int notification_action_background = 2131165313;
+			public const int btn_radio_off_to_on_mtrl_animation = 2131165313;
 			
 			// aapt resource value: 0x7F070082
-			public const int notification_bg = 2131165314;
+			public const int btn_radio_on_mtrl = 2131165314;
 			
 			// aapt resource value: 0x7F070083
-			public const int notification_bg_low = 2131165315;
+			public const int btn_radio_on_to_off_mtrl_animation = 2131165315;
 			
 			// aapt resource value: 0x7F070084
-			public const int notification_bg_low_normal = 2131165316;
+			public const int clear_button_icon = 2131165316;
 			
 			// aapt resource value: 0x7F070085
-			public const int notification_bg_low_pressed = 2131165317;
+			public const int design_bottom_navigation_item_background = 2131165317;
 			
 			// aapt resource value: 0x7F070086
-			public const int notification_bg_normal = 2131165318;
+			public const int design_fab_background = 2131165318;
 			
 			// aapt resource value: 0x7F070087
-			public const int notification_bg_normal_pressed = 2131165319;
+			public const int design_ic_visibility = 2131165319;
 			
 			// aapt resource value: 0x7F070088
-			public const int notification_icon_background = 2131165320;
+			public const int design_ic_visibility_off = 2131165320;
 			
 			// aapt resource value: 0x7F070089
-			public const int notification_template_icon_bg = 2131165321;
+			public const int design_password_eye = 2131165321;
 			
 			// aapt resource value: 0x7F07008A
-			public const int notification_template_icon_low_bg = 2131165322;
+			public const int design_snackbar_background = 2131165322;
 			
 			// aapt resource value: 0x7F07008B
-			public const int notification_tile_bg = 2131165323;
+			public const int ic_mtrl_checked_circle = 2131165323;
 			
 			// aapt resource value: 0x7F07008C
-			public const int notify_panel_notification_icon_bg = 2131165324;
+			public const int ic_mtrl_chip_checked_black = 2131165324;
 			
 			// aapt resource value: 0x7F07008D
-			public const int test_custom_background = 2131165325;
+			public const int ic_mtrl_chip_checked_circle = 2131165325;
 			
 			// aapt resource value: 0x7F07008E
-			public const int tooltip_frame_dark = 2131165326;
+			public const int ic_mtrl_chip_close_circle = 2131165326;
+			
+			// aapt resource value: 0x7F070090
+			public const int inputlayout_togglecollapseicon = 2131165328;
+			
+			// aapt resource value: 0x7F070091
+			public const int inputlayout_togglevisibleicon = 2131165329;
 			
 			// aapt resource value: 0x7F07008F
-			public const int tooltip_frame_light = 2131165327;
+			public const int input_layout_drop_down_icon = 2131165327;
+			
+			// aapt resource value: 0x7F070092
+			public const int material_ic_calendar_black_24dp = 2131165330;
+			
+			// aapt resource value: 0x7F070093
+			public const int material_ic_clear_black_24dp = 2131165331;
+			
+			// aapt resource value: 0x7F070094
+			public const int material_ic_edit_black_24dp = 2131165332;
+			
+			// aapt resource value: 0x7F070095
+			public const int material_ic_keyboard_arrow_left_black_24dp = 2131165333;
+			
+			// aapt resource value: 0x7F070096
+			public const int material_ic_keyboard_arrow_right_black_24dp = 2131165334;
+			
+			// aapt resource value: 0x7F070097
+			public const int material_ic_menu_arrow_down_black_24dp = 2131165335;
+			
+			// aapt resource value: 0x7F070098
+			public const int material_ic_menu_arrow_up_black_24dp = 2131165336;
+			
+			// aapt resource value: 0x7F070099
+			public const int mtrl_dialog_background = 2131165337;
+			
+			// aapt resource value: 0x7F07009A
+			public const int mtrl_dropdown_arrow = 2131165338;
+			
+			// aapt resource value: 0x7F07009B
+			public const int mtrl_ic_arrow_drop_down = 2131165339;
+			
+			// aapt resource value: 0x7F07009C
+			public const int mtrl_ic_arrow_drop_up = 2131165340;
+			
+			// aapt resource value: 0x7F07009D
+			public const int mtrl_ic_cancel = 2131165341;
+			
+			// aapt resource value: 0x7F07009E
+			public const int mtrl_ic_error = 2131165342;
+			
+			// aapt resource value: 0x7F07009F
+			public const int mtrl_popupmenu_background = 2131165343;
+			
+			// aapt resource value: 0x7F0700A0
+			public const int mtrl_popupmenu_background_dark = 2131165344;
+			
+			// aapt resource value: 0x7F0700A1
+			public const int mtrl_tabs_default_indicator = 2131165345;
+			
+			// aapt resource value: 0x7F0700A2
+			public const int navigation_empty_icon = 2131165346;
+			
+			// aapt resource value: 0x7F0700A3
+			public const int notification_action_background = 2131165347;
+			
+			// aapt resource value: 0x7F0700A4
+			public const int notification_bg = 2131165348;
+			
+			// aapt resource value: 0x7F0700A5
+			public const int notification_bg_low = 2131165349;
+			
+			// aapt resource value: 0x7F0700A6
+			public const int notification_bg_low_normal = 2131165350;
+			
+			// aapt resource value: 0x7F0700A7
+			public const int notification_bg_low_pressed = 2131165351;
+			
+			// aapt resource value: 0x7F0700A8
+			public const int notification_bg_normal = 2131165352;
+			
+			// aapt resource value: 0x7F0700A9
+			public const int notification_bg_normal_pressed = 2131165353;
+			
+			// aapt resource value: 0x7F0700AA
+			public const int notification_icon_background = 2131165354;
+			
+			// aapt resource value: 0x7F0700AB
+			public const int notification_template_icon_bg = 2131165355;
+			
+			// aapt resource value: 0x7F0700AC
+			public const int notification_template_icon_low_bg = 2131165356;
+			
+			// aapt resource value: 0x7F0700AD
+			public const int notification_tile_bg = 2131165357;
+			
+			// aapt resource value: 0x7F0700AE
+			public const int notify_panel_notification_icon_bg = 2131165358;
+			
+			// aapt resource value: 0x7F0700AF
+			public const int sfclosebutton = 2131165359;
+			
+			// aapt resource value: 0x7F0700B0
+			public const int styleinfo = 2131165360;
+			
+			// aapt resource value: 0x7F0700B1
+			public const int test_custom_background = 2131165361;
+			
+			// aapt resource value: 0x7F0700B2
+			public const int tooltip_frame_dark = 2131165362;
+			
+			// aapt resource value: 0x7F0700B3
+			public const int tooltip_frame_light = 2131165363;
 			
 			static Drawable()
 			{
@@ -11800,200 +14615,200 @@ namespace Amiibopedia.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7F08000A
-			public const int accessibility_action_clickable_span = 2131230730;
-			
 			// aapt resource value: 0x7F08000B
-			public const int accessibility_custom_action_0 = 2131230731;
+			public const int accessibility_action_clickable_span = 2131230731;
 			
 			// aapt resource value: 0x7F08000C
-			public const int accessibility_custom_action_1 = 2131230732;
+			public const int accessibility_custom_action_0 = 2131230732;
 			
 			// aapt resource value: 0x7F08000D
-			public const int accessibility_custom_action_10 = 2131230733;
+			public const int accessibility_custom_action_1 = 2131230733;
 			
 			// aapt resource value: 0x7F08000E
-			public const int accessibility_custom_action_11 = 2131230734;
+			public const int accessibility_custom_action_10 = 2131230734;
 			
 			// aapt resource value: 0x7F08000F
-			public const int accessibility_custom_action_12 = 2131230735;
+			public const int accessibility_custom_action_11 = 2131230735;
 			
 			// aapt resource value: 0x7F080010
-			public const int accessibility_custom_action_13 = 2131230736;
+			public const int accessibility_custom_action_12 = 2131230736;
 			
 			// aapt resource value: 0x7F080011
-			public const int accessibility_custom_action_14 = 2131230737;
+			public const int accessibility_custom_action_13 = 2131230737;
 			
 			// aapt resource value: 0x7F080012
-			public const int accessibility_custom_action_15 = 2131230738;
+			public const int accessibility_custom_action_14 = 2131230738;
 			
 			// aapt resource value: 0x7F080013
-			public const int accessibility_custom_action_16 = 2131230739;
+			public const int accessibility_custom_action_15 = 2131230739;
 			
 			// aapt resource value: 0x7F080014
-			public const int accessibility_custom_action_17 = 2131230740;
+			public const int accessibility_custom_action_16 = 2131230740;
 			
 			// aapt resource value: 0x7F080015
-			public const int accessibility_custom_action_18 = 2131230741;
+			public const int accessibility_custom_action_17 = 2131230741;
 			
 			// aapt resource value: 0x7F080016
-			public const int accessibility_custom_action_19 = 2131230742;
+			public const int accessibility_custom_action_18 = 2131230742;
 			
 			// aapt resource value: 0x7F080017
-			public const int accessibility_custom_action_2 = 2131230743;
+			public const int accessibility_custom_action_19 = 2131230743;
 			
 			// aapt resource value: 0x7F080018
-			public const int accessibility_custom_action_20 = 2131230744;
+			public const int accessibility_custom_action_2 = 2131230744;
 			
 			// aapt resource value: 0x7F080019
-			public const int accessibility_custom_action_21 = 2131230745;
+			public const int accessibility_custom_action_20 = 2131230745;
 			
 			// aapt resource value: 0x7F08001A
-			public const int accessibility_custom_action_22 = 2131230746;
+			public const int accessibility_custom_action_21 = 2131230746;
 			
 			// aapt resource value: 0x7F08001B
-			public const int accessibility_custom_action_23 = 2131230747;
+			public const int accessibility_custom_action_22 = 2131230747;
 			
 			// aapt resource value: 0x7F08001C
-			public const int accessibility_custom_action_24 = 2131230748;
+			public const int accessibility_custom_action_23 = 2131230748;
 			
 			// aapt resource value: 0x7F08001D
-			public const int accessibility_custom_action_25 = 2131230749;
+			public const int accessibility_custom_action_24 = 2131230749;
 			
 			// aapt resource value: 0x7F08001E
-			public const int accessibility_custom_action_26 = 2131230750;
+			public const int accessibility_custom_action_25 = 2131230750;
 			
 			// aapt resource value: 0x7F08001F
-			public const int accessibility_custom_action_27 = 2131230751;
+			public const int accessibility_custom_action_26 = 2131230751;
 			
 			// aapt resource value: 0x7F080020
-			public const int accessibility_custom_action_28 = 2131230752;
+			public const int accessibility_custom_action_27 = 2131230752;
 			
 			// aapt resource value: 0x7F080021
-			public const int accessibility_custom_action_29 = 2131230753;
+			public const int accessibility_custom_action_28 = 2131230753;
 			
 			// aapt resource value: 0x7F080022
-			public const int accessibility_custom_action_3 = 2131230754;
+			public const int accessibility_custom_action_29 = 2131230754;
 			
 			// aapt resource value: 0x7F080023
-			public const int accessibility_custom_action_30 = 2131230755;
+			public const int accessibility_custom_action_3 = 2131230755;
 			
 			// aapt resource value: 0x7F080024
-			public const int accessibility_custom_action_31 = 2131230756;
+			public const int accessibility_custom_action_30 = 2131230756;
 			
 			// aapt resource value: 0x7F080025
-			public const int accessibility_custom_action_4 = 2131230757;
+			public const int accessibility_custom_action_31 = 2131230757;
 			
 			// aapt resource value: 0x7F080026
-			public const int accessibility_custom_action_5 = 2131230758;
+			public const int accessibility_custom_action_4 = 2131230758;
 			
 			// aapt resource value: 0x7F080027
-			public const int accessibility_custom_action_6 = 2131230759;
+			public const int accessibility_custom_action_5 = 2131230759;
 			
 			// aapt resource value: 0x7F080028
-			public const int accessibility_custom_action_7 = 2131230760;
+			public const int accessibility_custom_action_6 = 2131230760;
 			
 			// aapt resource value: 0x7F080029
-			public const int accessibility_custom_action_8 = 2131230761;
+			public const int accessibility_custom_action_7 = 2131230761;
 			
 			// aapt resource value: 0x7F08002A
-			public const int accessibility_custom_action_9 = 2131230762;
+			public const int accessibility_custom_action_8 = 2131230762;
 			
 			// aapt resource value: 0x7F08002B
-			public const int action0 = 2131230763;
-			
-			// aapt resource value: 0x7F08003D
-			public const int actions = 2131230781;
+			public const int accessibility_custom_action_9 = 2131230763;
 			
 			// aapt resource value: 0x7F08002C
-			public const int action_bar = 2131230764;
-			
-			// aapt resource value: 0x7F08002D
-			public const int action_bar_activity_content = 2131230765;
-			
-			// aapt resource value: 0x7F08002E
-			public const int action_bar_container = 2131230766;
-			
-			// aapt resource value: 0x7F08002F
-			public const int action_bar_root = 2131230767;
-			
-			// aapt resource value: 0x7F080030
-			public const int action_bar_spinner = 2131230768;
-			
-			// aapt resource value: 0x7F080031
-			public const int action_bar_subtitle = 2131230769;
-			
-			// aapt resource value: 0x7F080032
-			public const int action_bar_title = 2131230770;
-			
-			// aapt resource value: 0x7F080033
-			public const int action_container = 2131230771;
-			
-			// aapt resource value: 0x7F080034
-			public const int action_context_bar = 2131230772;
-			
-			// aapt resource value: 0x7F080035
-			public const int action_divider = 2131230773;
-			
-			// aapt resource value: 0x7F080036
-			public const int action_image = 2131230774;
-			
-			// aapt resource value: 0x7F080037
-			public const int action_menu_divider = 2131230775;
-			
-			// aapt resource value: 0x7F080038
-			public const int action_menu_presenter = 2131230776;
-			
-			// aapt resource value: 0x7F080039
-			public const int action_mode_bar = 2131230777;
-			
-			// aapt resource value: 0x7F08003A
-			public const int action_mode_bar_stub = 2131230778;
-			
-			// aapt resource value: 0x7F08003B
-			public const int action_mode_close_button = 2131230779;
-			
-			// aapt resource value: 0x7F08003C
-			public const int action_text = 2131230780;
+			public const int action0 = 2131230764;
 			
 			// aapt resource value: 0x7F08003E
-			public const int activity_chooser_view_content = 2131230782;
+			public const int actions = 2131230782;
+			
+			// aapt resource value: 0x7F08002D
+			public const int action_bar = 2131230765;
+			
+			// aapt resource value: 0x7F08002E
+			public const int action_bar_activity_content = 2131230766;
+			
+			// aapt resource value: 0x7F08002F
+			public const int action_bar_container = 2131230767;
+			
+			// aapt resource value: 0x7F080030
+			public const int action_bar_root = 2131230768;
+			
+			// aapt resource value: 0x7F080031
+			public const int action_bar_spinner = 2131230769;
+			
+			// aapt resource value: 0x7F080032
+			public const int action_bar_subtitle = 2131230770;
+			
+			// aapt resource value: 0x7F080033
+			public const int action_bar_title = 2131230771;
+			
+			// aapt resource value: 0x7F080034
+			public const int action_container = 2131230772;
+			
+			// aapt resource value: 0x7F080035
+			public const int action_context_bar = 2131230773;
+			
+			// aapt resource value: 0x7F080036
+			public const int action_divider = 2131230774;
+			
+			// aapt resource value: 0x7F080037
+			public const int action_image = 2131230775;
+			
+			// aapt resource value: 0x7F080038
+			public const int action_menu_divider = 2131230776;
+			
+			// aapt resource value: 0x7F080039
+			public const int action_menu_presenter = 2131230777;
+			
+			// aapt resource value: 0x7F08003A
+			public const int action_mode_bar = 2131230778;
+			
+			// aapt resource value: 0x7F08003B
+			public const int action_mode_bar_stub = 2131230779;
+			
+			// aapt resource value: 0x7F08003C
+			public const int action_mode_close_button = 2131230780;
+			
+			// aapt resource value: 0x7F08003D
+			public const int action_text = 2131230781;
 			
 			// aapt resource value: 0x7F08003F
-			public const int add = 2131230783;
+			public const int activity_chooser_view_content = 2131230783;
 			
 			// aapt resource value: 0x7F080040
-			public const int alertTitle = 2131230784;
+			public const int add = 2131230784;
 			
 			// aapt resource value: 0x7F080041
-			public const int all = 2131230785;
+			public const int alertTitle = 2131230785;
+			
+			// aapt resource value: 0x7F080042
+			public const int all = 2131230786;
 			
 			// aapt resource value: 0x7F080000
 			public const int ALT = 2131230720;
 			
-			// aapt resource value: 0x7F080042
-			public const int always = 2131230786;
-			
 			// aapt resource value: 0x7F080043
-			public const int async = 2131230787;
+			public const int always = 2131230787;
 			
 			// aapt resource value: 0x7F080044
-			public const int auto = 2131230788;
+			public const int async = 2131230788;
 			
 			// aapt resource value: 0x7F080045
-			public const int beginning = 2131230789;
+			public const int auto = 2131230789;
 			
 			// aapt resource value: 0x7F080046
-			public const int blocking = 2131230790;
+			public const int beginning = 2131230790;
 			
 			// aapt resource value: 0x7F080047
-			public const int bottom = 2131230791;
+			public const int blocking = 2131230791;
 			
 			// aapt resource value: 0x7F080048
-			public const int bottomtab_navarea = 2131230792;
+			public const int bottom = 2131230792;
 			
 			// aapt resource value: 0x7F080049
-			public const int bottomtab_tabbar = 2131230793;
+			public const int bottomtab_navarea = 2131230793;
+			
+			// aapt resource value: 0x7F08004A
+			public const int bottomtab_tabbar = 2131230794;
 			
 			// aapt resource value: 0x7F080001
 			public const int BOTTOM_END = 2131230721;
@@ -12001,755 +14816,758 @@ namespace Amiibopedia.Droid
 			// aapt resource value: 0x7F080002
 			public const int BOTTOM_START = 2131230722;
 			
-			// aapt resource value: 0x7F08004A
-			public const int browser_actions_header_text = 2131230794;
-			
-			// aapt resource value: 0x7F08004D
-			public const int browser_actions_menu_items = 2131230797;
-			
 			// aapt resource value: 0x7F08004B
-			public const int browser_actions_menu_item_icon = 2131230795;
-			
-			// aapt resource value: 0x7F08004C
-			public const int browser_actions_menu_item_text = 2131230796;
+			public const int browser_actions_header_text = 2131230795;
 			
 			// aapt resource value: 0x7F08004E
-			public const int browser_actions_menu_view = 2131230798;
+			public const int browser_actions_menu_items = 2131230798;
+			
+			// aapt resource value: 0x7F08004C
+			public const int browser_actions_menu_item_icon = 2131230796;
+			
+			// aapt resource value: 0x7F08004D
+			public const int browser_actions_menu_item_text = 2131230797;
 			
 			// aapt resource value: 0x7F08004F
-			public const int buttonPanel = 2131230799;
+			public const int browser_actions_menu_view = 2131230799;
 			
 			// aapt resource value: 0x7F080050
-			public const int cancel_action = 2131230800;
+			public const int buttonPanel = 2131230800;
 			
 			// aapt resource value: 0x7F080051
-			public const int cancel_button = 2131230801;
+			public const int cancel_action = 2131230801;
 			
 			// aapt resource value: 0x7F080052
-			public const int center = 2131230802;
+			public const int cancel_button = 2131230802;
 			
 			// aapt resource value: 0x7F080053
-			public const int center_horizontal = 2131230803;
+			public const int center = 2131230803;
 			
 			// aapt resource value: 0x7F080054
-			public const int center_vertical = 2131230804;
+			public const int center_horizontal = 2131230804;
 			
 			// aapt resource value: 0x7F080055
-			public const int checkbox = 2131230805;
+			public const int center_vertical = 2131230805;
 			
 			// aapt resource value: 0x7F080056
-			public const int @checked = 2131230806;
+			public const int checkbox = 2131230806;
 			
 			// aapt resource value: 0x7F080057
-			public const int chip = 2131230807;
+			public const int @checked = 2131230807;
 			
 			// aapt resource value: 0x7F080058
-			public const int chip1 = 2131230808;
+			public const int chip = 2131230808;
 			
 			// aapt resource value: 0x7F080059
-			public const int chip2 = 2131230809;
+			public const int chip1 = 2131230809;
 			
 			// aapt resource value: 0x7F08005A
-			public const int chip3 = 2131230810;
+			public const int chip2 = 2131230810;
 			
 			// aapt resource value: 0x7F08005B
-			public const int chip_group = 2131230811;
+			public const int chip3 = 2131230811;
 			
 			// aapt resource value: 0x7F08005C
-			public const int chronometer = 2131230812;
+			public const int chip_group = 2131230812;
 			
 			// aapt resource value: 0x7F08005D
-			public const int clear_text = 2131230813;
+			public const int chronometer = 2131230813;
 			
 			// aapt resource value: 0x7F08005E
-			public const int clip_horizontal = 2131230814;
+			public const int clear_text = 2131230814;
 			
 			// aapt resource value: 0x7F08005F
-			public const int clip_vertical = 2131230815;
+			public const int clip_horizontal = 2131230815;
 			
 			// aapt resource value: 0x7F080060
-			public const int collapseActionView = 2131230816;
+			public const int clip_vertical = 2131230816;
 			
 			// aapt resource value: 0x7F080061
-			public const int confirm_button = 2131230817;
+			public const int collapseActionView = 2131230817;
 			
 			// aapt resource value: 0x7F080062
-			public const int container = 2131230818;
+			public const int confirm_button = 2131230818;
 			
 			// aapt resource value: 0x7F080063
-			public const int content = 2131230819;
+			public const int container = 2131230819;
 			
 			// aapt resource value: 0x7F080064
-			public const int contentPanel = 2131230820;
+			public const int content = 2131230820;
 			
 			// aapt resource value: 0x7F080065
-			public const int coordinator = 2131230821;
+			public const int contentPanel = 2131230821;
+			
+			// aapt resource value: 0x7F080066
+			public const int coordinator = 2131230822;
 			
 			// aapt resource value: 0x7F080003
 			public const int CTRL = 2131230723;
 			
-			// aapt resource value: 0x7F080066
-			public const int custom = 2131230822;
-			
 			// aapt resource value: 0x7F080067
-			public const int customPanel = 2131230823;
+			public const int custom = 2131230823;
 			
 			// aapt resource value: 0x7F080068
-			public const int cut = 2131230824;
+			public const int customPanel = 2131230824;
 			
 			// aapt resource value: 0x7F080069
-			public const int date_picker_actions = 2131230825;
+			public const int cut = 2131230825;
 			
 			// aapt resource value: 0x7F08006A
-			public const int decor_content_parent = 2131230826;
+			public const int date_picker_actions = 2131230826;
 			
 			// aapt resource value: 0x7F08006B
-			public const int default_activity_button = 2131230827;
+			public const int decor_content_parent = 2131230827;
 			
 			// aapt resource value: 0x7F08006C
-			public const int design_bottom_sheet = 2131230828;
+			public const int default_activity_button = 2131230828;
 			
 			// aapt resource value: 0x7F08006D
-			public const int design_menu_item_action_area = 2131230829;
+			public const int design_bottom_sheet = 2131230829;
 			
 			// aapt resource value: 0x7F08006E
-			public const int design_menu_item_action_area_stub = 2131230830;
+			public const int design_menu_item_action_area = 2131230830;
 			
 			// aapt resource value: 0x7F08006F
-			public const int design_menu_item_text = 2131230831;
+			public const int design_menu_item_action_area_stub = 2131230831;
 			
 			// aapt resource value: 0x7F080070
-			public const int design_navigation_view = 2131230832;
+			public const int design_menu_item_text = 2131230832;
 			
 			// aapt resource value: 0x7F080071
-			public const int dialog_button = 2131230833;
+			public const int design_navigation_view = 2131230833;
 			
 			// aapt resource value: 0x7F080072
-			public const int disableHome = 2131230834;
+			public const int dialog_button = 2131230834;
 			
 			// aapt resource value: 0x7F080073
-			public const int dropdown_menu = 2131230835;
+			public const int disableHome = 2131230835;
 			
 			// aapt resource value: 0x7F080074
-			public const int edit_query = 2131230836;
+			public const int dropdown_menu = 2131230836;
 			
 			// aapt resource value: 0x7F080075
-			public const int end = 2131230837;
+			public const int edit_query = 2131230837;
 			
 			// aapt resource value: 0x7F080076
-			public const int end_padder = 2131230838;
+			public const int end = 2131230838;
 			
 			// aapt resource value: 0x7F080077
-			public const int enterAlways = 2131230839;
+			public const int end_padder = 2131230839;
 			
 			// aapt resource value: 0x7F080078
-			public const int enterAlwaysCollapsed = 2131230840;
+			public const int enterAlways = 2131230840;
 			
 			// aapt resource value: 0x7F080079
-			public const int exitUntilCollapsed = 2131230841;
-			
-			// aapt resource value: 0x7F08007B
-			public const int expanded_menu = 2131230843;
+			public const int enterAlwaysCollapsed = 2131230841;
 			
 			// aapt resource value: 0x7F08007A
-			public const int expand_activities_button = 2131230842;
+			public const int exitUntilCollapsed = 2131230842;
 			
 			// aapt resource value: 0x7F08007C
-			public const int fade = 2131230844;
+			public const int expanded_menu = 2131230844;
+			
+			// aapt resource value: 0x7F08007B
+			public const int expand_activities_button = 2131230843;
 			
 			// aapt resource value: 0x7F08007D
-			public const int fill = 2131230845;
-			
-			// aapt resource value: 0x7F080080
-			public const int filled = 2131230848;
+			public const int fade = 2131230845;
 			
 			// aapt resource value: 0x7F08007E
-			public const int fill_horizontal = 2131230846;
-			
-			// aapt resource value: 0x7F08007F
-			public const int fill_vertical = 2131230847;
+			public const int fill = 2131230846;
 			
 			// aapt resource value: 0x7F080081
-			public const int fitToContents = 2131230849;
+			public const int filled = 2131230849;
+			
+			// aapt resource value: 0x7F08007F
+			public const int fill_horizontal = 2131230847;
+			
+			// aapt resource value: 0x7F080080
+			public const int fill_vertical = 2131230848;
 			
 			// aapt resource value: 0x7F080082
-			public const int @fixed = 2131230850;
+			public const int fitToContents = 2131230850;
 			
 			// aapt resource value: 0x7F080083
-			public const int floating = 2131230851;
+			public const int @fixed = 2131230851;
 			
 			// aapt resource value: 0x7F080084
-			public const int flyoutcontent_appbar = 2131230852;
+			public const int floating = 2131230852;
 			
 			// aapt resource value: 0x7F080085
-			public const int forever = 2131230853;
+			public const int flyoutcontent_appbar = 2131230853;
 			
 			// aapt resource value: 0x7F080086
-			public const int fragment_container_view_tag = 2131230854;
+			public const int forever = 2131230854;
+			
+			// aapt resource value: 0x7F080087
+			public const int fragment_container_view_tag = 2131230855;
 			
 			// aapt resource value: 0x7F080004
 			public const int FUNCTION = 2131230724;
 			
-			// aapt resource value: 0x7F080087
-			public const int ghost_view = 2131230855;
-			
 			// aapt resource value: 0x7F080088
-			public const int ghost_view_holder = 2131230856;
+			public const int ghost_view = 2131230856;
 			
 			// aapt resource value: 0x7F080089
-			public const int gone = 2131230857;
+			public const int ghost_view_holder = 2131230857;
 			
 			// aapt resource value: 0x7F08008A
-			public const int group_divider = 2131230858;
+			public const int gone = 2131230858;
 			
 			// aapt resource value: 0x7F08008B
-			public const int hideable = 2131230859;
+			public const int group_divider = 2131230859;
 			
 			// aapt resource value: 0x7F08008C
-			public const int home = 2131230860;
+			public const int hideable = 2131230860;
 			
 			// aapt resource value: 0x7F08008D
-			public const int homeAsUp = 2131230861;
+			public const int home = 2131230861;
 			
 			// aapt resource value: 0x7F08008E
-			public const int icon = 2131230862;
+			public const int homeAsUp = 2131230862;
 			
 			// aapt resource value: 0x7F08008F
-			public const int icon_group = 2131230863;
+			public const int icon = 2131230863;
 			
 			// aapt resource value: 0x7F080090
-			public const int ifRoom = 2131230864;
+			public const int icon_group = 2131230864;
 			
 			// aapt resource value: 0x7F080091
-			public const int image = 2131230865;
+			public const int ifRoom = 2131230865;
 			
 			// aapt resource value: 0x7F080092
-			public const int info = 2131230866;
+			public const int image = 2131230866;
 			
 			// aapt resource value: 0x7F080093
-			public const int italic = 2131230867;
+			public const int info = 2131230867;
 			
 			// aapt resource value: 0x7F080094
-			public const int item_touch_helper_previous_elevation = 2131230868;
-			
-			// aapt resource value: 0x7F080095
-			public const int labeled = 2131230869;
-			
-			// aapt resource value: 0x7F080096
-			public const int largeLabel = 2131230870;
-			
-			// aapt resource value: 0x7F080097
-			public const int left = 2131230871;
-			
-			// aapt resource value: 0x7F080098
-			public const int line1 = 2131230872;
-			
-			// aapt resource value: 0x7F080099
-			public const int line3 = 2131230873;
-			
-			// aapt resource value: 0x7F08009A
-			public const int listMode = 2131230874;
-			
-			// aapt resource value: 0x7F08009B
-			public const int list_item = 2131230875;
-			
-			// aapt resource value: 0x7F08009C
-			public const int main_appbar = 2131230876;
-			
-			// aapt resource value: 0x7F08009D
-			public const int main_tablayout = 2131230877;
-			
-			// aapt resource value: 0x7F08009E
-			public const int main_toolbar = 2131230878;
-			
-			// aapt resource value: 0x7F08009F
-			public const int main_viewpager = 2131230879;
-			
-			// aapt resource value: 0x7F0800A0
-			public const int masked = 2131230880;
-			
-			// aapt resource value: 0x7F0800A1
-			public const int media_actions = 2131230881;
-			
-			// aapt resource value: 0x7F0800A2
-			public const int media_controller_compat_view_tag = 2131230882;
-			
-			// aapt resource value: 0x7F0800A3
-			public const int message = 2131230883;
+			public const int italic = 2131230868;
 			
 			// aapt resource value: 0x7F080005
-			public const int META = 2131230725;
+			public const int Itemname = 2131230725;
+			
+			// aapt resource value: 0x7F080095
+			public const int item_touch_helper_previous_elevation = 2131230869;
+			
+			// aapt resource value: 0x7F080096
+			public const int labeled = 2131230870;
+			
+			// aapt resource value: 0x7F080097
+			public const int largeLabel = 2131230871;
+			
+			// aapt resource value: 0x7F080098
+			public const int left = 2131230872;
+			
+			// aapt resource value: 0x7F080099
+			public const int line1 = 2131230873;
+			
+			// aapt resource value: 0x7F08009A
+			public const int line3 = 2131230874;
+			
+			// aapt resource value: 0x7F08009B
+			public const int listMode = 2131230875;
+			
+			// aapt resource value: 0x7F08009C
+			public const int list_item = 2131230876;
+			
+			// aapt resource value: 0x7F08009D
+			public const int main_appbar = 2131230877;
+			
+			// aapt resource value: 0x7F08009E
+			public const int main_tablayout = 2131230878;
+			
+			// aapt resource value: 0x7F08009F
+			public const int main_toolbar = 2131230879;
+			
+			// aapt resource value: 0x7F0800A0
+			public const int main_viewpager = 2131230880;
+			
+			// aapt resource value: 0x7F0800A1
+			public const int masked = 2131230881;
+			
+			// aapt resource value: 0x7F0800A2
+			public const int media_actions = 2131230882;
+			
+			// aapt resource value: 0x7F0800A3
+			public const int media_controller_compat_view_tag = 2131230883;
 			
 			// aapt resource value: 0x7F0800A4
-			public const int middle = 2131230884;
-			
-			// aapt resource value: 0x7F0800A5
-			public const int mini = 2131230885;
-			
-			// aapt resource value: 0x7F0800A6
-			public const int month_grid = 2131230886;
-			
-			// aapt resource value: 0x7F0800A7
-			public const int month_navigation_bar = 2131230887;
-			
-			// aapt resource value: 0x7F0800A8
-			public const int month_navigation_fragment_toggle = 2131230888;
-			
-			// aapt resource value: 0x7F0800A9
-			public const int month_navigation_next = 2131230889;
-			
-			// aapt resource value: 0x7F0800AA
-			public const int month_navigation_previous = 2131230890;
-			
-			// aapt resource value: 0x7F0800AB
-			public const int month_title = 2131230891;
-			
-			// aapt resource value: 0x7F0800AD
-			public const int mtrl_calendar_days_of_week = 2131230893;
-			
-			// aapt resource value: 0x7F0800AC
-			public const int mtrl_calendar_day_selector_frame = 2131230892;
-			
-			// aapt resource value: 0x7F0800AE
-			public const int mtrl_calendar_frame = 2131230894;
-			
-			// aapt resource value: 0x7F0800AF
-			public const int mtrl_calendar_main_pane = 2131230895;
-			
-			// aapt resource value: 0x7F0800B0
-			public const int mtrl_calendar_months = 2131230896;
-			
-			// aapt resource value: 0x7F0800B1
-			public const int mtrl_calendar_selection_frame = 2131230897;
-			
-			// aapt resource value: 0x7F0800B2
-			public const int mtrl_calendar_text_input_frame = 2131230898;
-			
-			// aapt resource value: 0x7F0800B3
-			public const int mtrl_calendar_year_selector_frame = 2131230899;
-			
-			// aapt resource value: 0x7F0800B4
-			public const int mtrl_card_checked_layer_id = 2131230900;
-			
-			// aapt resource value: 0x7F0800B5
-			public const int mtrl_child_content_container = 2131230901;
-			
-			// aapt resource value: 0x7F0800B6
-			public const int mtrl_internal_children_alpha_tag = 2131230902;
-			
-			// aapt resource value: 0x7F0800B7
-			public const int mtrl_motion_snapshot_view = 2131230903;
-			
-			// aapt resource value: 0x7F0800B8
-			public const int mtrl_picker_fullscreen = 2131230904;
-			
-			// aapt resource value: 0x7F0800B9
-			public const int mtrl_picker_header = 2131230905;
-			
-			// aapt resource value: 0x7F0800BA
-			public const int mtrl_picker_header_selection_text = 2131230906;
-			
-			// aapt resource value: 0x7F0800BB
-			public const int mtrl_picker_header_title_and_selection = 2131230907;
-			
-			// aapt resource value: 0x7F0800BC
-			public const int mtrl_picker_header_toggle = 2131230908;
-			
-			// aapt resource value: 0x7F0800BD
-			public const int mtrl_picker_text_input_date = 2131230909;
-			
-			// aapt resource value: 0x7F0800BE
-			public const int mtrl_picker_text_input_range_end = 2131230910;
-			
-			// aapt resource value: 0x7F0800BF
-			public const int mtrl_picker_text_input_range_start = 2131230911;
-			
-			// aapt resource value: 0x7F0800C0
-			public const int mtrl_picker_title_text = 2131230912;
-			
-			// aapt resource value: 0x7F0800C1
-			public const int multiply = 2131230913;
-			
-			// aapt resource value: 0x7F0800C2
-			public const int navigation_header_container = 2131230914;
-			
-			// aapt resource value: 0x7F0800C3
-			public const int never = 2131230915;
-			
-			// aapt resource value: 0x7F0800C5
-			public const int none = 2131230917;
-			
-			// aapt resource value: 0x7F0800C6
-			public const int normal = 2131230918;
-			
-			// aapt resource value: 0x7F0800C4
-			public const int noScroll = 2131230916;
-			
-			// aapt resource value: 0x7F0800C7
-			public const int notification_background = 2131230919;
-			
-			// aapt resource value: 0x7F0800C8
-			public const int notification_main_column = 2131230920;
-			
-			// aapt resource value: 0x7F0800C9
-			public const int notification_main_column_container = 2131230921;
-			
-			// aapt resource value: 0x7F0800CA
-			public const int off = 2131230922;
-			
-			// aapt resource value: 0x7F0800CB
-			public const int on = 2131230923;
-			
-			// aapt resource value: 0x7F0800CC
-			public const int outline = 2131230924;
-			
-			// aapt resource value: 0x7F0800CD
-			public const int parallax = 2131230925;
-			
-			// aapt resource value: 0x7F0800CE
-			public const int parentPanel = 2131230926;
-			
-			// aapt resource value: 0x7F0800CF
-			public const int parent_matrix = 2131230927;
-			
-			// aapt resource value: 0x7F0800D0
-			public const int password_toggle = 2131230928;
-			
-			// aapt resource value: 0x7F0800D1
-			public const int peekHeight = 2131230929;
-			
-			// aapt resource value: 0x7F0800D2
-			public const int pin = 2131230930;
-			
-			// aapt resource value: 0x7F0800D3
-			public const int progress_circular = 2131230931;
-			
-			// aapt resource value: 0x7F0800D4
-			public const int progress_horizontal = 2131230932;
-			
-			// aapt resource value: 0x7F0800D5
-			public const int radio = 2131230933;
-			
-			// aapt resource value: 0x7F0800D6
-			public const int right = 2131230934;
-			
-			// aapt resource value: 0x7F0800D7
-			public const int right_icon = 2131230935;
-			
-			// aapt resource value: 0x7F0800D8
-			public const int right_side = 2131230936;
-			
-			// aapt resource value: 0x7F0800D9
-			public const int rounded = 2131230937;
-			
-			// aapt resource value: 0x7F0800DA
-			public const int row_index_key = 2131230938;
-			
-			// aapt resource value: 0x7F0800DB
-			public const int save_non_transition_alpha = 2131230939;
-			
-			// aapt resource value: 0x7F0800DC
-			public const int save_overlay_view = 2131230940;
-			
-			// aapt resource value: 0x7F0800DD
-			public const int scale = 2131230941;
-			
-			// aapt resource value: 0x7F0800DE
-			public const int screen = 2131230942;
-			
-			// aapt resource value: 0x7F0800DF
-			public const int scroll = 2131230943;
-			
-			// aapt resource value: 0x7F0800E3
-			public const int scrollable = 2131230947;
-			
-			// aapt resource value: 0x7F0800E0
-			public const int scrollIndicatorDown = 2131230944;
-			
-			// aapt resource value: 0x7F0800E1
-			public const int scrollIndicatorUp = 2131230945;
-			
-			// aapt resource value: 0x7F0800E2
-			public const int scrollView = 2131230946;
-			
-			// aapt resource value: 0x7F0800E4
-			public const int search_badge = 2131230948;
-			
-			// aapt resource value: 0x7F0800E5
-			public const int search_bar = 2131230949;
-			
-			// aapt resource value: 0x7F0800E6
-			public const int search_button = 2131230950;
-			
-			// aapt resource value: 0x7F0800E7
-			public const int search_close_btn = 2131230951;
-			
-			// aapt resource value: 0x7F0800E8
-			public const int search_edit_frame = 2131230952;
-			
-			// aapt resource value: 0x7F0800E9
-			public const int search_go_btn = 2131230953;
-			
-			// aapt resource value: 0x7F0800EA
-			public const int search_mag_icon = 2131230954;
-			
-			// aapt resource value: 0x7F0800EB
-			public const int search_plate = 2131230955;
-			
-			// aapt resource value: 0x7F0800EC
-			public const int search_src_text = 2131230956;
-			
-			// aapt resource value: 0x7F0800ED
-			public const int search_voice_btn = 2131230957;
-			
-			// aapt resource value: 0x7F0800EF
-			public const int selected = 2131230959;
-			
-			// aapt resource value: 0x7F0800EE
-			public const int select_dialog_listview = 2131230958;
-			
-			// aapt resource value: 0x7F0800F0
-			public const int shellcontent_appbar = 2131230960;
-			
-			// aapt resource value: 0x7F0800F1
-			public const int shellcontent_toolbar = 2131230961;
+			public const int message = 2131230884;
 			
 			// aapt resource value: 0x7F080006
-			public const int SHIFT = 2131230726;
+			public const int META = 2131230726;
+			
+			// aapt resource value: 0x7F0800A5
+			public const int middle = 2131230885;
+			
+			// aapt resource value: 0x7F0800A6
+			public const int mini = 2131230886;
+			
+			// aapt resource value: 0x7F0800A7
+			public const int month_grid = 2131230887;
+			
+			// aapt resource value: 0x7F0800A8
+			public const int month_navigation_bar = 2131230888;
+			
+			// aapt resource value: 0x7F0800A9
+			public const int month_navigation_fragment_toggle = 2131230889;
+			
+			// aapt resource value: 0x7F0800AA
+			public const int month_navigation_next = 2131230890;
+			
+			// aapt resource value: 0x7F0800AB
+			public const int month_navigation_previous = 2131230891;
+			
+			// aapt resource value: 0x7F0800AC
+			public const int month_title = 2131230892;
+			
+			// aapt resource value: 0x7F0800AE
+			public const int mtrl_calendar_days_of_week = 2131230894;
+			
+			// aapt resource value: 0x7F0800AD
+			public const int mtrl_calendar_day_selector_frame = 2131230893;
+			
+			// aapt resource value: 0x7F0800AF
+			public const int mtrl_calendar_frame = 2131230895;
+			
+			// aapt resource value: 0x7F0800B0
+			public const int mtrl_calendar_main_pane = 2131230896;
+			
+			// aapt resource value: 0x7F0800B1
+			public const int mtrl_calendar_months = 2131230897;
+			
+			// aapt resource value: 0x7F0800B2
+			public const int mtrl_calendar_selection_frame = 2131230898;
+			
+			// aapt resource value: 0x7F0800B3
+			public const int mtrl_calendar_text_input_frame = 2131230899;
+			
+			// aapt resource value: 0x7F0800B4
+			public const int mtrl_calendar_year_selector_frame = 2131230900;
+			
+			// aapt resource value: 0x7F0800B5
+			public const int mtrl_card_checked_layer_id = 2131230901;
+			
+			// aapt resource value: 0x7F0800B6
+			public const int mtrl_child_content_container = 2131230902;
+			
+			// aapt resource value: 0x7F0800B7
+			public const int mtrl_internal_children_alpha_tag = 2131230903;
+			
+			// aapt resource value: 0x7F0800B8
+			public const int mtrl_motion_snapshot_view = 2131230904;
+			
+			// aapt resource value: 0x7F0800B9
+			public const int mtrl_picker_fullscreen = 2131230905;
+			
+			// aapt resource value: 0x7F0800BA
+			public const int mtrl_picker_header = 2131230906;
+			
+			// aapt resource value: 0x7F0800BB
+			public const int mtrl_picker_header_selection_text = 2131230907;
+			
+			// aapt resource value: 0x7F0800BC
+			public const int mtrl_picker_header_title_and_selection = 2131230908;
+			
+			// aapt resource value: 0x7F0800BD
+			public const int mtrl_picker_header_toggle = 2131230909;
+			
+			// aapt resource value: 0x7F0800BE
+			public const int mtrl_picker_text_input_date = 2131230910;
+			
+			// aapt resource value: 0x7F0800BF
+			public const int mtrl_picker_text_input_range_end = 2131230911;
+			
+			// aapt resource value: 0x7F0800C0
+			public const int mtrl_picker_text_input_range_start = 2131230912;
+			
+			// aapt resource value: 0x7F0800C1
+			public const int mtrl_picker_title_text = 2131230913;
+			
+			// aapt resource value: 0x7F0800C2
+			public const int multiply = 2131230914;
+			
+			// aapt resource value: 0x7F0800C3
+			public const int navigation_header_container = 2131230915;
+			
+			// aapt resource value: 0x7F0800C4
+			public const int never = 2131230916;
+			
+			// aapt resource value: 0x7F0800C6
+			public const int none = 2131230918;
+			
+			// aapt resource value: 0x7F0800C7
+			public const int normal = 2131230919;
+			
+			// aapt resource value: 0x7F0800C5
+			public const int noScroll = 2131230917;
+			
+			// aapt resource value: 0x7F0800C8
+			public const int notification_background = 2131230920;
+			
+			// aapt resource value: 0x7F0800C9
+			public const int notification_main_column = 2131230921;
+			
+			// aapt resource value: 0x7F0800CA
+			public const int notification_main_column_container = 2131230922;
+			
+			// aapt resource value: 0x7F0800CB
+			public const int off = 2131230923;
+			
+			// aapt resource value: 0x7F0800CC
+			public const int on = 2131230924;
+			
+			// aapt resource value: 0x7F0800CD
+			public const int outline = 2131230925;
+			
+			// aapt resource value: 0x7F0800CE
+			public const int parallax = 2131230926;
+			
+			// aapt resource value: 0x7F0800CF
+			public const int parentPanel = 2131230927;
+			
+			// aapt resource value: 0x7F0800D0
+			public const int parent_matrix = 2131230928;
+			
+			// aapt resource value: 0x7F0800D1
+			public const int password_toggle = 2131230929;
+			
+			// aapt resource value: 0x7F0800D2
+			public const int peekHeight = 2131230930;
+			
+			// aapt resource value: 0x7F0800D3
+			public const int pin = 2131230931;
+			
+			// aapt resource value: 0x7F0800D4
+			public const int progress_circular = 2131230932;
+			
+			// aapt resource value: 0x7F0800D5
+			public const int progress_horizontal = 2131230933;
+			
+			// aapt resource value: 0x7F0800D6
+			public const int radio = 2131230934;
+			
+			// aapt resource value: 0x7F0800D7
+			public const int right = 2131230935;
+			
+			// aapt resource value: 0x7F0800D8
+			public const int right_icon = 2131230936;
+			
+			// aapt resource value: 0x7F0800D9
+			public const int right_side = 2131230937;
+			
+			// aapt resource value: 0x7F0800DA
+			public const int rounded = 2131230938;
+			
+			// aapt resource value: 0x7F0800DB
+			public const int row_index_key = 2131230939;
+			
+			// aapt resource value: 0x7F0800DC
+			public const int save_non_transition_alpha = 2131230940;
+			
+			// aapt resource value: 0x7F0800DD
+			public const int save_overlay_view = 2131230941;
+			
+			// aapt resource value: 0x7F0800DE
+			public const int scale = 2131230942;
+			
+			// aapt resource value: 0x7F0800DF
+			public const int screen = 2131230943;
+			
+			// aapt resource value: 0x7F0800E0
+			public const int scroll = 2131230944;
+			
+			// aapt resource value: 0x7F0800E4
+			public const int scrollable = 2131230948;
+			
+			// aapt resource value: 0x7F0800E1
+			public const int scrollIndicatorDown = 2131230945;
+			
+			// aapt resource value: 0x7F0800E2
+			public const int scrollIndicatorUp = 2131230946;
+			
+			// aapt resource value: 0x7F0800E3
+			public const int scrollView = 2131230947;
+			
+			// aapt resource value: 0x7F0800E5
+			public const int search_badge = 2131230949;
+			
+			// aapt resource value: 0x7F0800E6
+			public const int search_bar = 2131230950;
+			
+			// aapt resource value: 0x7F0800E7
+			public const int search_button = 2131230951;
+			
+			// aapt resource value: 0x7F0800E8
+			public const int search_close_btn = 2131230952;
+			
+			// aapt resource value: 0x7F0800E9
+			public const int search_edit_frame = 2131230953;
+			
+			// aapt resource value: 0x7F0800EA
+			public const int search_go_btn = 2131230954;
+			
+			// aapt resource value: 0x7F0800EB
+			public const int search_mag_icon = 2131230955;
+			
+			// aapt resource value: 0x7F0800EC
+			public const int search_plate = 2131230956;
+			
+			// aapt resource value: 0x7F0800ED
+			public const int search_src_text = 2131230957;
+			
+			// aapt resource value: 0x7F0800EE
+			public const int search_voice_btn = 2131230958;
+			
+			// aapt resource value: 0x7F0800F0
+			public const int selected = 2131230960;
+			
+			// aapt resource value: 0x7F0800EF
+			public const int select_dialog_listview = 2131230959;
+			
+			// aapt resource value: 0x7F0800F1
+			public const int shellcontent_appbar = 2131230961;
 			
 			// aapt resource value: 0x7F0800F2
-			public const int shortcut = 2131230962;
-			
-			// aapt resource value: 0x7F0800F3
-			public const int showCustom = 2131230963;
-			
-			// aapt resource value: 0x7F0800F4
-			public const int showHome = 2131230964;
-			
-			// aapt resource value: 0x7F0800F5
-			public const int showTitle = 2131230965;
-			
-			// aapt resource value: 0x7F0800F6
-			public const int skipCollapsed = 2131230966;
-			
-			// aapt resource value: 0x7F0800F7
-			public const int slide = 2131230967;
-			
-			// aapt resource value: 0x7F0800F8
-			public const int sliding_tabs = 2131230968;
-			
-			// aapt resource value: 0x7F0800F9
-			public const int smallLabel = 2131230969;
-			
-			// aapt resource value: 0x7F0800FA
-			public const int snackbar_action = 2131230970;
-			
-			// aapt resource value: 0x7F0800FB
-			public const int snackbar_text = 2131230971;
-			
-			// aapt resource value: 0x7F0800FC
-			public const int snap = 2131230972;
-			
-			// aapt resource value: 0x7F0800FD
-			public const int snapMargins = 2131230973;
-			
-			// aapt resource value: 0x7F0800FE
-			public const int spacer = 2131230974;
-			
-			// aapt resource value: 0x7F0800FF
-			public const int split_action_bar = 2131230975;
-			
-			// aapt resource value: 0x7F080100
-			public const int src_atop = 2131230976;
-			
-			// aapt resource value: 0x7F080101
-			public const int src_in = 2131230977;
-			
-			// aapt resource value: 0x7F080102
-			public const int src_over = 2131230978;
-			
-			// aapt resource value: 0x7F080103
-			public const int start = 2131230979;
-			
-			// aapt resource value: 0x7F080104
-			public const int status_bar_latest_event_content = 2131230980;
-			
-			// aapt resource value: 0x7F080105
-			public const int stretch = 2131230981;
-			
-			// aapt resource value: 0x7F080106
-			public const int submenuarrow = 2131230982;
-			
-			// aapt resource value: 0x7F080107
-			public const int submit_area = 2131230983;
+			public const int shellcontent_toolbar = 2131230962;
 			
 			// aapt resource value: 0x7F080007
-			public const int SYM = 2131230727;
+			public const int SHIFT = 2131230727;
+			
+			// aapt resource value: 0x7F0800F3
+			public const int shortcut = 2131230963;
+			
+			// aapt resource value: 0x7F0800F4
+			public const int showCustom = 2131230964;
+			
+			// aapt resource value: 0x7F0800F5
+			public const int showHome = 2131230965;
+			
+			// aapt resource value: 0x7F0800F6
+			public const int showTitle = 2131230966;
+			
+			// aapt resource value: 0x7F0800F7
+			public const int skipCollapsed = 2131230967;
+			
+			// aapt resource value: 0x7F0800F8
+			public const int slide = 2131230968;
+			
+			// aapt resource value: 0x7F0800F9
+			public const int sliding_tabs = 2131230969;
+			
+			// aapt resource value: 0x7F0800FA
+			public const int smallLabel = 2131230970;
+			
+			// aapt resource value: 0x7F0800FB
+			public const int snackbar_action = 2131230971;
+			
+			// aapt resource value: 0x7F0800FC
+			public const int snackbar_text = 2131230972;
+			
+			// aapt resource value: 0x7F0800FD
+			public const int snap = 2131230973;
+			
+			// aapt resource value: 0x7F0800FE
+			public const int snapMargins = 2131230974;
+			
+			// aapt resource value: 0x7F0800FF
+			public const int spacer = 2131230975;
+			
+			// aapt resource value: 0x7F080100
+			public const int split_action_bar = 2131230976;
+			
+			// aapt resource value: 0x7F080101
+			public const int src_atop = 2131230977;
+			
+			// aapt resource value: 0x7F080102
+			public const int src_in = 2131230978;
+			
+			// aapt resource value: 0x7F080103
+			public const int src_over = 2131230979;
+			
+			// aapt resource value: 0x7F080104
+			public const int start = 2131230980;
+			
+			// aapt resource value: 0x7F080105
+			public const int status_bar_latest_event_content = 2131230981;
+			
+			// aapt resource value: 0x7F080106
+			public const int stretch = 2131230982;
+			
+			// aapt resource value: 0x7F080107
+			public const int submenuarrow = 2131230983;
 			
 			// aapt resource value: 0x7F080108
-			public const int tabMode = 2131230984;
-			
-			// aapt resource value: 0x7F080109
-			public const int tag_accessibility_actions = 2131230985;
-			
-			// aapt resource value: 0x7F08010A
-			public const int tag_accessibility_clickable_spans = 2131230986;
-			
-			// aapt resource value: 0x7F08010B
-			public const int tag_accessibility_heading = 2131230987;
-			
-			// aapt resource value: 0x7F08010C
-			public const int tag_accessibility_pane_title = 2131230988;
-			
-			// aapt resource value: 0x7F08010D
-			public const int tag_screen_reader_focusable = 2131230989;
-			
-			// aapt resource value: 0x7F08010E
-			public const int tag_transition_group = 2131230990;
-			
-			// aapt resource value: 0x7F08010F
-			public const int tag_unhandled_key_event_manager = 2131230991;
-			
-			// aapt resource value: 0x7F080110
-			public const int tag_unhandled_key_listeners = 2131230992;
-			
-			// aapt resource value: 0x7F080111
-			public const int test_checkbox_android_button_tint = 2131230993;
-			
-			// aapt resource value: 0x7F080112
-			public const int test_checkbox_app_button_tint = 2131230994;
-			
-			// aapt resource value: 0x7F080113
-			public const int test_radiobutton_android_button_tint = 2131230995;
-			
-			// aapt resource value: 0x7F080114
-			public const int test_radiobutton_app_button_tint = 2131230996;
-			
-			// aapt resource value: 0x7F080115
-			public const int text = 2131230997;
-			
-			// aapt resource value: 0x7F080116
-			public const int text2 = 2131230998;
-			
-			// aapt resource value: 0x7F080117
-			public const int textEnd = 2131230999;
-			
-			// aapt resource value: 0x7F08011D
-			public const int textinput_counter = 2131231005;
-			
-			// aapt resource value: 0x7F08011E
-			public const int textinput_error = 2131231006;
-			
-			// aapt resource value: 0x7F08011F
-			public const int textinput_helper_text = 2131231007;
-			
-			// aapt resource value: 0x7F080120
-			public const int textinput_placeholder = 2131231008;
-			
-			// aapt resource value: 0x7F080121
-			public const int textinput_prefix_text = 2131231009;
-			
-			// aapt resource value: 0x7F080122
-			public const int textinput_suffix_text = 2131231010;
-			
-			// aapt resource value: 0x7F080118
-			public const int textSpacerNoButtons = 2131231000;
-			
-			// aapt resource value: 0x7F080119
-			public const int textSpacerNoTitle = 2131231001;
-			
-			// aapt resource value: 0x7F08011A
-			public const int textStart = 2131231002;
-			
-			// aapt resource value: 0x7F08011B
-			public const int text_input_end_icon = 2131231003;
-			
-			// aapt resource value: 0x7F08011C
-			public const int text_input_start_icon = 2131231004;
-			
-			// aapt resource value: 0x7F080123
-			public const int time = 2131231011;
-			
-			// aapt resource value: 0x7F080124
-			public const int title = 2131231012;
-			
-			// aapt resource value: 0x7F080125
-			public const int titleDividerNoCustom = 2131231013;
-			
-			// aapt resource value: 0x7F080126
-			public const int title_template = 2131231014;
-			
-			// aapt resource value: 0x7F080127
-			public const int toolbar = 2131231015;
-			
-			// aapt resource value: 0x7F080128
-			public const int top = 2131231016;
-			
-			// aapt resource value: 0x7F080129
-			public const int topPanel = 2131231017;
+			public const int submit_area = 2131230984;
 			
 			// aapt resource value: 0x7F080008
-			public const int TOP_END = 2131230728;
+			public const int SYM = 2131230728;
 			
-			// aapt resource value: 0x7F080009
-			public const int TOP_START = 2131230729;
+			// aapt resource value: 0x7F080109
+			public const int tabMode = 2131230985;
+			
+			// aapt resource value: 0x7F08010A
+			public const int tag_accessibility_actions = 2131230986;
+			
+			// aapt resource value: 0x7F08010B
+			public const int tag_accessibility_clickable_spans = 2131230987;
+			
+			// aapt resource value: 0x7F08010C
+			public const int tag_accessibility_heading = 2131230988;
+			
+			// aapt resource value: 0x7F08010D
+			public const int tag_accessibility_pane_title = 2131230989;
+			
+			// aapt resource value: 0x7F08010E
+			public const int tag_screen_reader_focusable = 2131230990;
+			
+			// aapt resource value: 0x7F08010F
+			public const int tag_transition_group = 2131230991;
+			
+			// aapt resource value: 0x7F080110
+			public const int tag_unhandled_key_event_manager = 2131230992;
+			
+			// aapt resource value: 0x7F080111
+			public const int tag_unhandled_key_listeners = 2131230993;
+			
+			// aapt resource value: 0x7F080112
+			public const int test_checkbox_android_button_tint = 2131230994;
+			
+			// aapt resource value: 0x7F080113
+			public const int test_checkbox_app_button_tint = 2131230995;
+			
+			// aapt resource value: 0x7F080114
+			public const int test_radiobutton_android_button_tint = 2131230996;
+			
+			// aapt resource value: 0x7F080115
+			public const int test_radiobutton_app_button_tint = 2131230997;
+			
+			// aapt resource value: 0x7F080116
+			public const int text = 2131230998;
+			
+			// aapt resource value: 0x7F080117
+			public const int text2 = 2131230999;
+			
+			// aapt resource value: 0x7F080118
+			public const int textEnd = 2131231000;
+			
+			// aapt resource value: 0x7F08011E
+			public const int textinput_counter = 2131231006;
+			
+			// aapt resource value: 0x7F08011F
+			public const int textinput_error = 2131231007;
+			
+			// aapt resource value: 0x7F080120
+			public const int textinput_helper_text = 2131231008;
+			
+			// aapt resource value: 0x7F080121
+			public const int textinput_placeholder = 2131231009;
+			
+			// aapt resource value: 0x7F080122
+			public const int textinput_prefix_text = 2131231010;
+			
+			// aapt resource value: 0x7F080123
+			public const int textinput_suffix_text = 2131231011;
+			
+			// aapt resource value: 0x7F080119
+			public const int textSpacerNoButtons = 2131231001;
+			
+			// aapt resource value: 0x7F08011A
+			public const int textSpacerNoTitle = 2131231002;
+			
+			// aapt resource value: 0x7F08011B
+			public const int textStart = 2131231003;
+			
+			// aapt resource value: 0x7F08011C
+			public const int text_input_end_icon = 2131231004;
+			
+			// aapt resource value: 0x7F08011D
+			public const int text_input_start_icon = 2131231005;
+			
+			// aapt resource value: 0x7F080124
+			public const int time = 2131231012;
+			
+			// aapt resource value: 0x7F080125
+			public const int title = 2131231013;
+			
+			// aapt resource value: 0x7F080126
+			public const int titleDividerNoCustom = 2131231014;
+			
+			// aapt resource value: 0x7F080127
+			public const int title_template = 2131231015;
+			
+			// aapt resource value: 0x7F080128
+			public const int toolbar = 2131231016;
+			
+			// aapt resource value: 0x7F080129
+			public const int top = 2131231017;
 			
 			// aapt resource value: 0x7F08012A
-			public const int touch_outside = 2131231018;
+			public const int topPanel = 2131231018;
+			
+			// aapt resource value: 0x7F080009
+			public const int TOP_END = 2131230729;
+			
+			// aapt resource value: 0x7F08000A
+			public const int TOP_START = 2131230730;
 			
 			// aapt resource value: 0x7F08012B
-			public const int transition_current_scene = 2131231019;
+			public const int touch_outside = 2131231019;
 			
 			// aapt resource value: 0x7F08012C
-			public const int transition_layout_save = 2131231020;
+			public const int transition_current_scene = 2131231020;
 			
 			// aapt resource value: 0x7F08012D
-			public const int transition_position = 2131231021;
+			public const int transition_layout_save = 2131231021;
 			
 			// aapt resource value: 0x7F08012E
-			public const int transition_scene_layoutid_cache = 2131231022;
+			public const int transition_position = 2131231022;
 			
 			// aapt resource value: 0x7F08012F
-			public const int transition_transform = 2131231023;
+			public const int transition_scene_layoutid_cache = 2131231023;
 			
 			// aapt resource value: 0x7F080130
-			public const int @unchecked = 2131231024;
+			public const int transition_transform = 2131231024;
 			
 			// aapt resource value: 0x7F080131
-			public const int uniform = 2131231025;
+			public const int @unchecked = 2131231025;
 			
 			// aapt resource value: 0x7F080132
-			public const int unlabeled = 2131231026;
+			public const int uniform = 2131231026;
 			
 			// aapt resource value: 0x7F080133
-			public const int up = 2131231027;
+			public const int unlabeled = 2131231027;
 			
 			// aapt resource value: 0x7F080134
-			public const int useLogo = 2131231028;
+			public const int up = 2131231028;
 			
 			// aapt resource value: 0x7F080135
-			public const int view_offset_helper = 2131231029;
+			public const int useLogo = 2131231029;
 			
 			// aapt resource value: 0x7F080136
-			public const int view_tree_saved_state_registry_owner = 2131231030;
+			public const int view_offset_helper = 2131231030;
 			
 			// aapt resource value: 0x7F080137
-			public const int visible = 2131231031;
+			public const int view_tree_saved_state_registry_owner = 2131231031;
 			
 			// aapt resource value: 0x7F080138
-			public const int visible_removing_fragment_view_tag = 2131231032;
-			
-			// aapt resource value: 0x7F08013A
-			public const int withinBounds = 2131231034;
+			public const int visible = 2131231032;
 			
 			// aapt resource value: 0x7F080139
-			public const int withText = 2131231033;
+			public const int visible_removing_fragment_view_tag = 2131231033;
 			
 			// aapt resource value: 0x7F08013B
-			public const int wrap_content = 2131231035;
+			public const int withinBounds = 2131231035;
+			
+			// aapt resource value: 0x7F08013A
+			public const int withText = 2131231034;
 			
 			// aapt resource value: 0x7F08013C
-			public const int zero_corner_chip = 2131231036;
+			public const int wrap_content = 2131231036;
+			
+			// aapt resource value: 0x7F08013D
+			public const int zero_corner_chip = 2131231037;
 			
 			static Id()
 			{
@@ -12979,257 +15797,266 @@ namespace Amiibopedia.Droid
 			// aapt resource value: 0x7F0B001E
 			public const int browser_actions_context_menu_row = 2131427358;
 			
+			// aapt resource value: 0x7F0B0020
+			public const int CustomizedView = 2131427360;
+			
+			// aapt resource value: 0x7F0B0021
+			public const int CustomizedView1 = 2131427361;
+			
 			// aapt resource value: 0x7F0B001F
 			public const int custom_dialog = 2131427359;
 			
-			// aapt resource value: 0x7F0B0020
-			public const int design_bottom_navigation_item = 2131427360;
-			
-			// aapt resource value: 0x7F0B0021
-			public const int design_bottom_sheet_dialog = 2131427361;
-			
 			// aapt resource value: 0x7F0B0022
-			public const int design_layout_snackbar = 2131427362;
+			public const int design_bottom_navigation_item = 2131427362;
 			
 			// aapt resource value: 0x7F0B0023
-			public const int design_layout_snackbar_include = 2131427363;
+			public const int design_bottom_sheet_dialog = 2131427363;
 			
 			// aapt resource value: 0x7F0B0024
-			public const int design_layout_tab_icon = 2131427364;
+			public const int design_layout_snackbar = 2131427364;
 			
 			// aapt resource value: 0x7F0B0025
-			public const int design_layout_tab_text = 2131427365;
+			public const int design_layout_snackbar_include = 2131427365;
 			
 			// aapt resource value: 0x7F0B0026
-			public const int design_menu_item_action_area = 2131427366;
+			public const int design_layout_tab_icon = 2131427366;
 			
 			// aapt resource value: 0x7F0B0027
-			public const int design_navigation_item = 2131427367;
+			public const int design_layout_tab_text = 2131427367;
 			
 			// aapt resource value: 0x7F0B0028
-			public const int design_navigation_item_header = 2131427368;
+			public const int design_menu_item_action_area = 2131427368;
 			
 			// aapt resource value: 0x7F0B0029
-			public const int design_navigation_item_separator = 2131427369;
+			public const int design_navigation_item = 2131427369;
 			
 			// aapt resource value: 0x7F0B002A
-			public const int design_navigation_item_subheader = 2131427370;
+			public const int design_navigation_item_header = 2131427370;
 			
 			// aapt resource value: 0x7F0B002B
-			public const int design_navigation_menu = 2131427371;
+			public const int design_navigation_item_separator = 2131427371;
 			
 			// aapt resource value: 0x7F0B002C
-			public const int design_navigation_menu_item = 2131427372;
+			public const int design_navigation_item_subheader = 2131427372;
 			
 			// aapt resource value: 0x7F0B002D
-			public const int design_text_input_end_icon = 2131427373;
+			public const int design_navigation_menu = 2131427373;
 			
 			// aapt resource value: 0x7F0B002E
-			public const int design_text_input_start_icon = 2131427374;
+			public const int design_navigation_menu_item = 2131427374;
 			
 			// aapt resource value: 0x7F0B002F
-			public const int FallbackTabbarDoNotUse = 2131427375;
+			public const int design_text_input_end_icon = 2131427375;
 			
 			// aapt resource value: 0x7F0B0030
-			public const int FallbackToolbarDoNotUse = 2131427376;
+			public const int design_text_input_start_icon = 2131427376;
 			
 			// aapt resource value: 0x7F0B0031
-			public const int FlyoutContent = 2131427377;
+			public const int FallbackTabbarDoNotUse = 2131427377;
 			
 			// aapt resource value: 0x7F0B0032
-			public const int mtrl_alert_dialog = 2131427378;
+			public const int FallbackToolbarDoNotUse = 2131427378;
 			
 			// aapt resource value: 0x7F0B0033
-			public const int mtrl_alert_dialog_actions = 2131427379;
+			public const int FlyoutContent = 2131427379;
 			
 			// aapt resource value: 0x7F0B0034
-			public const int mtrl_alert_dialog_title = 2131427380;
+			public const int mtrl_alert_dialog = 2131427380;
 			
 			// aapt resource value: 0x7F0B0035
-			public const int mtrl_alert_select_dialog_item = 2131427381;
+			public const int mtrl_alert_dialog_actions = 2131427381;
 			
 			// aapt resource value: 0x7F0B0036
-			public const int mtrl_alert_select_dialog_multichoice = 2131427382;
+			public const int mtrl_alert_dialog_title = 2131427382;
 			
 			// aapt resource value: 0x7F0B0037
-			public const int mtrl_alert_select_dialog_singlechoice = 2131427383;
+			public const int mtrl_alert_select_dialog_item = 2131427383;
 			
 			// aapt resource value: 0x7F0B0038
-			public const int mtrl_calendar_day = 2131427384;
-			
-			// aapt resource value: 0x7F0B003A
-			public const int mtrl_calendar_days_of_week = 2131427386;
+			public const int mtrl_alert_select_dialog_multichoice = 2131427384;
 			
 			// aapt resource value: 0x7F0B0039
-			public const int mtrl_calendar_day_of_week = 2131427385;
+			public const int mtrl_alert_select_dialog_singlechoice = 2131427385;
 			
-			// aapt resource value: 0x7F0B003B
-			public const int mtrl_calendar_horizontal = 2131427387;
+			// aapt resource value: 0x7F0B003A
+			public const int mtrl_calendar_day = 2131427386;
 			
 			// aapt resource value: 0x7F0B003C
-			public const int mtrl_calendar_month = 2131427388;
+			public const int mtrl_calendar_days_of_week = 2131427388;
 			
-			// aapt resource value: 0x7F0B003F
-			public const int mtrl_calendar_months = 2131427391;
+			// aapt resource value: 0x7F0B003B
+			public const int mtrl_calendar_day_of_week = 2131427387;
 			
 			// aapt resource value: 0x7F0B003D
-			public const int mtrl_calendar_month_labeled = 2131427389;
+			public const int mtrl_calendar_horizontal = 2131427389;
 			
 			// aapt resource value: 0x7F0B003E
-			public const int mtrl_calendar_month_navigation = 2131427390;
-			
-			// aapt resource value: 0x7F0B0040
-			public const int mtrl_calendar_vertical = 2131427392;
+			public const int mtrl_calendar_month = 2131427390;
 			
 			// aapt resource value: 0x7F0B0041
-			public const int mtrl_calendar_year = 2131427393;
+			public const int mtrl_calendar_months = 2131427393;
+			
+			// aapt resource value: 0x7F0B003F
+			public const int mtrl_calendar_month_labeled = 2131427391;
+			
+			// aapt resource value: 0x7F0B0040
+			public const int mtrl_calendar_month_navigation = 2131427392;
 			
 			// aapt resource value: 0x7F0B0042
-			public const int mtrl_layout_snackbar = 2131427394;
+			public const int mtrl_calendar_vertical = 2131427394;
 			
 			// aapt resource value: 0x7F0B0043
-			public const int mtrl_layout_snackbar_include = 2131427395;
+			public const int mtrl_calendar_year = 2131427395;
 			
 			// aapt resource value: 0x7F0B0044
-			public const int mtrl_picker_actions = 2131427396;
+			public const int mtrl_layout_snackbar = 2131427396;
 			
 			// aapt resource value: 0x7F0B0045
-			public const int mtrl_picker_dialog = 2131427397;
+			public const int mtrl_layout_snackbar_include = 2131427397;
 			
 			// aapt resource value: 0x7F0B0046
-			public const int mtrl_picker_fullscreen = 2131427398;
+			public const int mtrl_picker_actions = 2131427398;
 			
 			// aapt resource value: 0x7F0B0047
-			public const int mtrl_picker_header_dialog = 2131427399;
+			public const int mtrl_picker_dialog = 2131427399;
 			
 			// aapt resource value: 0x7F0B0048
-			public const int mtrl_picker_header_fullscreen = 2131427400;
+			public const int mtrl_picker_fullscreen = 2131427400;
 			
 			// aapt resource value: 0x7F0B0049
-			public const int mtrl_picker_header_selection_text = 2131427401;
+			public const int mtrl_picker_header_dialog = 2131427401;
 			
 			// aapt resource value: 0x7F0B004A
-			public const int mtrl_picker_header_title_text = 2131427402;
+			public const int mtrl_picker_header_fullscreen = 2131427402;
 			
 			// aapt resource value: 0x7F0B004B
-			public const int mtrl_picker_header_toggle = 2131427403;
+			public const int mtrl_picker_header_selection_text = 2131427403;
 			
 			// aapt resource value: 0x7F0B004C
-			public const int mtrl_picker_text_input_date = 2131427404;
+			public const int mtrl_picker_header_title_text = 2131427404;
 			
 			// aapt resource value: 0x7F0B004D
-			public const int mtrl_picker_text_input_date_range = 2131427405;
+			public const int mtrl_picker_header_toggle = 2131427405;
 			
 			// aapt resource value: 0x7F0B004E
-			public const int notification_action = 2131427406;
+			public const int mtrl_picker_text_input_date = 2131427406;
 			
 			// aapt resource value: 0x7F0B004F
-			public const int notification_action_tombstone = 2131427407;
+			public const int mtrl_picker_text_input_date_range = 2131427407;
 			
 			// aapt resource value: 0x7F0B0050
-			public const int notification_media_action = 2131427408;
+			public const int notification_action = 2131427408;
 			
 			// aapt resource value: 0x7F0B0051
-			public const int notification_media_cancel_action = 2131427409;
+			public const int notification_action_tombstone = 2131427409;
 			
 			// aapt resource value: 0x7F0B0052
-			public const int notification_template_big_media = 2131427410;
+			public const int notification_media_action = 2131427410;
 			
 			// aapt resource value: 0x7F0B0053
-			public const int notification_template_big_media_custom = 2131427411;
+			public const int notification_media_cancel_action = 2131427411;
 			
 			// aapt resource value: 0x7F0B0054
-			public const int notification_template_big_media_narrow = 2131427412;
+			public const int notification_template_big_media = 2131427412;
 			
 			// aapt resource value: 0x7F0B0055
-			public const int notification_template_big_media_narrow_custom = 2131427413;
+			public const int notification_template_big_media_custom = 2131427413;
 			
 			// aapt resource value: 0x7F0B0056
-			public const int notification_template_custom_big = 2131427414;
+			public const int notification_template_big_media_narrow = 2131427414;
 			
 			// aapt resource value: 0x7F0B0057
-			public const int notification_template_icon_group = 2131427415;
+			public const int notification_template_big_media_narrow_custom = 2131427415;
 			
 			// aapt resource value: 0x7F0B0058
-			public const int notification_template_lines_media = 2131427416;
+			public const int notification_template_custom_big = 2131427416;
 			
 			// aapt resource value: 0x7F0B0059
-			public const int notification_template_media = 2131427417;
+			public const int notification_template_icon_group = 2131427417;
 			
 			// aapt resource value: 0x7F0B005A
-			public const int notification_template_media_custom = 2131427418;
+			public const int notification_template_lines_media = 2131427418;
 			
 			// aapt resource value: 0x7F0B005B
-			public const int notification_template_part_chronometer = 2131427419;
+			public const int notification_template_media = 2131427419;
 			
 			// aapt resource value: 0x7F0B005C
-			public const int notification_template_part_time = 2131427420;
+			public const int notification_template_media_custom = 2131427420;
 			
 			// aapt resource value: 0x7F0B005D
-			public const int RootLayout = 2131427421;
+			public const int notification_template_part_chronometer = 2131427421;
 			
 			// aapt resource value: 0x7F0B005E
-			public const int select_dialog_item_material = 2131427422;
+			public const int notification_template_part_time = 2131427422;
 			
 			// aapt resource value: 0x7F0B005F
-			public const int select_dialog_multichoice_material = 2131427423;
+			public const int RootLayout = 2131427423;
 			
 			// aapt resource value: 0x7F0B0060
-			public const int select_dialog_singlechoice_material = 2131427424;
+			public const int select_dialog_item_material = 2131427424;
 			
 			// aapt resource value: 0x7F0B0061
-			public const int ShellContent = 2131427425;
+			public const int select_dialog_multichoice_material = 2131427425;
 			
 			// aapt resource value: 0x7F0B0062
-			public const int support_simple_spinner_dropdown_item = 2131427426;
+			public const int select_dialog_singlechoice_material = 2131427426;
 			
 			// aapt resource value: 0x7F0B0063
-			public const int Tabbar = 2131427427;
+			public const int sfautocomplete_layout = 2131427427;
 			
 			// aapt resource value: 0x7F0B0064
-			public const int test_action_chip = 2131427428;
+			public const int ShellContent = 2131427428;
 			
 			// aapt resource value: 0x7F0B0065
-			public const int test_chip_zero_corner_radius = 2131427429;
+			public const int support_simple_spinner_dropdown_item = 2131427429;
 			
 			// aapt resource value: 0x7F0B0066
-			public const int test_design_checkbox = 2131427430;
+			public const int Tabbar = 2131427430;
 			
 			// aapt resource value: 0x7F0B0067
-			public const int test_design_radiobutton = 2131427431;
+			public const int test_action_chip = 2131427431;
 			
 			// aapt resource value: 0x7F0B0068
-			public const int test_reflow_chipgroup = 2131427432;
+			public const int test_chip_zero_corner_radius = 2131427432;
 			
 			// aapt resource value: 0x7F0B0069
-			public const int test_toolbar = 2131427433;
+			public const int test_design_checkbox = 2131427433;
 			
 			// aapt resource value: 0x7F0B006A
-			public const int test_toolbar_custom_background = 2131427434;
+			public const int test_design_radiobutton = 2131427434;
 			
 			// aapt resource value: 0x7F0B006B
-			public const int test_toolbar_elevation = 2131427435;
+			public const int test_reflow_chipgroup = 2131427435;
 			
 			// aapt resource value: 0x7F0B006C
-			public const int test_toolbar_surface = 2131427436;
-			
-			// aapt resource value: 0x7F0B0071
-			public const int text_view_without_line_height = 2131427441;
+			public const int test_toolbar = 2131427436;
 			
 			// aapt resource value: 0x7F0B006D
-			public const int text_view_with_line_height_from_appearance = 2131427437;
+			public const int test_toolbar_custom_background = 2131427437;
 			
 			// aapt resource value: 0x7F0B006E
-			public const int text_view_with_line_height_from_layout = 2131427438;
+			public const int test_toolbar_elevation = 2131427438;
 			
 			// aapt resource value: 0x7F0B006F
-			public const int text_view_with_line_height_from_style = 2131427439;
+			public const int test_toolbar_surface = 2131427439;
+			
+			// aapt resource value: 0x7F0B0074
+			public const int text_view_without_line_height = 2131427444;
 			
 			// aapt resource value: 0x7F0B0070
-			public const int text_view_with_theme_line_height = 2131427440;
+			public const int text_view_with_line_height_from_appearance = 2131427440;
+			
+			// aapt resource value: 0x7F0B0071
+			public const int text_view_with_line_height_from_layout = 2131427441;
 			
 			// aapt resource value: 0x7F0B0072
-			public const int Toolbar = 2131427442;
+			public const int text_view_with_line_height_from_style = 2131427442;
+			
+			// aapt resource value: 0x7F0B0073
+			public const int text_view_with_theme_line_height = 2131427443;
+			
+			// aapt resource value: 0x7F0B0075
+			public const int Toolbar = 2131427445;
 			
 			static Layout()
 			{

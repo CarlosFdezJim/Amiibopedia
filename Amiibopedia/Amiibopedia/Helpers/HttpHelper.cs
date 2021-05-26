@@ -9,10 +9,10 @@ namespace Amiibopedia.Helpers
 {
     public class HttpHelper<T>
     {
-        public async Task<T> GetRestServiceDataAsync(string serviceAddres)
+        public async Task<T> GetRestServiceDataAsync(string serviceAddress)
         {
             var client = new HttpClient();
-            client.BaseAddress = new Uri(serviceAddres);
+            client.BaseAddress = new Uri(serviceAddress);
             var response =
                 await client.GetAsync(client.BaseAddress);
             response.EnsureSuccessStatusCode();
